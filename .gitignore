@@ -2,4 +2,8 @@ data/
 .env
 .DS_Store
 models/checkpoints/
-output.png
+models/test_images/
+*.png
+*.json
+*.zip
+*__pycache__/
