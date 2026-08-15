@@ -3,3 +3,5 @@ __pycache__/
 .venv/
 data/tile_preview.png
 data/mixeduse-agricultural-fields/
+.playwright-mcp
+.claude

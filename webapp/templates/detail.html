@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Paddle Gallery · Detail</title>
+    <link rel="icon" href="/static/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Paddle Gallery</h1>
+        <p class="subtitle">Image detail</p>
+      </div>
+      <a class="back-link" href="/">&larr; Back to gallery</a>
+    </header>
+
+    <main>
+      {% if name %}
+      <section class="status-card" aria-label="Leaf status">
+        <div class="status-heading">
+          <h2>Leaf status</h2>
+          <span class="status-label">{{ status.label }}</span>
+        </div>
+        <div class="status-bar">
+          <div class="status-marker" style="left: {{ status.score }}%;"></div>
+        </div>
+        <div class="status-scale">
+          <span>Healthy</span>
+          <span>Dry</span>
+        </div>
+      </section>
+
+      <section class="detail">
+        <div class="detail-image">
+          <img src="/images/{{ name }}" alt="{{ name }}" />
+          <p class="detail-caption">{{ name }}</p>
+        </div>
+
+        <aside class="traits-panel" aria-label="Plant traits">
+          <h2>Traits</h2>
+          <dl class="traits-list">
+            {% for trait in traits %}
+            <div class="trait-row">
+              <dt>{{ trait.label }}</dt>
+              <dd>{{ trait.value }} <span class="unit">{{ trait.unit }}</span></dd>
+            </div>
+            {% endfor %}
+          </dl>
+          <p class="traits-note">Mock values for demo purposes.</p>
+        </aside>
+      </section>
+
+      <div class="detail-actions">
+        <a class="select-btn" href="/">&larr; Back to gallery</a>
+      </div>
+      {% else %}
+      <p class="empty-detail">
+        No image selected yet. Go back to the gallery and pick one.
+      </p>
+      <div class="detail-actions">
+        <a class="select-btn" href="/">&larr; Back to gallery</a>
+      </div>
+      {% endif %}
+    </main>
+  </body>
+</html>
