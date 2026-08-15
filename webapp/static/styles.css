@@ -1,11 +1,15 @@
 :root {
-  --bg: #0e1116;
-  --bg-soft: #161b22;
-  --panel: #1c2230;
-  --text: #e6edf3;
-  --muted: #8b98a9;
-  --accent: #5aa9ff;
-  --accent-strong: #2f7ddb;
+  --bg: #223128;
+  --bg-soft: #344c3d;
+  --panel: #455c49;
+  --border: #4f6650;
+  --divider: #304235;
+  --hover-bg: #5a7057;
+  --highlight: #536a52;
+  --text: #f4f3f1;
+  --muted: #c1c9b8;
+  --accent: #d8959b;
+  --accent-strong: #ad777c;
   --card-w: 280px;
   --card-h: 370px;
 }
@@ -21,7 +25,7 @@ body {
 }
 
 body {
-  background: radial-gradient(120% 120% at 50% 0%, #182031 0%, var(--bg) 55%);
+  background: radial-gradient(120% 120% at 50% 0%, var(--highlight) 0%, var(--bg) 55%);
   color: var(--text);
   font-family: "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial,
     sans-serif;
@@ -37,8 +41,8 @@ body {
   flex-wrap: wrap;
   gap: 0.6rem 1rem;
   padding: 1.1rem 1.6rem;
-  border-bottom: 1px solid #262d3a;
-  background: rgba(14, 17, 22, 0.6);
+  border-bottom: 1px solid var(--divider);
+  background: rgba(34, 49, 40, 0.6);
   backdrop-filter: blur(6px);
 }
 
@@ -62,7 +66,7 @@ body {
   padding: 0.5rem 0.9rem;
   border-radius: 999px;
   background: var(--panel);
-  border: 1px solid #2b3446;
+  border: 1px solid var(--border);
   font-size: 0.85rem;
   color: var(--muted);
   max-width: min(40ch, 60vw);
@@ -121,7 +125,7 @@ main {
   border-radius: 14px;
   overflow: hidden;
   background: var(--bg-soft);
-  border: 1px solid #2b3446;
+  border: 1px solid var(--border);
   box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45);
   cursor: pointer;
   transition: transform 0.45s cubic-bezier(0.22, 0.61, 0.36, 1),
@@ -183,7 +187,7 @@ main {
   width: 48px;
   height: 48px;
   border-radius: 50%;
-  border: 1px solid #2b3446;
+  border: 1px solid var(--border);
   background: var(--panel);
   color: var(--text);
   font-size: 1.6rem;
@@ -194,7 +198,7 @@ main {
 }
 
 .nav:hover {
-  background: #232c3d;
+  background: var(--hover-bg);
 }
 
 .nav:active {
@@ -221,7 +225,7 @@ main {
   font-weight: 600;
   border: none;
   border-radius: 10px;
-  color: #fff;
+  color: var(--text);
   background: linear-gradient(180deg, var(--accent), var(--accent-strong));
   cursor: pointer;
   text-decoration: none;
@@ -263,7 +267,7 @@ main {
 }
 
 code {
-  background: #232c3d;
+  background: var(--hover-bg);
   padding: 0.1rem 0.35rem;
   border-radius: 5px;
 }
@@ -291,7 +295,7 @@ code {
   max-width: 1100px;
   width: 100%;
   background: var(--panel);
-  border: 1px solid #2b3446;
+  border: 1px solid var(--border);
   border-radius: 14px;
   padding: 1.4rem 1.6rem;
 }
@@ -353,9 +357,9 @@ code {
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  background: #fff;
+  background: var(--text);
   border: 3px solid var(--bg);
-  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.9), 0 4px 14px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 0 0 2px rgba(244, 243, 241, 0.9), 0 4px 14px rgba(0, 0, 0, 0.6);
   font-size: 1.3rem;
   line-height: 1;
   transform: translate(-50%, -50%);
@@ -388,7 +392,7 @@ code {
   height: auto;
   display: block;
   border-radius: 14px;
-  border: 1px solid #2b3446;
+  border: 1px solid var(--border);
   box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45);
 }
 
@@ -404,7 +408,7 @@ code {
   display: flex;
   flex-direction: column;
   background: var(--panel);
-  border: 1px solid #2b3446;
+  border: 1px solid var(--border);
   border-radius: 14px;
   padding: 1.4rem;
 }
@@ -424,7 +428,7 @@ code {
   justify-content: space-between;
   align-items: baseline;
   padding: 0.6rem 0;
-  border-bottom: 1px solid #262d3a;
+  border-bottom: 1px solid var(--divider);
 }
 
 .trait-row:last-child {
@@ -452,7 +456,7 @@ code {
 .trait-divider {
   margin-top: 0.8rem;
   padding-top: 0.7rem;
-  border-top: 1px dashed #2b3446;
+  border-top: 1px dashed var(--border);
   color: var(--muted);
   font-size: 0.68rem;
   text-transform: uppercase;
