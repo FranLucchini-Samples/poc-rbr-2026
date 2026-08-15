@@ -59,6 +59,13 @@ def msavi(bands):
     return (2 * nir + 1 - np.sqrt(discriminant)) / 2
 
 
+def ndwi_ndvi_masked(bands, th=0.1):
+    """NDWI with pixels where NDVI > th is kept; the rest is set to NaN."""
+    ndvi_vals = ndvi(bands)
+    ndwi_vals = ndwi(bands)
+    return ndwi_vals.where(ndvi_vals > th)
+
+
 # Each spec: index function, colormap, and a fixed (vmin, vmax) for
 # normalized-difference-style indices bounded to [-1, 1]; None lets
 # matplotlib scale to the data for the unbounded ratio indices.
@@ -72,4 +79,5 @@ INDEX_SPECS = {
     "SAVI": (savi, "RdYlGn", (-1, 1)),
     "OSAVI": (osavi, "RdYlGn", (-1, 1)),
     "MSAVI": (msavi, "RdYlGn", (-1, 1)),
+    "NDWI (NDVI≤1)": (ndwi_ndvi_masked, "RdYlBu", (-1, 1)),
 }

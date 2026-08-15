@@ -4,6 +4,7 @@ in indices.py; this module only reads files and plots them.
 """
 
 from pathlib import Path
+import re
 
 import cv2
 import geopandas as gpd
@@ -72,14 +73,21 @@ def plot_preview(band_paths, rgb_path):
 
 
 def plot_indices(bands):
-    fig, axes = plt.subplots(3, 3, figsize=(18, 15))
+    fig, axes = plt.subplots(4, 3, figsize=(18, 20))
     fig.suptitle(f"Spectral indices — tile {TILE_ID} (RED/GREEN/NIR/RED-EDGE only)")
 
     for ax, (name, (fn, cmap, value_range)) in zip(axes.flat, INDEX_SPECS.items()):
         result = fn(bands)
-        vmin, vmax = value_range if value_range else (None, None)
-        result.plot(ax=ax, cmap=cmap, vmin=vmin, vmax=vmax, add_colorbar=True)
+        data = result.values
+        # data = np.flipud(result.values)
+        vmin, vmax = value_range if value_range else (float(np.nanmin(data)), float(np.nanmax(data)))
+        im = ax.imshow(data, cmap=cmap, vmin=vmin, vmax=vmax)
+        fig.colorbar(im, ax=ax, fraction=0.046)
         ax.set_title(f"{name} (mean={float(result.mean()):.2f})")
+        ax.axis("off")
+
+    # Hide any unused axes in the grid
+    for ax in axes.flat[len(INDEX_SPECS):]:
         ax.axis("off")
 
     plt.tight_layout()
@@ -95,9 +103,12 @@ def main() -> None:
         for name, path in band_paths.items()
     }
 
+    # Print all bands names
+    print("Bands:", ", ".join(bands.keys()))
+
     plot_preview(band_paths, rgb_path)
     plot_indices(bands)
-    plt.show()
+    # plt.show()
 
 
 if __name__ == "__main__":
