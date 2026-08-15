@@ -11,7 +11,9 @@
     <header class="topbar">
       <div>
         <h1>Paddle Gallery</h1>
-        <p class="subtitle">{{ count }} images · {{ image_dir }}</p>
+        <p class="subtitle" title="{{ image_dir }}">
+          {{ dataset_label }} · {{ count }} images
+        </p>
       </div>
       <div class="header-actions">
         <div class="selection" id="selection">No image selected</div>
@@ -36,6 +38,7 @@
       <section class="controls">
         <span class="caption" id="caption">&nbsp;</span>
         <button class="select-btn" id="select" disabled>Select this image</button>
+        <p class="hint">Use &larr; &rarr;, scroll, or swipe to browse</p>
       </section>
     </main>
 

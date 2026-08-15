@@ -24,7 +24,7 @@
           <span class="status-label">{{ status.label }}</span>
         </div>
         <div class="status-bar">
-          <div class="status-marker" style="left: {{ status.score }}%;"></div>
+          <div class="status-marker" style="left: {{ status.score }}%;">{{ status.emoji }}</div>
         </div>
         <div class="status-scale">
           <span>Healthy</span>
@@ -42,6 +42,9 @@
           <h2>Traits</h2>
           <dl class="traits-list">
             {% for trait in traits %}
+            {% if trait.key == "weight" %}
+            <div class="trait-divider">Other measurements</div>
+            {% endif %}
             <div class="trait-row">
               <dt>{{ trait.label }}</dt>
               <dd>{{ trait.value }} <span class="unit">{{ trait.unit }}</span></dd>

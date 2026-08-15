@@ -1,0 +1,608 @@
+{
+  "Avocado": {
+    "fmc": {
+      "n": 520,
+      "mean": 65.038,
+      "std": 49.55,
+      "median": 62.357,
+      "min": 0.0,
+      "max": 196.364,
+      "tiers": [
+        {
+          "tier": 1,
+          "label": "very low",
+          "range": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "tier": 2,
+          "label": "low",
+          "range": [
+            0.0,
+            40.262
+          ]
+        },
+        {
+          "tier": 3,
+          "label": "medium",
+          "range": [
+            40.262,
+            89.813
+          ]
+        },
+        {
+          "tier": 4,
+          "label": "high",
+          "range": [
+            89.813,
+            139.363
+          ]
+        },
+        {
+          "tier": 5,
+          "label": "very high",
+          "range": [
+            139.363,
+            196.364
+          ]
+        }
+      ]
+    },
+    "chlorophyll": {
+      "n": 520,
+      "mean": 68.097,
+      "std": 13.213,
+      "median": 66.517,
+      "min": 12.2,
+      "max": 99.9,
+      "tiers": [
+        {
+          "tier": 1,
+          "label": "very low",
+          "range": [
+            12.2,
+            48.278
+          ]
+        },
+        {
+          "tier": 2,
+          "label": "low",
+          "range": [
+            48.278,
+            61.491
+          ]
+        },
+        {
+          "tier": 3,
+          "label": "medium",
+          "range": [
+            61.491,
+            74.704
+          ]
+        },
+        {
+          "tier": 4,
+          "label": "high",
+          "range": [
+            74.704,
+            87.917
+          ]
+        },
+        {
+          "tier": 5,
+          "label": "very high",
+          "range": [
+            87.917,
+            99.9
+          ]
+        }
+      ]
+    },
+    "nitrogen": {
+      "n": 520,
+      "mean": 20.968,
+      "std": 4.012,
+      "median": 20.517,
+      "min": 4.2,
+      "max": 30.5,
+      "tiers": [
+        {
+          "tier": 1,
+          "label": "very low",
+          "range": [
+            4.2,
+            14.95
+          ]
+        },
+        {
+          "tier": 2,
+          "label": "low",
+          "range": [
+            14.95,
+            18.962
+          ]
+        },
+        {
+          "tier": 3,
+          "label": "medium",
+          "range": [
+            18.962,
+            22.974
+          ]
+        },
+        {
+          "tier": 4,
+          "label": "high",
+          "range": [
+            22.974,
+            26.985
+          ]
+        },
+        {
+          "tier": 5,
+          "label": "very high",
+          "range": [
+            26.985,
+            30.5
+          ]
+        }
+      ]
+    },
+    "weight": {
+      "n": 520,
+      "mean": 0.999,
+      "std": 0.463,
+      "median": 0.931,
+      "min": 0.206,
+      "max": 2.553,
+      "tiers": [
+        {
+          "tier": 1,
+          "label": "very low",
+          "range": [
+            0.206,
+            0.304
+          ]
+        },
+        {
+          "tier": 2,
+          "label": "low",
+          "range": [
+            0.304,
+            0.767
+          ]
+        },
+        {
+          "tier": 3,
+          "label": "medium",
+          "range": [
+            0.767,
+            1.231
+          ]
+        },
+        {
+          "tier": 4,
+          "label": "high",
+          "range": [
+            1.231,
+            1.694
+          ]
+        },
+        {
+          "tier": 5,
+          "label": "very high",
+          "range": [
+            1.694,
+            2.553
+          ]
+        }
+      ]
+    }
+  },
+  "Olive": {
+    "fmc": {
+      "n": 555,
+      "mean": 55.4,
+      "std": 43.422,
+      "median": 50.382,
+      "min": 0.0,
+      "max": 154.11,
+      "tiers": [
+        {
+          "tier": 1,
+          "label": "very low",
+          "range": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "tier": 2,
+          "label": "low",
+          "range": [
+            0.0,
+            33.689
+          ]
+        },
+        {
+          "tier": 3,
+          "label": "medium",
+          "range": [
+            33.689,
+            77.111
+          ]
+        },
+        {
+          "tier": 4,
+          "label": "high",
+          "range": [
+            77.111,
+            120.534
+          ]
+        },
+        {
+          "tier": 5,
+          "label": "very high",
+          "range": [
+            120.534,
+            154.11
+          ]
+        }
+      ]
+    },
+    "chlorophyll": {
+      "n": 555,
+      "mean": 80.381,
+      "std": 7.868,
+      "median": 81.6,
+      "min": 50.4,
+      "max": 93.9,
+      "tiers": [
+        {
+          "tier": 1,
+          "label": "very low",
+          "range": [
+            50.4,
+            68.58
+          ]
+        },
+        {
+          "tier": 2,
+          "label": "low",
+          "range": [
+            68.58,
+            76.448
+          ]
+        },
+        {
+          "tier": 3,
+          "label": "medium",
+          "range": [
+            76.448,
+            84.315
+          ]
+        },
+        {
+          "tier": 4,
+          "label": "high",
+          "range": [
+            84.315,
+            92.183
+          ]
+        },
+        {
+          "tier": 5,
+          "label": "very high",
+          "range": [
+            92.183,
+            93.9
+          ]
+        }
+      ]
+    },
+    "nitrogen": {
+      "n": 555,
+      "mean": 24.665,
+      "std": 2.376,
+      "median": 25.0,
+      "min": 14.0,
+      "max": 28.7,
+      "tiers": [
+        {
+          "tier": 1,
+          "label": "very low",
+          "range": [
+            14.0,
+            21.1
+          ]
+        },
+        {
+          "tier": 2,
+          "label": "low",
+          "range": [
+            21.1,
+            23.477
+          ]
+        },
+        {
+          "tier": 3,
+          "label": "medium",
+          "range": [
+            23.477,
+            25.853
+          ]
+        },
+        {
+          "tier": 4,
+          "label": "high",
+          "range": [
+            25.853,
+            28.229
+          ]
+        },
+        {
+          "tier": 5,
+          "label": "very high",
+          "range": [
+            28.229,
+            28.7
+          ]
+        }
+      ]
+    },
+    "weight": {
+      "n": 555,
+      "mean": 0.23,
+      "std": 0.08,
+      "median": 0.217,
+      "min": 0.103,
+      "max": 0.525,
+      "tiers": [
+        {
+          "tier": 1,
+          "label": "very low",
+          "range": [
+            0.103,
+            0.11
+          ]
+        },
+        {
+          "tier": 2,
+          "label": "low",
+          "range": [
+            0.11,
+            0.19
+          ]
+        },
+        {
+          "tier": 3,
+          "label": "medium",
+          "range": [
+            0.19,
+            0.27
+          ]
+        },
+        {
+          "tier": 4,
+          "label": "high",
+          "range": [
+            0.27,
+            0.349
+          ]
+        },
+        {
+          "tier": 5,
+          "label": "very high",
+          "range": [
+            0.349,
+            0.525
+          ]
+        }
+      ]
+    }
+  },
+  "Vineyard": {
+    "fmc": {
+      "n": 520,
+      "mean": 119.394,
+      "std": 91.332,
+      "median": 114.842,
+      "min": 0.0,
+      "max": 377.41,
+      "tiers": [
+        {
+          "tier": 1,
+          "label": "very low",
+          "range": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "tier": 2,
+          "label": "low",
+          "range": [
+            0.0,
+            73.728
+          ]
+        },
+        {
+          "tier": 3,
+          "label": "medium",
+          "range": [
+            73.728,
+            165.06
+          ]
+        },
+        {
+          "tier": 4,
+          "label": "high",
+          "range": [
+            165.06,
+            256.392
+          ]
+        },
+        {
+          "tier": 5,
+          "label": "very high",
+          "range": [
+            256.392,
+            377.41
+          ]
+        }
+      ]
+    },
+    "chlorophyll": {
+      "n": 520,
+      "mean": 36.496,
+      "std": 40.804,
+      "median": 33.1,
+      "min": 3.7,
+      "max": 900.0,
+      "tiers": [
+        {
+          "tier": 1,
+          "label": "very low",
+          "range": [
+            3.7,
+            3.7
+          ]
+        },
+        {
+          "tier": 2,
+          "label": "low",
+          "range": [
+            3.7,
+            16.094
+          ]
+        },
+        {
+          "tier": 3,
+          "label": "medium",
+          "range": [
+            16.094,
+            56.898
+          ]
+        },
+        {
+          "tier": 4,
+          "label": "high",
+          "range": [
+            56.898,
+            97.702
+          ]
+        },
+        {
+          "tier": 5,
+          "label": "very high",
+          "range": [
+            97.702,
+            900.0
+          ]
+        }
+      ]
+    },
+    "nitrogen": {
+      "n": 520,
+      "mean": 10.892,
+      "std": 2.59,
+      "median": 10.5,
+      "min": 5.5,
+      "max": 23.3,
+      "tiers": [
+        {
+          "tier": 1,
+          "label": "very low",
+          "range": [
+            5.5,
+            7.008
+          ]
+        },
+        {
+          "tier": 2,
+          "label": "low",
+          "range": [
+            7.008,
+            9.598
+          ]
+        },
+        {
+          "tier": 3,
+          "label": "medium",
+          "range": [
+            9.598,
+            12.187
+          ]
+        },
+        {
+          "tier": 4,
+          "label": "high",
+          "range": [
+            12.187,
+            14.777
+          ]
+        },
+        {
+          "tier": 5,
+          "label": "very high",
+          "range": [
+            14.777,
+            23.3
+          ]
+        }
+      ]
+    },
+    "weight": {
+      "n": 520,
+      "mean": 1.628,
+      "std": 0.987,
+      "median": 1.429,
+      "min": 0.15,
+      "max": 5.109,
+      "tiers": [
+        {
+          "tier": 1,
+          "label": "very low",
+          "range": [
+            0.15,
+            0.15
+          ]
+        },
+        {
+          "tier": 2,
+          "label": "low",
+          "range": [
+            0.15,
+            1.134
+          ]
+        },
+        {
+          "tier": 3,
+          "label": "medium",
+          "range": [
+            1.134,
+            2.121
+          ]
+        },
+        {
+          "tier": 4,
+          "label": "high",
+          "range": [
+            2.121,
+            3.108
+          ]
+        },
+        {
+          "tier": 5,
+          "label": "very high",
+          "range": [
+            3.108,
+            5.109
+          ]
+        }
+      ]
+    }
+  }
+}

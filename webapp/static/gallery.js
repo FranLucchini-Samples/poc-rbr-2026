@@ -14,7 +14,7 @@ let cards = [];
 let current = 0;
 
 // Geometry of the fanned-out "paddle".
-const SPREAD = 150; // horizontal px between neighbouring cards
+const SPREAD = 165; // horizontal px between neighbouring cards
 const DEPTH = 120; // how far back side cards sit (px)
 const ROTATION = 42; // yaw of side cards (deg)
 const VISIBLE = 4; // cards shown on each side of the centre

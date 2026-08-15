@@ -24,6 +24,13 @@
       "species": "Avocado",
       "leaf": 89,
       "stage": 2,
+      "images": [
+        "leaf089d2_1.tif",
+        "leaf089d2_2.tif",
+        "leaf089d2_3.tif",
+        "leaf089d2_4.tif",
+        "leaf089d2_5.tif"
+      ],
       "actual": {
         "fmc": 56.28140640258789,
         "chlorophyll": 58.63333511352539,
@@ -41,6 +48,13 @@
       "species": "Avocado",
       "leaf": 65,
       "stage": 4,
+      "images": [
+        "leaf065d4_1.tif",
+        "leaf065d4_2.tif",
+        "leaf065d4_3.tif",
+        "leaf065d4_4.tif",
+        "leaf065d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 90.0,
@@ -58,6 +72,13 @@
       "species": "Avocado",
       "leaf": 99,
       "stage": 2,
+      "images": [
+        "leaf099d2_1.tif",
+        "leaf099d2_2.tif",
+        "leaf099d2_3.tif",
+        "leaf099d2_4.tif",
+        "leaf099d2_5.tif"
+      ],
       "actual": {
         "fmc": 55.769229888916016,
         "chlorophyll": 61.233333587646484,
@@ -75,6 +96,13 @@
       "species": "Avocado",
       "leaf": 16,
       "stage": 0,
+      "images": [
+        "leaf016d0_1.tif",
+        "leaf016d0_2.tif",
+        "leaf016d0_3.tif",
+        "leaf016d0_4.tif",
+        "leaf016d0_5.tif"
+      ],
       "actual": {
         "fmc": 127.76148223876953,
         "chlorophyll": 61.099998474121094,
@@ -92,6 +120,13 @@
       "species": "Avocado",
       "leaf": 6,
       "stage": 0,
+      "images": [
+        "leaf006d0_1.tif",
+        "leaf006d0_2.tif",
+        "leaf006d0_3.tif",
+        "leaf006d0_4.tif",
+        "leaf006d0_5.tif"
+      ],
       "actual": {
         "fmc": 152.22840881347656,
         "chlorophyll": 62.20000076293945,
@@ -109,6 +144,13 @@
       "species": "Avocado",
       "leaf": 89,
       "stage": 0,
+      "images": [
+        "leaf089d0_1.tif",
+        "leaf089d0_2.tif",
+        "leaf089d0_3.tif",
+        "leaf089d0_4.tif",
+        "leaf089d0_5.tif"
+      ],
       "actual": {
         "fmc": 118.92797088623047,
         "chlorophyll": 56.20000076293945,
@@ -126,6 +168,13 @@
       "species": "Avocado",
       "leaf": 99,
       "stage": 0,
+      "images": [
+        "leaf099d0_1.tif",
+        "leaf099d0_2.tif",
+        "leaf099d0_3.tif",
+        "leaf099d0_4.tif",
+        "leaf099d0_5.tif"
+      ],
       "actual": {
         "fmc": 124.1258773803711,
         "chlorophyll": 53.599998474121094,
@@ -143,6 +192,13 @@
       "species": "Avocado",
       "leaf": 16,
       "stage": 2,
+      "images": [
+        "leaf016d2_1.tif",
+        "leaf016d2_2.tif",
+        "leaf016d2_3.tif",
+        "leaf016d2_4.tif",
+        "leaf016d2_5.tif"
+      ],
       "actual": {
         "fmc": 85.63050079345703,
         "chlorophyll": 75.9000015258789,
@@ -160,6 +216,13 @@
       "species": "Avocado",
       "leaf": 6,
       "stage": 2,
+      "images": [
+        "leaf006d2_1.tif",
+        "leaf006d2_2.tif",
+        "leaf006d2_3.tif",
+        "leaf006d2_4.tif",
+        "leaf006d2_5.tif"
+      ],
       "actual": {
         "fmc": 79.10863494873047,
         "chlorophyll": 90.5,
@@ -177,6 +240,13 @@
       "species": "Avocado",
       "leaf": 59,
       "stage": 3,
+      "images": [
+        "leaf059d3_1.tif",
+        "leaf059d3_2.tif",
+        "leaf059d3_3.tif",
+        "leaf059d3_4.tif",
+        "leaf059d3_5.tif"
+      ],
       "actual": {
         "fmc": 12.903225898742676,
         "chlorophyll": 62.29999923706055,
@@ -194,6 +264,13 @@
       "species": "Avocado",
       "leaf": 64,
       "stage": 2,
+      "images": [
+        "leaf064d2_1.tif",
+        "leaf064d2_2.tif",
+        "leaf064d2_3.tif",
+        "leaf064d2_4.tif",
+        "leaf064d2_5.tif"
+      ],
       "actual": {
         "fmc": 61.450382232666016,
         "chlorophyll": 68.69999694824219,
@@ -211,6 +288,13 @@
       "species": "Avocado",
       "leaf": 67,
       "stage": 3,
+      "images": [
+        "leaf067d3_1.tif",
+        "leaf067d3_2.tif",
+        "leaf067d3_3.tif",
+        "leaf067d3_4.tif",
+        "leaf067d3_5.tif"
+      ],
       "actual": {
         "fmc": 32.66033172607422,
         "chlorophyll": 82.46666717529297,
@@ -228,6 +312,13 @@
       "species": "Avocado",
       "leaf": 29,
       "stage": 0,
+      "images": [
+        "leaf029d0_1.tif",
+        "leaf029d0_2.tif",
+        "leaf029d0_3.tif",
+        "leaf029d0_4.tif",
+        "leaf029d0_5.tif"
+      ],
       "actual": {
         "fmc": 139.5781707763672,
         "chlorophyll": 66.96666717529297,
@@ -245,6 +336,13 @@
       "species": "Avocado",
       "leaf": 65,
       "stage": 2,
+      "images": [
+        "leaf065d2_1.tif",
+        "leaf065d2_2.tif",
+        "leaf065d2_3.tif",
+        "leaf065d2_4.tif",
+        "leaf065d2_5.tif"
+      ],
       "actual": {
         "fmc": 75.84415435791016,
         "chlorophyll": 70.73332977294922,
@@ -262,6 +360,13 @@
       "species": "Avocado",
       "leaf": 99,
       "stage": 4,
+      "images": [
+        "leaf099d4_1.tif",
+        "leaf099d4_2.tif",
+        "leaf099d4_3.tif",
+        "leaf099d4_4.tif",
+        "leaf099d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 76.0999984741211,
@@ -279,6 +384,13 @@
       "species": "Avocado",
       "leaf": 89,
       "stage": 4,
+      "images": [
+        "leaf089d4_1.tif",
+        "leaf089d4_2.tif",
+        "leaf089d4_3.tif",
+        "leaf089d4_4.tif",
+        "leaf089d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 63.79999923706055,
@@ -296,6 +408,13 @@
       "species": "Avocado",
       "leaf": 64,
       "stage": 0,
+      "images": [
+        "leaf064d0_1.tif",
+        "leaf064d0_2.tif",
+        "leaf064d0_3.tif",
+        "leaf064d0_4.tif",
+        "leaf064d0_5.tif"
+      ],
       "actual": {
         "fmc": 140.4580078125,
         "chlorophyll": 55.099998474121094,
@@ -313,6 +432,13 @@
       "species": "Avocado",
       "leaf": 67,
       "stage": 1,
+      "images": [
+        "leaf067d1_1.tif",
+        "leaf067d1_2.tif",
+        "leaf067d1_3.tif",
+        "leaf067d1_4.tif",
+        "leaf067d1_5.tif"
+      ],
       "actual": {
         "fmc": 100.2375259399414,
         "chlorophyll": 79.5999984741211,
@@ -330,6 +456,13 @@
       "species": "Avocado",
       "leaf": 29,
       "stage": 2,
+      "images": [
+        "leaf029d2_1.tif",
+        "leaf029d2_2.tif",
+        "leaf029d2_3.tif",
+        "leaf029d2_4.tif",
+        "leaf029d2_5.tif"
+      ],
       "actual": {
         "fmc": 80.76923370361328,
         "chlorophyll": 63.53333282470703,
@@ -347,6 +480,13 @@
       "species": "Avocado",
       "leaf": 59,
       "stage": 1,
+      "images": [
+        "leaf059d1_1.tif",
+        "leaf059d1_2.tif",
+        "leaf059d1_3.tif",
+        "leaf059d1_4.tif",
+        "leaf059d1_5.tif"
+      ],
       "actual": {
         "fmc": 82.4372787475586,
         "chlorophyll": 63.70000076293945,
@@ -364,6 +504,13 @@
       "species": "Avocado",
       "leaf": 29,
       "stage": 4,
+      "images": [
+        "leaf029d4_1.tif",
+        "leaf029d4_2.tif",
+        "leaf029d4_3.tif",
+        "leaf029d4_4.tif",
+        "leaf029d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 90.19999694824219,
@@ -381,6 +528,13 @@
       "species": "Avocado",
       "leaf": 64,
       "stage": 4,
+      "images": [
+        "leaf064d4_1.tif",
+        "leaf064d4_2.tif",
+        "leaf064d4_3.tif",
+        "leaf064d4_4.tif",
+        "leaf064d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 91.69999694824219,
@@ -398,6 +552,13 @@
       "species": "Avocado",
       "leaf": 65,
       "stage": 0,
+      "images": [
+        "leaf065d0_1.tif",
+        "leaf065d0_2.tif",
+        "leaf065d0_3.tif",
+        "leaf065d0_4.tif",
+        "leaf065d0_5.tif"
+      ],
       "actual": {
         "fmc": 147.40260314941406,
         "chlorophyll": 55.33333206176758,
@@ -415,6 +576,13 @@
       "species": "Avocado",
       "leaf": 16,
       "stage": 4,
+      "images": [
+        "leaf016d4_1.tif",
+        "leaf016d4_2.tif",
+        "leaf016d4_3.tif",
+        "leaf016d4_4.tif",
+        "leaf016d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 72.0,
@@ -432,6 +600,13 @@
       "species": "Avocado",
       "leaf": 6,
       "stage": 4,
+      "images": [
+        "leaf006d4_1.tif",
+        "leaf006d4_2.tif",
+        "leaf006d4_3.tif",
+        "leaf006d4_4.tif",
+        "leaf006d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 99.9000015258789,
@@ -449,6 +624,13 @@
       "species": "Avocado",
       "leaf": 29,
       "stage": 3,
+      "images": [
+        "leaf029d3_1.tif",
+        "leaf029d3_2.tif",
+        "leaf029d3_3.tif",
+        "leaf029d3_4.tif",
+        "leaf029d3_5.tif"
+      ],
       "actual": {
         "fmc": 53.225807189941406,
         "chlorophyll": 67.80000305175781,
@@ -466,6 +648,13 @@
       "species": "Avocado",
       "leaf": 64,
       "stage": 3,
+      "images": [
+        "leaf064d3_1.tif",
+        "leaf064d3_2.tif",
+        "leaf064d3_3.tif",
+        "leaf064d3_4.tif",
+        "leaf064d3_5.tif"
+      ],
       "actual": {
         "fmc": 31.424936294555664,
         "chlorophyll": 67.5999984741211,
@@ -483,6 +672,13 @@
       "species": "Avocado",
       "leaf": 65,
       "stage": 1,
+      "images": [
+        "leaf065d1_1.tif",
+        "leaf065d1_2.tif",
+        "leaf065d1_3.tif",
+        "leaf065d1_4.tif",
+        "leaf065d1_5.tif"
+      ],
       "actual": {
         "fmc": 110.64935302734375,
         "chlorophyll": 71.93333435058594,
@@ -500,6 +696,13 @@
       "species": "Avocado",
       "leaf": 67,
       "stage": 2,
+      "images": [
+        "leaf067d2_1.tif",
+        "leaf067d2_2.tif",
+        "leaf067d2_3.tif",
+        "leaf067d2_4.tif",
+        "leaf067d2_5.tif"
+      ],
       "actual": {
         "fmc": 63.06413269042969,
         "chlorophyll": 81.86666870117188,
@@ -517,6 +720,13 @@
       "species": "Avocado",
       "leaf": 29,
       "stage": 1,
+      "images": [
+        "leaf029d1_1.tif",
+        "leaf029d1_2.tif",
+        "leaf029d1_3.tif",
+        "leaf029d1_4.tif",
+        "leaf029d1_5.tif"
+      ],
       "actual": {
         "fmc": 108.06451416015625,
         "chlorophyll": 69.23332977294922,
@@ -534,6 +744,13 @@
       "species": "Avocado",
       "leaf": 99,
       "stage": 1,
+      "images": [
+        "leaf099d1_1.tif",
+        "leaf099d1_2.tif",
+        "leaf099d1_3.tif",
+        "leaf099d1_4.tif",
+        "leaf099d1_5.tif"
+      ],
       "actual": {
         "fmc": 88.46154022216797,
         "chlorophyll": 65.06666564941406,
@@ -551,6 +768,13 @@
       "species": "Avocado",
       "leaf": 89,
       "stage": 1,
+      "images": [
+        "leaf089d1_1.tif",
+        "leaf089d1_2.tif",
+        "leaf089d1_3.tif",
+        "leaf089d1_4.tif",
+        "leaf089d1_5.tif"
+      ],
       "actual": {
         "fmc": 86.09715270996094,
         "chlorophyll": 59.53333282470703,
@@ -568,6 +792,13 @@
       "species": "Avocado",
       "leaf": 6,
       "stage": 3,
+      "images": [
+        "leaf006d3_1.tif",
+        "leaf006d3_2.tif",
+        "leaf006d3_3.tif",
+        "leaf006d3_4.tif",
+        "leaf006d3_5.tif"
+      ],
       "actual": {
         "fmc": 41.50417709350586,
         "chlorophyll": 76.16666412353516,
@@ -585,6 +816,13 @@
       "species": "Avocado",
       "leaf": 16,
       "stage": 3,
+      "images": [
+        "leaf016d3_1.tif",
+        "leaf016d3_2.tif",
+        "leaf016d3_3.tif",
+        "leaf016d3_4.tif",
+        "leaf016d3_5.tif"
+      ],
       "actual": {
         "fmc": 66.3734130859375,
         "chlorophyll": 66.9000015258789,
@@ -602,6 +840,13 @@
       "species": "Avocado",
       "leaf": 67,
       "stage": 4,
+      "images": [
+        "leaf067d4_1.tif",
+        "leaf067d4_2.tif",
+        "leaf067d4_3.tif",
+        "leaf067d4_4.tif",
+        "leaf067d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 93.80000305175781,
@@ -619,6 +864,13 @@
       "species": "Avocado",
       "leaf": 59,
       "stage": 0,
+      "images": [
+        "leaf059d0_1.tif",
+        "leaf059d0_2.tif",
+        "leaf059d0_3.tif",
+        "leaf059d0_4.tif",
+        "leaf059d0_5.tif"
+      ],
       "actual": {
         "fmc": 134.05018615722656,
         "chlorophyll": 51.0,
@@ -636,6 +888,13 @@
       "species": "Avocado",
       "leaf": 16,
       "stage": 1,
+      "images": [
+        "leaf016d1_1.tif",
+        "leaf016d1_2.tif",
+        "leaf016d1_3.tif",
+        "leaf016d1_4.tif",
+        "leaf016d1_5.tif"
+      ],
       "actual": {
         "fmc": 105.27859497070312,
         "chlorophyll": 74.30000305175781,
@@ -653,6 +912,13 @@
       "species": "Avocado",
       "leaf": 6,
       "stage": 1,
+      "images": [
+        "leaf006d1_1.tif",
+        "leaf006d1_2.tif",
+        "leaf006d1_3.tif",
+        "leaf006d1_4.tif",
+        "leaf006d1_5.tif"
+      ],
       "actual": {
         "fmc": 113.92757415771484,
         "chlorophyll": 87.4000015258789,
@@ -670,6 +936,13 @@
       "species": "Avocado",
       "leaf": 89,
       "stage": 3,
+      "images": [
+        "leaf089d3_1.tif",
+        "leaf089d3_2.tif",
+        "leaf089d3_3.tif",
+        "leaf089d3_4.tif",
+        "leaf089d3_5.tif"
+      ],
       "actual": {
         "fmc": 27.97319984436035,
         "chlorophyll": 57.46666717529297,
@@ -687,6 +960,13 @@
       "species": "Avocado",
       "leaf": 99,
       "stage": 3,
+      "images": [
+        "leaf099d3_1.tif",
+        "leaf099d3_2.tif",
+        "leaf099d3_3.tif",
+        "leaf099d3_4.tif",
+        "leaf099d3_5.tif"
+      ],
       "actual": {
         "fmc": 29.895105361938477,
         "chlorophyll": 58.33333206176758,
@@ -704,6 +984,13 @@
       "species": "Avocado",
       "leaf": 59,
       "stage": 4,
+      "images": [
+        "leaf059d4_1.tif",
+        "leaf059d4_2.tif",
+        "leaf059d4_3.tif",
+        "leaf059d4_4.tif",
+        "leaf059d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 88.0999984741211,
@@ -721,6 +1008,13 @@
       "species": "Avocado",
       "leaf": 67,
       "stage": 0,
+      "images": [
+        "leaf067d0_1.tif",
+        "leaf067d0_2.tif",
+        "leaf067d0_3.tif",
+        "leaf067d0_4.tif",
+        "leaf067d0_5.tif"
+      ],
       "actual": {
         "fmc": 141.9239959716797,
         "chlorophyll": 56.43333435058594,
@@ -738,6 +1032,13 @@
       "species": "Avocado",
       "leaf": 64,
       "stage": 1,
+      "images": [
+        "leaf064d1_1.tif",
+        "leaf064d1_2.tif",
+        "leaf064d1_3.tif",
+        "leaf064d1_4.tif",
+        "leaf064d1_5.tif"
+      ],
       "actual": {
         "fmc": 101.90839385986328,
         "chlorophyll": 72.69999694824219,
@@ -755,6 +1056,13 @@
       "species": "Avocado",
       "leaf": 65,
       "stage": 3,
+      "images": [
+        "leaf065d3_1.tif",
+        "leaf065d3_2.tif",
+        "leaf065d3_3.tif",
+        "leaf065d3_4.tif",
+        "leaf065d3_5.tif"
+      ],
       "actual": {
         "fmc": 46.623374938964844,
         "chlorophyll": 66.53333282470703,
@@ -772,6 +1080,13 @@
       "species": "Avocado",
       "leaf": 59,
       "stage": 2,
+      "images": [
+        "leaf059d2_1.tif",
+        "leaf059d2_2.tif",
+        "leaf059d2_3.tif",
+        "leaf059d2_4.tif",
+        "leaf059d2_5.tif"
+      ],
       "actual": {
         "fmc": 39.605735778808594,
         "chlorophyll": 59.56666564941406,
@@ -789,6 +1104,13 @@
       "species": "Avocado",
       "leaf": 19,
       "stage": 4,
+      "images": [
+        "leaf019d4_1.tif",
+        "leaf019d4_2.tif",
+        "leaf019d4_3.tif",
+        "leaf019d4_4.tif",
+        "leaf019d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 86.69999694824219,
@@ -806,6 +1128,13 @@
       "species": "Avocado",
       "leaf": 11,
       "stage": 2,
+      "images": [
+        "leaf011d2_1.tif",
+        "leaf011d2_2.tif",
+        "leaf011d2_3.tif",
+        "leaf011d2_4.tif",
+        "leaf011d2_5.tif"
+      ],
       "actual": {
         "fmc": 64.86956787109375,
         "chlorophyll": 90.96666717529297,
@@ -823,6 +1152,13 @@
       "species": "Avocado",
       "leaf": 63,
       "stage": 4,
+      "images": [
+        "leaf063d4_1.tif",
+        "leaf063d4_2.tif",
+        "leaf063d4_3.tif",
+        "leaf063d4_4.tif",
+        "leaf063d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 94.0999984741211,
@@ -840,6 +1176,13 @@
       "species": "Avocado",
       "leaf": 24,
       "stage": 3,
+      "images": [
+        "leaf024d3_1.tif",
+        "leaf024d3_2.tif",
+        "leaf024d3_3.tif",
+        "leaf024d3_4.tif",
+        "leaf024d3_5.tif"
+      ],
       "actual": {
         "fmc": 43.882545471191406,
         "chlorophyll": 61.20000076293945,
@@ -857,6 +1200,13 @@
       "species": "Avocado",
       "leaf": 103,
       "stage": 2,
+      "images": [
+        "leaf103d2_1.tif",
+        "leaf103d2_2.tif",
+        "leaf103d2_3.tif",
+        "leaf103d2_4.tif",
+        "leaf103d2_5.tif"
+      ],
       "actual": {
         "fmc": 53.74800491333008,
         "chlorophyll": 64.69999694824219,
@@ -874,6 +1224,13 @@
       "species": "Avocado",
       "leaf": 11,
       "stage": 0,
+      "images": [
+        "leaf011d0_1.tif",
+        "leaf011d0_2.tif",
+        "leaf011d0_3.tif",
+        "leaf011d0_4.tif",
+        "leaf011d0_5.tif"
+      ],
       "actual": {
         "fmc": 142.43478393554688,
         "chlorophyll": 59.83333206176758,
@@ -891,6 +1248,13 @@
       "species": "Avocado",
       "leaf": 25,
       "stage": 3,
+      "images": [
+        "leaf025d3_1.tif",
+        "leaf025d3_2.tif",
+        "leaf025d3_3.tif",
+        "leaf025d3_4.tif",
+        "leaf025d3_5.tif"
+      ],
       "actual": {
         "fmc": 47.68583297729492,
         "chlorophyll": 69.30000305175781,
@@ -908,6 +1272,13 @@
       "species": "Avocado",
       "leaf": 24,
       "stage": 1,
+      "images": [
+        "leaf024d1_1.tif",
+        "leaf024d1_2.tif",
+        "leaf024d1_3.tif",
+        "leaf024d1_4.tif",
+        "leaf024d1_5.tif"
+      ],
       "actual": {
         "fmc": 85.64437103271484,
         "chlorophyll": 73.83333587646484,
@@ -925,6 +1296,13 @@
       "species": "Avocado",
       "leaf": 55,
       "stage": 0,
+      "images": [
+        "leaf055d0_1.tif",
+        "leaf055d0_2.tif",
+        "leaf055d0_3.tif",
+        "leaf055d0_4.tif",
+        "leaf055d0_5.tif"
+      ],
       "actual": {
         "fmc": 147.64398193359375,
         "chlorophyll": 52.83333206176758,
@@ -942,6 +1320,13 @@
       "species": "Avocado",
       "leaf": 63,
       "stage": 0,
+      "images": [
+        "leaf063d0_1.tif",
+        "leaf063d0_2.tif",
+        "leaf063d0_3.tif",
+        "leaf063d0_4.tif",
+        "leaf063d0_5.tif"
+      ],
       "actual": {
         "fmc": 158.13204956054688,
         "chlorophyll": 53.599998474121094,
@@ -959,6 +1344,13 @@
       "species": "Avocado",
       "leaf": 19,
       "stage": 2,
+      "images": [
+        "leaf019d2_1.tif",
+        "leaf019d2_2.tif",
+        "leaf019d2_3.tif",
+        "leaf019d2_4.tif",
+        "leaf019d2_5.tif"
+      ],
       "actual": {
         "fmc": 49.72972869873047,
         "chlorophyll": 68.30000305175781,
@@ -976,6 +1368,13 @@
       "species": "Avocado",
       "leaf": 11,
       "stage": 4,
+      "images": [
+        "leaf011d4_1.tif",
+        "leaf011d4_2.tif",
+        "leaf011d4_3.tif",
+        "leaf011d4_4.tif",
+        "leaf011d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 99.9000015258789,
@@ -993,6 +1392,13 @@
       "species": "Avocado",
       "leaf": 55,
       "stage": 2,
+      "images": [
+        "leaf055d2_1.tif",
+        "leaf055d2_2.tif",
+        "leaf055d2_3.tif",
+        "leaf055d2_4.tif",
+        "leaf055d2_5.tif"
+      ],
       "actual": {
         "fmc": 70.68062591552734,
         "chlorophyll": 67.69999694824219,
@@ -1010,6 +1416,13 @@
       "species": "Avocado",
       "leaf": 62,
       "stage": 0,
+      "images": [
+        "leaf062d0_1.tif",
+        "leaf062d0_2.tif",
+        "leaf062d0_3.tif",
+        "leaf062d0_4.tif",
+        "leaf062d0_5.tif"
+      ],
       "actual": {
         "fmc": 153.01419067382812,
         "chlorophyll": 50.099998474121094,
@@ -1027,6 +1440,13 @@
       "species": "Avocado",
       "leaf": 103,
       "stage": 4,
+      "images": [
+        "leaf103d4_1.tif",
+        "leaf103d4_2.tif",
+        "leaf103d4_3.tif",
+        "leaf103d4_4.tif",
+        "leaf103d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 68.69999694824219,
@@ -1044,6 +1464,13 @@
       "species": "Avocado",
       "leaf": 63,
       "stage": 2,
+      "images": [
+        "leaf063d2_1.tif",
+        "leaf063d2_2.tif",
+        "leaf063d2_3.tif",
+        "leaf063d2_4.tif",
+        "leaf063d2_5.tif"
+      ],
       "actual": {
         "fmc": 61.835750579833984,
         "chlorophyll": 70.96666717529297,
@@ -1061,6 +1488,13 @@
       "species": "Avocado",
       "leaf": 62,
       "stage": 4,
+      "images": [
+        "leaf062d4_1.tif",
+        "leaf062d4_2.tif",
+        "leaf062d4_3.tif",
+        "leaf062d4_4.tif",
+        "leaf062d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 84.0999984741211,
@@ -1078,6 +1512,13 @@
       "species": "Avocado",
       "leaf": 55,
       "stage": 4,
+      "images": [
+        "leaf055d4_1.tif",
+        "leaf055d4_2.tif",
+        "leaf055d4_3.tif",
+        "leaf055d4_4.tif",
+        "leaf055d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 84.19999694824219,
@@ -1095,6 +1536,13 @@
       "species": "Avocado",
       "leaf": 25,
       "stage": 1,
+      "images": [
+        "leaf025d1_1.tif",
+        "leaf025d1_2.tif",
+        "leaf025d1_3.tif",
+        "leaf025d1_4.tif",
+        "leaf025d1_5.tif"
+      ],
       "actual": {
         "fmc": 94.1093978881836,
         "chlorophyll": 66.5,
@@ -1112,6 +1560,13 @@
       "species": "Avocado",
       "leaf": 103,
       "stage": 0,
+      "images": [
+        "leaf103d0_1.tif",
+        "leaf103d0_2.tif",
+        "leaf103d0_3.tif",
+        "leaf103d0_4.tif",
+        "leaf103d0_5.tif"
+      ],
       "actual": {
         "fmc": 112.59967803955078,
         "chlorophyll": 53.0,
@@ -1129,6 +1584,13 @@
       "species": "Avocado",
       "leaf": 19,
       "stage": 0,
+      "images": [
+        "leaf019d0_1.tif",
+        "leaf019d0_2.tif",
+        "leaf019d0_3.tif",
+        "leaf019d0_4.tif",
+        "leaf019d0_5.tif"
+      ],
       "actual": {
         "fmc": 116.75675964355469,
         "chlorophyll": 61.43333435058594,
@@ -1146,6 +1608,13 @@
       "species": "Avocado",
       "leaf": 62,
       "stage": 2,
+      "images": [
+        "leaf062d2_1.tif",
+        "leaf062d2_2.tif",
+        "leaf062d2_3.tif",
+        "leaf062d2_4.tif",
+        "leaf062d2_5.tif"
+      ],
       "actual": {
         "fmc": 72.16312408447266,
         "chlorophyll": 63.33333206176758,
@@ -1163,6 +1632,13 @@
       "species": "Avocado",
       "leaf": 55,
       "stage": 3,
+      "images": [
+        "leaf055d3_1.tif",
+        "leaf055d3_2.tif",
+        "leaf055d3_3.tif",
+        "leaf055d3_4.tif",
+        "leaf055d3_5.tif"
+      ],
       "actual": {
         "fmc": 39.00523376464844,
         "chlorophyll": 62.099998474121094,
@@ -1180,6 +1656,13 @@
       "species": "Avocado",
       "leaf": 24,
       "stage": 4,
+      "images": [
+        "leaf024d4_1.tif",
+        "leaf024d4_2.tif",
+        "leaf024d4_3.tif",
+        "leaf024d4_4.tif",
+        "leaf024d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 84.69999694824219,
@@ -1197,6 +1680,13 @@
       "species": "Avocado",
       "leaf": 19,
       "stage": 1,
+      "images": [
+        "leaf019d1_1.tif",
+        "leaf019d1_2.tif",
+        "leaf019d1_3.tif",
+        "leaf019d1_4.tif",
+        "leaf019d1_5.tif"
+      ],
       "actual": {
         "fmc": 82.34233856201172,
         "chlorophyll": 70.96666717529297,
@@ -1214,6 +1704,13 @@
       "species": "Avocado",
       "leaf": 25,
       "stage": 4,
+      "images": [
+        "leaf025d4_1.tif",
+        "leaf025d4_2.tif",
+        "leaf025d4_3.tif",
+        "leaf025d4_4.tif",
+        "leaf025d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 83.19999694824219,
@@ -1231,6 +1728,13 @@
       "species": "Avocado",
       "leaf": 63,
       "stage": 1,
+      "images": [
+        "leaf063d1_1.tif",
+        "leaf063d1_2.tif",
+        "leaf063d1_3.tif",
+        "leaf063d1_4.tif",
+        "leaf063d1_5.tif"
+      ],
       "actual": {
         "fmc": 106.92431640625,
         "chlorophyll": 69.23332977294922,
@@ -1248,6 +1752,13 @@
       "species": "Avocado",
       "leaf": 62,
       "stage": 3,
+      "images": [
+        "leaf062d3_1.tif",
+        "leaf062d3_2.tif",
+        "leaf062d3_3.tif",
+        "leaf062d3_4.tif",
+        "leaf062d3_5.tif"
+      ],
       "actual": {
         "fmc": 37.05673599243164,
         "chlorophyll": 62.20000076293945,
@@ -1265,6 +1776,13 @@
       "species": "Avocado",
       "leaf": 11,
       "stage": 1,
+      "images": [
+        "leaf011d1_1.tif",
+        "leaf011d1_2.tif",
+        "leaf011d1_3.tif",
+        "leaf011d1_4.tif",
+        "leaf011d1_5.tif"
+      ],
       "actual": {
         "fmc": 105.21739196777344,
         "chlorophyll": 87.53333282470703,
@@ -1282,6 +1800,13 @@
       "species": "Avocado",
       "leaf": 103,
       "stage": 1,
+      "images": [
+        "leaf103d1_1.tif",
+        "leaf103d1_2.tif",
+        "leaf103d1_3.tif",
+        "leaf103d1_4.tif",
+        "leaf103d1_5.tif"
+      ],
       "actual": {
         "fmc": 82.61563110351562,
         "chlorophyll": 66.4000015258789,
@@ -1299,6 +1824,13 @@
       "species": "Avocado",
       "leaf": 24,
       "stage": 2,
+      "images": [
+        "leaf024d2_1.tif",
+        "leaf024d2_2.tif",
+        "leaf024d2_3.tif",
+        "leaf024d2_4.tif",
+        "leaf024d2_5.tif"
+      ],
       "actual": {
         "fmc": 62.9690055847168,
         "chlorophyll": 71.43333435058594,
@@ -1316,6 +1848,13 @@
       "species": "Avocado",
       "leaf": 25,
       "stage": 0,
+      "images": [
+        "leaf025d0_1.tif",
+        "leaf025d0_2.tif",
+        "leaf025d0_3.tif",
+        "leaf025d0_4.tif",
+        "leaf025d0_5.tif"
+      ],
       "actual": {
         "fmc": 122.44039154052734,
         "chlorophyll": 59.266666412353516,
@@ -1333,6 +1872,13 @@
       "species": "Avocado",
       "leaf": 11,
       "stage": 3,
+      "images": [
+        "leaf011d3_1.tif",
+        "leaf011d3_2.tif",
+        "leaf011d3_3.tif",
+        "leaf011d3_4.tif",
+        "leaf011d3_5.tif"
+      ],
       "actual": {
         "fmc": 29.565217971801758,
         "chlorophyll": 78.86666870117188,
@@ -1350,6 +1896,13 @@
       "species": "Avocado",
       "leaf": 24,
       "stage": 0,
+      "images": [
+        "leaf024d0_1.tif",
+        "leaf024d0_2.tif",
+        "leaf024d0_3.tif",
+        "leaf024d0_4.tif",
+        "leaf024d0_5.tif"
+      ],
       "actual": {
         "fmc": 112.23490905761719,
         "chlorophyll": 70.16666412353516,
@@ -1367,6 +1920,13 @@
       "species": "Avocado",
       "leaf": 55,
       "stage": 1,
+      "images": [
+        "leaf055d1_1.tif",
+        "leaf055d1_2.tif",
+        "leaf055d1_3.tif",
+        "leaf055d1_4.tif",
+        "leaf055d1_5.tif"
+      ],
       "actual": {
         "fmc": 109.68586730957031,
         "chlorophyll": 65.13333129882812,
@@ -1384,6 +1944,13 @@
       "species": "Avocado",
       "leaf": 63,
       "stage": 3,
+      "images": [
+        "leaf063d3_1.tif",
+        "leaf063d3_2.tif",
+        "leaf063d3_3.tif",
+        "leaf063d3_4.tif",
+        "leaf063d3_5.tif"
+      ],
       "actual": {
         "fmc": 27.214170455932617,
         "chlorophyll": 66.73332977294922,
@@ -1401,6 +1968,13 @@
       "species": "Avocado",
       "leaf": 19,
       "stage": 3,
+      "images": [
+        "leaf019d3_1.tif",
+        "leaf019d3_2.tif",
+        "leaf019d3_3.tif",
+        "leaf019d3_4.tif",
+        "leaf019d3_5.tif"
+      ],
       "actual": {
         "fmc": 21.08108139038086,
         "chlorophyll": 66.0999984741211,
@@ -1418,6 +1992,13 @@
       "species": "Avocado",
       "leaf": 62,
       "stage": 1,
+      "images": [
+        "leaf062d1_1.tif",
+        "leaf062d1_2.tif",
+        "leaf062d1_3.tif",
+        "leaf062d1_4.tif",
+        "leaf062d1_5.tif"
+      ],
       "actual": {
         "fmc": 111.52482604980469,
         "chlorophyll": 62.29999923706055,
@@ -1435,6 +2016,13 @@
       "species": "Avocado",
       "leaf": 25,
       "stage": 2,
+      "images": [
+        "leaf025d2_1.tif",
+        "leaf025d2_2.tif",
+        "leaf025d2_3.tif",
+        "leaf025d2_4.tif",
+        "leaf025d2_5.tif"
+      ],
       "actual": {
         "fmc": 69.98597717285156,
         "chlorophyll": 59.79999923706055,
@@ -1452,6 +2040,13 @@
       "species": "Avocado",
       "leaf": 103,
       "stage": 3,
+      "images": [
+        "leaf103d3_1.tif",
+        "leaf103d3_2.tif",
+        "leaf103d3_3.tif",
+        "leaf103d3_4.tif",
+        "leaf103d3_5.tif"
+      ],
       "actual": {
         "fmc": 31.578947067260742,
         "chlorophyll": 58.599998474121094,
@@ -1469,6 +2064,13 @@
       "species": "Olive",
       "leaf": 15,
       "stage": 1,
+      "images": [
+        "leaf015d1_1.tif",
+        "leaf015d1_2.tif",
+        "leaf015d1_3.tif",
+        "leaf015d1_4.tif",
+        "leaf015d1_5.tif"
+      ],
       "actual": {
         "fmc": 78.16901397705078,
         "chlorophyll": 77.30000305175781,
@@ -1486,6 +2088,13 @@
       "species": "Olive",
       "leaf": 99,
       "stage": 2,
+      "images": [
+        "leaf099d2_1.tif",
+        "leaf099d2_2.tif",
+        "leaf099d2_3.tif",
+        "leaf099d2_4.tif",
+        "leaf099d2_5.tif"
+      ],
       "actual": {
         "fmc": 57.96178436279297,
         "chlorophyll": 77.69999694824219,
@@ -1503,6 +2112,13 @@
       "species": "Olive",
       "leaf": 17,
       "stage": 2,
+      "images": [
+        "leaf017d2_1.tif",
+        "leaf017d2_2.tif",
+        "leaf017d2_3.tif",
+        "leaf017d2_4.tif",
+        "leaf017d2_5.tif"
+      ],
       "actual": {
         "fmc": 52.41935348510742,
         "chlorophyll": 82.19999694824219,
@@ -1520,6 +2136,13 @@
       "species": "Olive",
       "leaf": 15,
       "stage": 3,
+      "images": [
+        "leaf015d3_1.tif",
+        "leaf015d3_2.tif",
+        "leaf015d3_3.tif",
+        "leaf015d3_4.tif",
+        "leaf015d3_5.tif"
+      ],
       "actual": {
         "fmc": 28.873239517211914,
         "chlorophyll": 85.9000015258789,
@@ -1537,6 +2160,13 @@
       "species": "Olive",
       "leaf": 99,
       "stage": 0,
+      "images": [
+        "leaf099d0_1.tif",
+        "leaf099d0_2.tif",
+        "leaf099d0_3.tif",
+        "leaf099d0_4.tif",
+        "leaf099d0_5.tif"
+      ],
       "actual": {
         "fmc": 139.49044799804688,
         "chlorophyll": 65.30000305175781,
@@ -1554,6 +2184,13 @@
       "species": "Olive",
       "leaf": 28,
       "stage": 4,
+      "images": [
+        "leaf028d4_1.tif",
+        "leaf028d4_2.tif",
+        "leaf028d4_3.tif",
+        "leaf028d4_4.tif",
+        "leaf028d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 90.0,
@@ -1571,6 +2208,13 @@
       "species": "Olive",
       "leaf": 64,
       "stage": 2,
+      "images": [
+        "leaf064d2_1.tif",
+        "leaf064d2_2.tif",
+        "leaf064d2_3.tif",
+        "leaf064d2_4.tif",
+        "leaf064d2_5.tif"
+      ],
       "actual": {
         "fmc": 59.21052551269531,
         "chlorophyll": 79.0,
@@ -1588,6 +2232,13 @@
       "species": "Olive",
       "leaf": 50,
       "stage": 1,
+      "images": [
+        "leaf050d1_1.tif",
+        "leaf050d1_2.tif",
+        "leaf050d1_3.tif",
+        "leaf050d1_4.tif",
+        "leaf050d1_5.tif"
+      ],
       "actual": {
         "fmc": 63.6363639831543,
         "chlorophyll": 79.30000305175781,
@@ -1605,6 +2256,13 @@
       "species": "Olive",
       "leaf": 28,
       "stage": 2,
+      "images": [
+        "leaf028d2_1.tif",
+        "leaf028d2_2.tif",
+        "leaf028d2_3.tif",
+        "leaf028d2_4.tif",
+        "leaf028d2_5.tif"
+      ],
       "actual": {
         "fmc": 38.13559341430664,
         "chlorophyll": 85.69999694824219,
@@ -1622,6 +2280,13 @@
       "species": "Olive",
       "leaf": 99,
       "stage": 4,
+      "images": [
+        "leaf099d4_1.tif",
+        "leaf099d4_2.tif",
+        "leaf099d4_3.tif",
+        "leaf099d4_4.tif",
+        "leaf099d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 70.9000015258789,
@@ -1639,6 +2304,13 @@
       "species": "Olive",
       "leaf": 64,
       "stage": 0,
+      "images": [
+        "leaf064d0_1.tif",
+        "leaf064d0_2.tif",
+        "leaf064d0_3.tif",
+        "leaf064d0_4.tif",
+        "leaf064d0_5.tif"
+      ],
       "actual": {
         "fmc": 121.0526351928711,
         "chlorophyll": 70.0999984741211,
@@ -1656,6 +2328,13 @@
       "species": "Olive",
       "leaf": 17,
       "stage": 4,
+      "images": [
+        "leaf017d4_1.tif",
+        "leaf017d4_2.tif",
+        "leaf017d4_3.tif",
+        "leaf017d4_4.tif",
+        "leaf017d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 89.80000305175781,
@@ -1673,6 +2352,13 @@
       "species": "Olive",
       "leaf": 82,
       "stage": 3,
+      "images": [
+        "leaf082d3_1.tif",
+        "leaf082d3_2.tif",
+        "leaf082d3_3.tif",
+        "leaf082d3_4.tif",
+        "leaf082d3_5.tif"
+      ],
       "actual": {
         "fmc": 27.932960510253906,
         "chlorophyll": 92.30000305175781,
@@ -1690,6 +2376,13 @@
       "species": "Olive",
       "leaf": 64,
       "stage": 4,
+      "images": [
+        "leaf064d4_1.tif",
+        "leaf064d4_2.tif",
+        "leaf064d4_3.tif",
+        "leaf064d4_4.tif",
+        "leaf064d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 87.9000015258789,
@@ -1707,6 +2400,13 @@
       "species": "Olive",
       "leaf": 17,
       "stage": 0,
+      "images": [
+        "leaf017d0_1.tif",
+        "leaf017d0_2.tif",
+        "leaf017d0_3.tif",
+        "leaf017d0_4.tif",
+        "leaf017d0_5.tif"
+      ],
       "actual": {
         "fmc": 124.19355010986328,
         "chlorophyll": 71.80000305175781,
@@ -1724,6 +2424,13 @@
       "species": "Olive",
       "leaf": 82,
       "stage": 1,
+      "images": [
+        "leaf082d1_1.tif",
+        "leaf082d1_2.tif",
+        "leaf082d1_3.tif",
+        "leaf082d1_4.tif",
+        "leaf082d1_5.tif"
+      ],
       "actual": {
         "fmc": 76.53631591796875,
         "chlorophyll": 84.0,
@@ -1741,6 +2448,13 @@
       "species": "Olive",
       "leaf": 50,
       "stage": 3,
+      "images": [
+        "leaf050d3_1.tif",
+        "leaf050d3_2.tif",
+        "leaf050d3_3.tif",
+        "leaf050d3_4.tif",
+        "leaf050d3_5.tif"
+      ],
       "actual": {
         "fmc": 10.489510536193848,
         "chlorophyll": 80.5,
@@ -1758,6 +2472,13 @@
       "species": "Olive",
       "leaf": 28,
       "stage": 0,
+      "images": [
+        "leaf028d0_1.tif",
+        "leaf028d0_2.tif",
+        "leaf028d0_3.tif",
+        "leaf028d0_4.tif",
+        "leaf028d0_5.tif"
+      ],
       "actual": {
         "fmc": 100.84745788574219,
         "chlorophyll": 72.4000015258789,
@@ -1775,6 +2496,13 @@
       "species": "Olive",
       "leaf": 50,
       "stage": 2,
+      "images": [
+        "leaf050d2_1.tif",
+        "leaf050d2_2.tif",
+        "leaf050d2_3.tif",
+        "leaf050d2_4.tif",
+        "leaf050d2_5.tif"
+      ],
       "actual": {
         "fmc": 33.56643295288086,
         "chlorophyll": 80.5,
@@ -1792,6 +2520,13 @@
       "species": "Olive",
       "leaf": 28,
       "stage": 1,
+      "images": [
+        "leaf028d1_1.tif",
+        "leaf028d1_2.tif",
+        "leaf028d1_3.tif",
+        "leaf028d1_4.tif",
+        "leaf028d1_5.tif"
+      ],
       "actual": {
         "fmc": 64.40677642822266,
         "chlorophyll": 87.80000305175781,
@@ -1809,6 +2544,13 @@
       "species": "Olive",
       "leaf": 15,
       "stage": 4,
+      "images": [
+        "leaf015d4_1.tif",
+        "leaf015d4_2.tif",
+        "leaf015d4_3.tif",
+        "leaf015d4_4.tif",
+        "leaf015d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 83.5999984741211,
@@ -1826,6 +2568,13 @@
       "species": "Olive",
       "leaf": 64,
       "stage": 3,
+      "images": [
+        "leaf064d3_1.tif",
+        "leaf064d3_2.tif",
+        "leaf064d3_3.tif",
+        "leaf064d3_4.tif",
+        "leaf064d3_5.tif"
+      ],
       "actual": {
         "fmc": 32.23684310913086,
         "chlorophyll": 80.30000305175781,
@@ -1843,6 +2592,13 @@
       "species": "Olive",
       "leaf": 82,
       "stage": 0,
+      "images": [
+        "leaf082d0_1.tif",
+        "leaf082d0_2.tif",
+        "leaf082d0_3.tif",
+        "leaf082d0_4.tif",
+        "leaf082d0_5.tif"
+      ],
       "actual": {
         "fmc": 110.6145248413086,
         "chlorophyll": 72.0999984741211,
@@ -1860,6 +2616,13 @@
       "species": "Olive",
       "leaf": 15,
       "stage": 2,
+      "images": [
+        "leaf015d2_1.tif",
+        "leaf015d2_2.tif",
+        "leaf015d2_3.tif",
+        "leaf015d2_4.tif",
+        "leaf015d2_5.tif"
+      ],
       "actual": {
         "fmc": 51.408451080322266,
         "chlorophyll": 88.19999694824219,
@@ -1877,6 +2640,13 @@
       "species": "Olive",
       "leaf": 99,
       "stage": 1,
+      "images": [
+        "leaf099d1_1.tif",
+        "leaf099d1_2.tif",
+        "leaf099d1_3.tif",
+        "leaf099d1_4.tif",
+        "leaf099d1_5.tif"
+      ],
       "actual": {
         "fmc": 98.08917236328125,
         "chlorophyll": 78.69999694824219,
@@ -1894,6 +2664,13 @@
       "species": "Olive",
       "leaf": 17,
       "stage": 1,
+      "images": [
+        "leaf017d1_1.tif",
+        "leaf017d1_2.tif",
+        "leaf017d1_3.tif",
+        "leaf017d1_4.tif",
+        "leaf017d1_5.tif"
+      ],
       "actual": {
         "fmc": 83.87096405029297,
         "chlorophyll": 85.69999694824219,
@@ -1911,6 +2688,13 @@
       "species": "Olive",
       "leaf": 50,
       "stage": 4,
+      "images": [
+        "leaf050d4_1.tif",
+        "leaf050d4_2.tif",
+        "leaf050d4_3.tif",
+        "leaf050d4_4.tif",
+        "leaf050d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 91.19999694824219,
@@ -1928,6 +2712,13 @@
       "species": "Olive",
       "leaf": 82,
       "stage": 4,
+      "images": [
+        "leaf082d4_1.tif",
+        "leaf082d4_2.tif",
+        "leaf082d4_3.tif",
+        "leaf082d4_4.tif",
+        "leaf082d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 92.69999694824219,
@@ -1945,6 +2736,13 @@
       "species": "Olive",
       "leaf": 99,
       "stage": 3,
+      "images": [
+        "leaf099d3_1.tif",
+        "leaf099d3_2.tif",
+        "leaf099d3_3.tif",
+        "leaf099d3_4.tif",
+        "leaf099d3_5.tif"
+      ],
       "actual": {
         "fmc": 28.66242027282715,
         "chlorophyll": 76.5999984741211,
@@ -1962,6 +2760,13 @@
       "species": "Olive",
       "leaf": 15,
       "stage": 0,
+      "images": [
+        "leaf015d0_1.tif",
+        "leaf015d0_2.tif",
+        "leaf015d0_3.tif",
+        "leaf015d0_4.tif",
+        "leaf015d0_5.tif"
+      ],
       "actual": {
         "fmc": 114.78873443603516,
         "chlorophyll": 73.0,
@@ -1979,6 +2784,13 @@
       "species": "Olive",
       "leaf": 64,
       "stage": 1,
+      "images": [
+        "leaf064d1_1.tif",
+        "leaf064d1_2.tif",
+        "leaf064d1_3.tif",
+        "leaf064d1_4.tif",
+        "leaf064d1_5.tif"
+      ],
       "actual": {
         "fmc": 95.39473724365234,
         "chlorophyll": 78.5,
@@ -1996,6 +2808,13 @@
       "species": "Olive",
       "leaf": 82,
       "stage": 2,
+      "images": [
+        "leaf082d2_1.tif",
+        "leaf082d2_2.tif",
+        "leaf082d2_3.tif",
+        "leaf082d2_4.tif",
+        "leaf082d2_5.tif"
+      ],
       "actual": {
         "fmc": 55.3072624206543,
         "chlorophyll": 85.4000015258789,
@@ -2013,6 +2832,13 @@
       "species": "Olive",
       "leaf": 50,
       "stage": 0,
+      "images": [
+        "leaf050d0_1.tif",
+        "leaf050d0_2.tif",
+        "leaf050d0_3.tif",
+        "leaf050d0_4.tif",
+        "leaf050d0_5.tif"
+      ],
       "actual": {
         "fmc": 102.79720306396484,
         "chlorophyll": 67.80000305175781,
@@ -2030,6 +2856,13 @@
       "species": "Olive",
       "leaf": 28,
       "stage": 3,
+      "images": [
+        "leaf028d3_1.tif",
+        "leaf028d3_2.tif",
+        "leaf028d3_3.tif",
+        "leaf028d3_4.tif",
+        "leaf028d3_5.tif"
+      ],
       "actual": {
         "fmc": 19.491525650024414,
         "chlorophyll": 82.5999984741211,
@@ -2047,6 +2880,13 @@
       "species": "Olive",
       "leaf": 17,
       "stage": 3,
+      "images": [
+        "leaf017d3_1.tif",
+        "leaf017d3_2.tif",
+        "leaf017d3_3.tif",
+        "leaf017d3_4.tif",
+        "leaf017d3_5.tif"
+      ],
       "actual": {
         "fmc": 28.225807189941406,
         "chlorophyll": 88.69999694824219,
@@ -2064,6 +2904,13 @@
       "species": "Olive",
       "leaf": 101,
       "stage": 1,
+      "images": [
+        "leaf101d1_1.tif",
+        "leaf101d1_2.tif",
+        "leaf101d1_3.tif",
+        "leaf101d1_4.tif",
+        "leaf101d1_5.tif"
+      ],
       "actual": {
         "fmc": 104.4871826171875,
         "chlorophyll": 76.0999984741211,
@@ -2081,6 +2928,13 @@
       "species": "Olive",
       "leaf": 69,
       "stage": 1,
+      "images": [
+        "leaf069d1_1.tif",
+        "leaf069d1_2.tif",
+        "leaf069d1_3.tif",
+        "leaf069d1_4.tif",
+        "leaf069d1_5.tif"
+      ],
       "actual": {
         "fmc": 80.98591613769531,
         "chlorophyll": 80.30000305175781,
@@ -2098,6 +2952,13 @@
       "species": "Olive",
       "leaf": 26,
       "stage": 2,
+      "images": [
+        "leaf026d2_1.tif",
+        "leaf026d2_2.tif",
+        "leaf026d2_3.tif",
+        "leaf026d2_4.tif",
+        "leaf026d2_5.tif"
+      ],
       "actual": {
         "fmc": 56.29138946533203,
         "chlorophyll": 80.80000305175781,
@@ -2115,6 +2976,13 @@
       "species": "Olive",
       "leaf": 35,
       "stage": 3,
+      "images": [
+        "leaf035d3_1.tif",
+        "leaf035d3_2.tif",
+        "leaf035d3_3.tif",
+        "leaf035d3_4.tif",
+        "leaf035d3_5.tif"
+      ],
       "actual": {
         "fmc": 9.91735553741455,
         "chlorophyll": 89.0999984741211,
@@ -2132,6 +3000,13 @@
       "species": "Olive",
       "leaf": 47,
       "stage": 3,
+      "images": [
+        "leaf047d3_1.tif",
+        "leaf047d3_2.tif",
+        "leaf047d3_3.tif",
+        "leaf047d3_4.tif",
+        "leaf047d3_5.tif"
+      ],
       "actual": {
         "fmc": 38.095237731933594,
         "chlorophyll": 82.69999694824219,
@@ -2149,6 +3024,13 @@
       "species": "Olive",
       "leaf": 46,
       "stage": 1,
+      "images": [
+        "leaf046d1_1.tif",
+        "leaf046d1_2.tif",
+        "leaf046d1_3.tif",
+        "leaf046d1_4.tif",
+        "leaf046d1_5.tif"
+      ],
       "actual": {
         "fmc": 76.74418640136719,
         "chlorophyll": 76.5,
@@ -2166,6 +3048,13 @@
       "species": "Olive",
       "leaf": 26,
       "stage": 4,
+      "images": [
+        "leaf026d4_1.tif",
+        "leaf026d4_2.tif",
+        "leaf026d4_3.tif",
+        "leaf026d4_4.tif",
+        "leaf026d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 81.0,
@@ -2183,6 +3072,13 @@
       "species": "Olive",
       "leaf": 55,
       "stage": 0,
+      "images": [
+        "leaf055d0_1.tif",
+        "leaf055d0_2.tif",
+        "leaf055d0_3.tif",
+        "leaf055d0_4.tif",
+        "leaf055d0_5.tif"
+      ],
       "actual": {
         "fmc": 117.532470703125,
         "chlorophyll": 64.80000305175781,
@@ -2200,6 +3096,13 @@
       "species": "Olive",
       "leaf": 46,
       "stage": 3,
+      "images": [
+        "leaf046d3_1.tif",
+        "leaf046d3_2.tif",
+        "leaf046d3_3.tif",
+        "leaf046d3_4.tif",
+        "leaf046d3_5.tif"
+      ],
       "actual": {
         "fmc": 10.852713584899902,
         "chlorophyll": 82.69999694824219,
@@ -2217,6 +3120,13 @@
       "species": "Olive",
       "leaf": 84,
       "stage": 3,
+      "images": [
+        "leaf084d3_1.tif",
+        "leaf084d3_2.tif",
+        "leaf084d3_3.tif",
+        "leaf084d3_4.tif",
+        "leaf084d3_5.tif"
+      ],
       "actual": {
         "fmc": 27.972028732299805,
         "chlorophyll": 85.30000305175781,
@@ -2234,6 +3144,13 @@
       "species": "Olive",
       "leaf": 71,
       "stage": 1,
+      "images": [
+        "leaf071d1_1.tif",
+        "leaf071d1_2.tif",
+        "leaf071d1_3.tif",
+        "leaf071d1_4.tif",
+        "leaf071d1_5.tif"
+      ],
       "actual": {
         "fmc": 82.08955383300781,
         "chlorophyll": 82.0,
@@ -2251,6 +3168,13 @@
       "species": "Olive",
       "leaf": 55,
       "stage": 2,
+      "images": [
+        "leaf055d2_1.tif",
+        "leaf055d2_2.tif",
+        "leaf055d2_3.tif",
+        "leaf055d2_4.tif",
+        "leaf055d2_5.tif"
+      ],
       "actual": {
         "fmc": 42.20779037475586,
         "chlorophyll": 79.30000305175781,
@@ -2268,6 +3192,13 @@
       "species": "Olive",
       "leaf": 84,
       "stage": 1,
+      "images": [
+        "leaf084d1_1.tif",
+        "leaf084d1_2.tif",
+        "leaf084d1_3.tif",
+        "leaf084d1_4.tif",
+        "leaf084d1_5.tif"
+      ],
       "actual": {
         "fmc": 83.21678161621094,
         "chlorophyll": 82.5999984741211,
@@ -2285,6 +3216,13 @@
       "species": "Olive",
       "leaf": 69,
       "stage": 3,
+      "images": [
+        "leaf069d3_1.tif",
+        "leaf069d3_2.tif",
+        "leaf069d3_3.tif",
+        "leaf069d3_4.tif",
+        "leaf069d3_5.tif"
+      ],
       "actual": {
         "fmc": 24.36619758605957,
         "chlorophyll": 81.9000015258789,
@@ -2302,6 +3240,13 @@
       "species": "Olive",
       "leaf": 101,
       "stage": 3,
+      "images": [
+        "leaf101d3_1.tif",
+        "leaf101d3_2.tif",
+        "leaf101d3_3.tif",
+        "leaf101d3_4.tif",
+        "leaf101d3_5.tif"
+      ],
       "actual": {
         "fmc": 30.769229888916016,
         "chlorophyll": 81.30000305175781,
@@ -2319,6 +3264,13 @@
       "species": "Olive",
       "leaf": 26,
       "stage": 0,
+      "images": [
+        "leaf026d0_1.tif",
+        "leaf026d0_2.tif",
+        "leaf026d0_3.tif",
+        "leaf026d0_4.tif",
+        "leaf026d0_5.tif"
+      ],
       "actual": {
         "fmc": 120.52980041503906,
         "chlorophyll": 69.9000015258789,
@@ -2336,6 +3288,13 @@
       "species": "Olive",
       "leaf": 55,
       "stage": 4,
+      "images": [
+        "leaf055d4_1.tif",
+        "leaf055d4_2.tif",
+        "leaf055d4_3.tif",
+        "leaf055d4_4.tif",
+        "leaf055d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 89.19999694824219,
@@ -2353,6 +3312,13 @@
       "species": "Olive",
       "leaf": 35,
       "stage": 1,
+      "images": [
+        "leaf035d1_1.tif",
+        "leaf035d1_2.tif",
+        "leaf035d1_3.tif",
+        "leaf035d1_4.tif",
+        "leaf035d1_5.tif"
+      ],
       "actual": {
         "fmc": 66.1156997680664,
         "chlorophyll": 81.30000305175781,
@@ -2370,6 +3336,13 @@
       "species": "Olive",
       "leaf": 71,
       "stage": 3,
+      "images": [
+        "leaf071d3_1.tif",
+        "leaf071d3_2.tif",
+        "leaf071d3_3.tif",
+        "leaf071d3_4.tif",
+        "leaf071d3_5.tif"
+      ],
       "actual": {
         "fmc": 24.62686538696289,
         "chlorophyll": 87.69999694824219,
@@ -2387,6 +3360,13 @@
       "species": "Olive",
       "leaf": 47,
       "stage": 1,
+      "images": [
+        "leaf047d1_1.tif",
+        "leaf047d1_2.tif",
+        "leaf047d1_3.tif",
+        "leaf047d1_4.tif",
+        "leaf047d1_5.tif"
+      ],
       "actual": {
         "fmc": 100.0,
         "chlorophyll": 79.4000015258789,
@@ -2404,6 +3384,13 @@
       "species": "Olive",
       "leaf": 46,
       "stage": 2,
+      "images": [
+        "leaf046d2_1.tif",
+        "leaf046d2_2.tif",
+        "leaf046d2_3.tif",
+        "leaf046d2_4.tif",
+        "leaf046d2_5.tif"
+      ],
       "actual": {
         "fmc": 37.20930099487305,
         "chlorophyll": 84.9000015258789,
@@ -2421,6 +3408,13 @@
       "species": "Olive",
       "leaf": 47,
       "stage": 0,
+      "images": [
+        "leaf047d0_1.tif",
+        "leaf047d0_2.tif",
+        "leaf047d0_3.tif",
+        "leaf047d0_4.tif",
+        "leaf047d0_5.tif"
+      ],
       "actual": {
         "fmc": 112.9251708984375,
         "chlorophyll": 66.80000305175781,
@@ -2438,6 +3432,13 @@
       "species": "Olive",
       "leaf": 84,
       "stage": 2,
+      "images": [
+        "leaf084d2_1.tif",
+        "leaf084d2_2.tif",
+        "leaf084d2_3.tif",
+        "leaf084d2_4.tif",
+        "leaf084d2_5.tif"
+      ],
       "actual": {
         "fmc": 58.74126052856445,
         "chlorophyll": 82.4000015258789,
@@ -2455,6 +3456,13 @@
       "species": "Olive",
       "leaf": 55,
       "stage": 3,
+      "images": [
+        "leaf055d3_1.tif",
+        "leaf055d3_2.tif",
+        "leaf055d3_3.tif",
+        "leaf055d3_4.tif",
+        "leaf055d3_5.tif"
+      ],
       "actual": {
         "fmc": 15.584415435791016,
         "chlorophyll": 79.5,
@@ -2472,6 +3480,13 @@
       "species": "Olive",
       "leaf": 101,
       "stage": 4,
+      "images": [
+        "leaf101d4_1.tif",
+        "leaf101d4_2.tif",
+        "leaf101d4_3.tif",
+        "leaf101d4_4.tif",
+        "leaf101d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 89.4000015258789,
@@ -2489,6 +3504,13 @@
       "species": "Olive",
       "leaf": 71,
       "stage": 2,
+      "images": [
+        "leaf071d2_1.tif",
+        "leaf071d2_2.tif",
+        "leaf071d2_3.tif",
+        "leaf071d2_4.tif",
+        "leaf071d2_5.tif"
+      ],
       "actual": {
         "fmc": 48.50746154785156,
         "chlorophyll": 80.9000015258789,
@@ -2506,6 +3528,13 @@
       "species": "Olive",
       "leaf": 69,
       "stage": 4,
+      "images": [
+        "leaf069d4_1.tif",
+        "leaf069d4_2.tif",
+        "leaf069d4_3.tif",
+        "leaf069d4_4.tif",
+        "leaf069d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 81.0999984741211,
@@ -2523,6 +3552,13 @@
       "species": "Olive",
       "leaf": 84,
       "stage": 0,
+      "images": [
+        "leaf084d0_1.tif",
+        "leaf084d0_2.tif",
+        "leaf084d0_3.tif",
+        "leaf084d0_4.tif",
+        "leaf084d0_5.tif"
+      ],
       "actual": {
         "fmc": 127.2727279663086,
         "chlorophyll": 69.5999984741211,
@@ -2540,6 +3576,13 @@
       "species": "Olive",
       "leaf": 35,
       "stage": 4,
+      "images": [
+        "leaf035d4_1.tif",
+        "leaf035d4_2.tif",
+        "leaf035d4_3.tif",
+        "leaf035d4_4.tif",
+        "leaf035d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 91.19999694824219,
@@ -2557,6 +3600,13 @@
       "species": "Olive",
       "leaf": 47,
       "stage": 4,
+      "images": [
+        "leaf047d4_1.tif",
+        "leaf047d4_2.tif",
+        "leaf047d4_3.tif",
+        "leaf047d4_4.tif",
+        "leaf047d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 90.4000015258789,
@@ -2574,6 +3624,13 @@
       "species": "Olive",
       "leaf": 69,
       "stage": 2,
+      "images": [
+        "leaf069d2_1.tif",
+        "leaf069d2_2.tif",
+        "leaf069d2_3.tif",
+        "leaf069d2_4.tif",
+        "leaf069d2_5.tif"
+      ],
       "actual": {
         "fmc": 47.18309783935547,
         "chlorophyll": 88.0999984741211,
@@ -2591,6 +3648,13 @@
       "species": "Olive",
       "leaf": 101,
       "stage": 2,
+      "images": [
+        "leaf101d2_1.tif",
+        "leaf101d2_2.tif",
+        "leaf101d2_3.tif",
+        "leaf101d2_4.tif",
+        "leaf101d2_5.tif"
+      ],
       "actual": {
         "fmc": 66.02564239501953,
         "chlorophyll": 79.0,
@@ -2608,6 +3672,13 @@
       "species": "Olive",
       "leaf": 71,
       "stage": 4,
+      "images": [
+        "leaf071d4_1.tif",
+        "leaf071d4_2.tif",
+        "leaf071d4_3.tif",
+        "leaf071d4_4.tif",
+        "leaf071d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 88.5,
@@ -2625,6 +3696,13 @@
       "species": "Olive",
       "leaf": 46,
       "stage": 4,
+      "images": [
+        "leaf046d4_1.tif",
+        "leaf046d4_2.tif",
+        "leaf046d4_3.tif",
+        "leaf046d4_4.tif",
+        "leaf046d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 88.4000015258789,
@@ -2642,6 +3720,13 @@
       "species": "Olive",
       "leaf": 69,
       "stage": 0,
+      "images": [
+        "leaf069d0_1.tif",
+        "leaf069d0_2.tif",
+        "leaf069d0_3.tif",
+        "leaf069d0_4.tif",
+        "leaf069d0_5.tif"
+      ],
       "actual": {
         "fmc": 112.67605590820312,
         "chlorophyll": 66.80000305175781,
@@ -2659,6 +3744,13 @@
       "species": "Olive",
       "leaf": 101,
       "stage": 0,
+      "images": [
+        "leaf101d0_1.tif",
+        "leaf101d0_2.tif",
+        "leaf101d0_3.tif",
+        "leaf101d0_4.tif",
+        "leaf101d0_5.tif"
+      ],
       "actual": {
         "fmc": 141.025634765625,
         "chlorophyll": 62.400001525878906,
@@ -2676,6 +3768,13 @@
       "species": "Olive",
       "leaf": 26,
       "stage": 1,
+      "images": [
+        "leaf026d1_1.tif",
+        "leaf026d1_2.tif",
+        "leaf026d1_3.tif",
+        "leaf026d1_4.tif",
+        "leaf026d1_5.tif"
+      ],
       "actual": {
         "fmc": 82.78145599365234,
         "chlorophyll": 82.19999694824219,
@@ -2693,6 +3792,13 @@
       "species": "Olive",
       "leaf": 35,
       "stage": 0,
+      "images": [
+        "leaf035d0_1.tif",
+        "leaf035d0_2.tif",
+        "leaf035d0_3.tif",
+        "leaf035d0_4.tif",
+        "leaf035d0_5.tif"
+      ],
       "actual": {
         "fmc": 103.3057861328125,
         "chlorophyll": 67.4000015258789,
@@ -2710,6 +3816,13 @@
       "species": "Olive",
       "leaf": 55,
       "stage": 1,
+      "images": [
+        "leaf055d1_1.tif",
+        "leaf055d1_2.tif",
+        "leaf055d1_3.tif",
+        "leaf055d1_4.tif",
+        "leaf055d1_5.tif"
+      ],
       "actual": {
         "fmc": 73.37662506103516,
         "chlorophyll": 76.9000015258789,
@@ -2727,6 +3840,13 @@
       "species": "Olive",
       "leaf": 46,
       "stage": 0,
+      "images": [
+        "leaf046d0_1.tif",
+        "leaf046d0_2.tif",
+        "leaf046d0_3.tif",
+        "leaf046d0_4.tif",
+        "leaf046d0_5.tif"
+      ],
       "actual": {
         "fmc": 138.7596893310547,
         "chlorophyll": 62.20000076293945,
@@ -2744,6 +3864,13 @@
       "species": "Olive",
       "leaf": 71,
       "stage": 0,
+      "images": [
+        "leaf071d0_1.tif",
+        "leaf071d0_2.tif",
+        "leaf071d0_3.tif",
+        "leaf071d0_4.tif",
+        "leaf071d0_5.tif"
+      ],
       "actual": {
         "fmc": 115.67163848876953,
         "chlorophyll": 72.0,
@@ -2761,6 +3888,13 @@
       "species": "Olive",
       "leaf": 47,
       "stage": 2,
+      "images": [
+        "leaf047d2_1.tif",
+        "leaf047d2_2.tif",
+        "leaf047d2_3.tif",
+        "leaf047d2_4.tif",
+        "leaf047d2_5.tif"
+      ],
       "actual": {
         "fmc": 68.02721405029297,
         "chlorophyll": 88.4000015258789,
@@ -2778,6 +3912,13 @@
       "species": "Olive",
       "leaf": 26,
       "stage": 3,
+      "images": [
+        "leaf026d3_1.tif",
+        "leaf026d3_2.tif",
+        "leaf026d3_3.tif",
+        "leaf026d3_4.tif",
+        "leaf026d3_5.tif"
+      ],
       "actual": {
         "fmc": 35.76158905029297,
         "chlorophyll": 84.80000305175781,
@@ -2795,6 +3936,13 @@
       "species": "Olive",
       "leaf": 35,
       "stage": 2,
+      "images": [
+        "leaf035d2_1.tif",
+        "leaf035d2_2.tif",
+        "leaf035d2_3.tif",
+        "leaf035d2_4.tif",
+        "leaf035d2_5.tif"
+      ],
       "actual": {
         "fmc": 36.3636360168457,
         "chlorophyll": 82.0,
@@ -2812,6 +3960,13 @@
       "species": "Olive",
       "leaf": 84,
       "stage": 4,
+      "images": [
+        "leaf084d4_1.tif",
+        "leaf084d4_2.tif",
+        "leaf084d4_3.tif",
+        "leaf084d4_4.tif",
+        "leaf084d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 89.5,
@@ -2829,6 +3984,13 @@
       "species": "Vineyard",
       "leaf": 17,
       "stage": 2,
+      "images": [
+        "leaf017d2_1.tif",
+        "leaf017d2_2.tif",
+        "leaf017d2_3.tif",
+        "leaf017d2_4.tif",
+        "leaf017d2_5.tif"
+      ],
       "actual": {
         "fmc": 124.51612854003906,
         "chlorophyll": 29.799999237060547,
@@ -2846,6 +4008,13 @@
       "species": "Vineyard",
       "leaf": 52,
       "stage": 4,
+      "images": [
+        "leaf052d4_1.tif",
+        "leaf052d4_2.tif",
+        "leaf052d4_3.tif",
+        "leaf052d4_4.tif",
+        "leaf052d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 22.200000762939453,
@@ -2863,6 +4032,13 @@
       "species": "Vineyard",
       "leaf": 28,
       "stage": 4,
+      "images": [
+        "leaf028d4_1.tif",
+        "leaf028d4_2.tif",
+        "leaf028d4_3.tif",
+        "leaf028d4_4.tif",
+        "leaf028d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 35.0,
@@ -2880,6 +4056,13 @@
       "species": "Vineyard",
       "leaf": 52,
       "stage": 2,
+      "images": [
+        "leaf052d2_1.tif",
+        "leaf052d2_2.tif",
+        "leaf052d2_3.tif",
+        "leaf052d2_4.tif",
+        "leaf052d2_5.tif"
+      ],
       "actual": {
         "fmc": 113.91666412353516,
         "chlorophyll": 27.200000762939453,
@@ -2897,6 +4080,13 @@
       "species": "Vineyard",
       "leaf": 74,
       "stage": 2,
+      "images": [
+        "leaf074d2_1.tif",
+        "leaf074d2_2.tif",
+        "leaf074d2_3.tif",
+        "leaf074d2_4.tif",
+        "leaf074d2_5.tif"
+      ],
       "actual": {
         "fmc": 102.23175811767578,
         "chlorophyll": 27.0,
@@ -2914,6 +4104,13 @@
       "species": "Vineyard",
       "leaf": 51,
       "stage": 3,
+      "images": [
+        "leaf051d3_1.tif",
+        "leaf051d3_2.tif",
+        "leaf051d3_3.tif",
+        "leaf051d3_4.tif",
+        "leaf051d3_5.tif"
+      ],
       "actual": {
         "fmc": 107.41024017333984,
         "chlorophyll": 45.70000076293945,
@@ -2931,6 +4128,13 @@
       "species": "Vineyard",
       "leaf": 28,
       "stage": 2,
+      "images": [
+        "leaf028d2_1.tif",
+        "leaf028d2_2.tif",
+        "leaf028d2_3.tif",
+        "leaf028d2_4.tif",
+        "leaf028d2_5.tif"
+      ],
       "actual": {
         "fmc": 122.04878234863281,
         "chlorophyll": 32.29999923706055,
@@ -2948,6 +4152,13 @@
       "species": "Vineyard",
       "leaf": 39,
       "stage": 0,
+      "images": [
+        "leaf039d0_1.tif",
+        "leaf039d0_2.tif",
+        "leaf039d0_3.tif",
+        "leaf039d0_4.tif",
+        "leaf039d0_5.tif"
+      ],
       "actual": {
         "fmc": 298.125,
         "chlorophyll": 24.600000381469727,
@@ -2965,6 +4176,13 @@
       "species": "Vineyard",
       "leaf": 52,
       "stage": 0,
+      "images": [
+        "leaf052d0_1.tif",
+        "leaf052d0_2.tif",
+        "leaf052d0_3.tif",
+        "leaf052d0_4.tif",
+        "leaf052d0_5.tif"
+      ],
       "actual": {
         "fmc": 227.6666717529297,
         "chlorophyll": 26.700000762939453,
@@ -2982,6 +4200,13 @@
       "species": "Vineyard",
       "leaf": 74,
       "stage": 0,
+      "images": [
+        "leaf074d0_1.tif",
+        "leaf074d0_2.tif",
+        "leaf074d0_3.tif",
+        "leaf074d0_4.tif",
+        "leaf074d0_5.tif"
+      ],
       "actual": {
         "fmc": 202.06008911132812,
         "chlorophyll": 31.700000762939453,
@@ -2999,6 +4224,13 @@
       "species": "Vineyard",
       "leaf": 90,
       "stage": 0,
+      "images": [
+        "leaf090d0_1.tif",
+        "leaf090d0_2.tif",
+        "leaf090d0_3.tif",
+        "leaf090d0_4.tif",
+        "leaf090d0_5.tif"
+      ],
       "actual": {
         "fmc": 267.7372131347656,
         "chlorophyll": 24.799999237060547,
@@ -3016,6 +4248,13 @@
       "species": "Vineyard",
       "leaf": 51,
       "stage": 1,
+      "images": [
+        "leaf051d1_1.tif",
+        "leaf051d1_2.tif",
+        "leaf051d1_3.tif",
+        "leaf051d1_4.tif",
+        "leaf051d1_5.tif"
+      ],
       "actual": {
         "fmc": 162.33766174316406,
         "chlorophyll": 44.70000076293945,
@@ -3033,6 +4272,13 @@
       "species": "Vineyard",
       "leaf": 17,
       "stage": 4,
+      "images": [
+        "leaf017d4_1.tif",
+        "leaf017d4_2.tif",
+        "leaf017d4_3.tif",
+        "leaf017d4_4.tif",
+        "leaf017d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 47.400001525878906,
@@ -3050,6 +4296,13 @@
       "species": "Vineyard",
       "leaf": 39,
       "stage": 2,
+      "images": [
+        "leaf039d2_1.tif",
+        "leaf039d2_2.tif",
+        "leaf039d2_3.tif",
+        "leaf039d2_4.tif",
+        "leaf039d2_5.tif"
+      ],
       "actual": {
         "fmc": 111.25,
         "chlorophyll": 25.399999618530273,
@@ -3067,6 +4320,13 @@
       "species": "Vineyard",
       "leaf": 90,
       "stage": 2,
+      "images": [
+        "leaf090d2_1.tif",
+        "leaf090d2_2.tif",
+        "leaf090d2_3.tif",
+        "leaf090d2_4.tif",
+        "leaf090d2_5.tif"
+      ],
       "actual": {
         "fmc": 149.3430633544922,
         "chlorophyll": 29.5,
@@ -3084,6 +4344,13 @@
       "species": "Vineyard",
       "leaf": 39,
       "stage": 4,
+      "images": [
+        "leaf039d4_1.tif",
+        "leaf039d4_2.tif",
+        "leaf039d4_3.tif",
+        "leaf039d4_4.tif",
+        "leaf039d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 42.70000076293945,
@@ -3101,6 +4368,13 @@
       "species": "Vineyard",
       "leaf": 74,
       "stage": 4,
+      "images": [
+        "leaf074d4_1.tif",
+        "leaf074d4_2.tif",
+        "leaf074d4_3.tif",
+        "leaf074d4_4.tif",
+        "leaf074d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 37.29999923706055,
@@ -3118,6 +4392,13 @@
       "species": "Vineyard",
       "leaf": 90,
       "stage": 4,
+      "images": [
+        "leaf090d4_1.tif",
+        "leaf090d4_2.tif",
+        "leaf090d4_3.tif",
+        "leaf090d4_4.tif",
+        "leaf090d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 46.599998474121094,
@@ -3135,6 +4416,13 @@
       "species": "Vineyard",
       "leaf": 17,
       "stage": 0,
+      "images": [
+        "leaf017d0_1.tif",
+        "leaf017d0_2.tif",
+        "leaf017d0_3.tif",
+        "leaf017d0_4.tif",
+        "leaf017d0_5.tif"
+      ],
       "actual": {
         "fmc": 289.67742919921875,
         "chlorophyll": 24.399999618530273,
@@ -3152,6 +4440,13 @@
       "species": "Vineyard",
       "leaf": 28,
       "stage": 0,
+      "images": [
+        "leaf028d0_1.tif",
+        "leaf028d0_2.tif",
+        "leaf028d0_3.tif",
+        "leaf028d0_4.tif",
+        "leaf028d0_5.tif"
+      ],
       "actual": {
         "fmc": 243.7073211669922,
         "chlorophyll": 28.799999237060547,
@@ -3169,6 +4464,13 @@
       "species": "Vineyard",
       "leaf": 52,
       "stage": 1,
+      "images": [
+        "leaf052d1_1.tif",
+        "leaf052d1_2.tif",
+        "leaf052d1_3.tif",
+        "leaf052d1_4.tif",
+        "leaf052d1_5.tif"
+      ],
       "actual": {
         "fmc": 161.5,
         "chlorophyll": 27.200000762939453,
@@ -3186,6 +4488,13 @@
       "species": "Vineyard",
       "leaf": 90,
       "stage": 1,
+      "images": [
+        "leaf090d1_1.tif",
+        "leaf090d1_2.tif",
+        "leaf090d1_3.tif",
+        "leaf090d1_4.tif",
+        "leaf090d1_5.tif"
+      ],
       "actual": {
         "fmc": 201.7518310546875,
         "chlorophyll": 29.600000381469727,
@@ -3203,6 +4512,13 @@
       "species": "Vineyard",
       "leaf": 51,
       "stage": 0,
+      "images": [
+        "leaf051d0_1.tif",
+        "leaf051d0_2.tif",
+        "leaf051d0_3.tif",
+        "leaf051d0_4.tif",
+        "leaf051d0_5.tif"
+      ],
       "actual": {
         "fmc": 206.72268676757812,
         "chlorophyll": 40.79999923706055,
@@ -3220,6 +4536,13 @@
       "species": "Vineyard",
       "leaf": 39,
       "stage": 3,
+      "images": [
+        "leaf039d3_1.tif",
+        "leaf039d3_2.tif",
+        "leaf039d3_3.tif",
+        "leaf039d3_4.tif",
+        "leaf039d3_5.tif"
+      ],
       "actual": {
         "fmc": 48.33333206176758,
         "chlorophyll": 30.100000381469727,
@@ -3237,6 +4560,13 @@
       "species": "Vineyard",
       "leaf": 28,
       "stage": 1,
+      "images": [
+        "leaf028d1_1.tif",
+        "leaf028d1_2.tif",
+        "leaf028d1_3.tif",
+        "leaf028d1_4.tif",
+        "leaf028d1_5.tif"
+      ],
       "actual": {
         "fmc": 171.31707763671875,
         "chlorophyll": 29.700000762939453,
@@ -3254,6 +4584,13 @@
       "species": "Vineyard",
       "leaf": 90,
       "stage": 3,
+      "images": [
+        "leaf090d3_1.tif",
+        "leaf090d3_2.tif",
+        "leaf090d3_3.tif",
+        "leaf090d3_4.tif",
+        "leaf090d3_5.tif"
+      ],
       "actual": {
         "fmc": 101.75182342529297,
         "chlorophyll": 30.700000762939453,
@@ -3271,6 +4608,13 @@
       "species": "Vineyard",
       "leaf": 74,
       "stage": 3,
+      "images": [
+        "leaf074d3_1.tif",
+        "leaf074d3_2.tif",
+        "leaf074d3_3.tif",
+        "leaf074d3_4.tif",
+        "leaf074d3_5.tif"
+      ],
       "actual": {
         "fmc": 66.3519287109375,
         "chlorophyll": 32.599998474121094,
@@ -3288,6 +4632,13 @@
       "species": "Vineyard",
       "leaf": 39,
       "stage": 1,
+      "images": [
+        "leaf039d1_1.tif",
+        "leaf039d1_2.tif",
+        "leaf039d1_3.tif",
+        "leaf039d1_4.tif",
+        "leaf039d1_5.tif"
+      ],
       "actual": {
         "fmc": 196.6666717529297,
         "chlorophyll": 24.600000381469727,
@@ -3305,6 +4656,13 @@
       "species": "Vineyard",
       "leaf": 17,
       "stage": 1,
+      "images": [
+        "leaf017d1_1.tif",
+        "leaf017d1_2.tif",
+        "leaf017d1_3.tif",
+        "leaf017d1_4.tif",
+        "leaf017d1_5.tif"
+      ],
       "actual": {
         "fmc": 204.83871459960938,
         "chlorophyll": 28.299999237060547,
@@ -3322,6 +4680,13 @@
       "species": "Vineyard",
       "leaf": 51,
       "stage": 2,
+      "images": [
+        "leaf051d2_1.tif",
+        "leaf051d2_2.tif",
+        "leaf051d2_3.tif",
+        "leaf051d2_4.tif",
+        "leaf051d2_5.tif"
+      ],
       "actual": {
         "fmc": 135.2177276611328,
         "chlorophyll": 45.29999923706055,
@@ -3339,6 +4704,13 @@
       "species": "Vineyard",
       "leaf": 52,
       "stage": 3,
+      "images": [
+        "leaf052d3_1.tif",
+        "leaf052d3_2.tif",
+        "leaf052d3_3.tif",
+        "leaf052d3_4.tif",
+        "leaf052d3_5.tif"
+      ],
       "actual": {
         "fmc": 65.33333587646484,
         "chlorophyll": 31.600000381469727,
@@ -3356,6 +4728,13 @@
       "species": "Vineyard",
       "leaf": 74,
       "stage": 1,
+      "images": [
+        "leaf074d1_1.tif",
+        "leaf074d1_2.tif",
+        "leaf074d1_3.tif",
+        "leaf074d1_4.tif",
+        "leaf074d1_5.tif"
+      ],
       "actual": {
         "fmc": 141.54505920410156,
         "chlorophyll": 29.600000381469727,
@@ -3373,6 +4752,13 @@
       "species": "Vineyard",
       "leaf": 28,
       "stage": 3,
+      "images": [
+        "leaf028d3_1.tif",
+        "leaf028d3_2.tif",
+        "leaf028d3_3.tif",
+        "leaf028d3_4.tif",
+        "leaf028d3_5.tif"
+      ],
       "actual": {
         "fmc": 76.09756469726562,
         "chlorophyll": 33.599998474121094,
@@ -3390,6 +4776,13 @@
       "species": "Vineyard",
       "leaf": 51,
       "stage": 4,
+      "images": [
+        "leaf051d4_1.tif",
+        "leaf051d4_2.tif",
+        "leaf051d4_3.tif",
+        "leaf051d4_4.tif",
+        "leaf051d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 23.600000381469727,
@@ -3407,6 +4800,13 @@
       "species": "Vineyard",
       "leaf": 17,
       "stage": 3,
+      "images": [
+        "leaf017d3_1.tif",
+        "leaf017d3_2.tif",
+        "leaf017d3_3.tif",
+        "leaf017d3_4.tif",
+        "leaf017d3_5.tif"
+      ],
       "actual": {
         "fmc": 41.6129035949707,
         "chlorophyll": 28.799999237060547,
@@ -3424,6 +4824,13 @@
       "species": "Vineyard",
       "leaf": 63,
       "stage": 4,
+      "images": [
+        "leaf063d4_1.tif",
+        "leaf063d4_2.tif",
+        "leaf063d4_3.tif",
+        "leaf063d4_4.tif",
+        "leaf063d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 48.5,
@@ -3441,6 +4848,13 @@
       "species": "Vineyard",
       "leaf": 24,
       "stage": 3,
+      "images": [
+        "leaf024d3_1.tif",
+        "leaf024d3_2.tif",
+        "leaf024d3_3.tif",
+        "leaf024d3_4.tif",
+        "leaf024d3_5.tif"
+      ],
       "actual": {
         "fmc": 58.70307159423828,
         "chlorophyll": 34.900001525878906,
@@ -3458,6 +4872,13 @@
       "species": "Vineyard",
       "leaf": 26,
       "stage": 2,
+      "images": [
+        "leaf026d2_1.tif",
+        "leaf026d2_2.tif",
+        "leaf026d2_3.tif",
+        "leaf026d2_4.tif",
+        "leaf026d2_5.tif"
+      ],
       "actual": {
         "fmc": 129.39666748046875,
         "chlorophyll": 30.200000762939453,
@@ -3475,6 +4896,13 @@
       "species": "Vineyard",
       "leaf": 36,
       "stage": 2,
+      "images": [
+        "leaf036d2_1.tif",
+        "leaf036d2_2.tif",
+        "leaf036d2_3.tif",
+        "leaf036d2_4.tif",
+        "leaf036d2_5.tif"
+      ],
       "actual": {
         "fmc": 126.58349609375,
         "chlorophyll": 32.0,
@@ -3492,6 +4920,13 @@
       "species": "Vineyard",
       "leaf": 44,
       "stage": 4,
+      "images": [
+        "leaf044d4_1.tif",
+        "leaf044d4_2.tif",
+        "leaf044d4_3.tif",
+        "leaf044d4_4.tif",
+        "leaf044d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 33.900001525878906,
@@ -3509,6 +4944,13 @@
       "species": "Vineyard",
       "leaf": 24,
       "stage": 1,
+      "images": [
+        "leaf024d1_1.tif",
+        "leaf024d1_2.tif",
+        "leaf024d1_3.tif",
+        "leaf024d1_4.tif",
+        "leaf024d1_5.tif"
+      ],
       "actual": {
         "fmc": 178.15699768066406,
         "chlorophyll": 32.099998474121094,
@@ -3526,6 +4968,13 @@
       "species": "Vineyard",
       "leaf": 36,
       "stage": 4,
+      "images": [
+        "leaf036d4_1.tif",
+        "leaf036d4_2.tif",
+        "leaf036d4_3.tif",
+        "leaf036d4_4.tif",
+        "leaf036d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 30.5,
@@ -3543,6 +4992,13 @@
       "species": "Vineyard",
       "leaf": 26,
       "stage": 4,
+      "images": [
+        "leaf026d4_1.tif",
+        "leaf026d4_2.tif",
+        "leaf026d4_3.tif",
+        "leaf026d4_4.tif",
+        "leaf026d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 39.599998474121094,
@@ -3560,6 +5016,13 @@
       "species": "Vineyard",
       "leaf": 44,
       "stage": 2,
+      "images": [
+        "leaf044d2_1.tif",
+        "leaf044d2_2.tif",
+        "leaf044d2_3.tif",
+        "leaf044d2_4.tif",
+        "leaf044d2_5.tif"
+      ],
       "actual": {
         "fmc": 123.64865112304688,
         "chlorophyll": 37.400001525878906,
@@ -3577,6 +5040,13 @@
       "species": "Vineyard",
       "leaf": 55,
       "stage": 0,
+      "images": [
+        "leaf055d0_1.tif",
+        "leaf055d0_2.tif",
+        "leaf055d0_3.tif",
+        "leaf055d0_4.tif",
+        "leaf055d0_5.tif"
+      ],
       "actual": {
         "fmc": 205.8402862548828,
         "chlorophyll": 40.79999923706055,
@@ -3594,6 +5064,13 @@
       "species": "Vineyard",
       "leaf": 63,
       "stage": 0,
+      "images": [
+        "leaf063d0_1.tif",
+        "leaf063d0_2.tif",
+        "leaf063d0_3.tif",
+        "leaf063d0_4.tif",
+        "leaf063d0_5.tif"
+      ],
       "actual": {
         "fmc": 227.55474853515625,
         "chlorophyll": 37.29999923706055,
@@ -3611,6 +5088,13 @@
       "species": "Vineyard",
       "leaf": 18,
       "stage": 0,
+      "images": [
+        "leaf018d0_1.tif",
+        "leaf018d0_2.tif",
+        "leaf018d0_3.tif",
+        "leaf018d0_4.tif",
+        "leaf018d0_5.tif"
+      ],
       "actual": {
         "fmc": 219.9261932373047,
         "chlorophyll": 31.0,
@@ -3628,6 +5112,13 @@
       "species": "Vineyard",
       "leaf": 95,
       "stage": 1,
+      "images": [
+        "leaf095d1_1.tif",
+        "leaf095d1_2.tif",
+        "leaf095d1_3.tif",
+        "leaf095d1_4.tif",
+        "leaf095d1_5.tif"
+      ],
       "actual": {
         "fmc": 202.7971954345703,
         "chlorophyll": 25.299999237060547,
@@ -3645,6 +5136,13 @@
       "species": "Vineyard",
       "leaf": 55,
       "stage": 2,
+      "images": [
+        "leaf055d2_1.tif",
+        "leaf055d2_2.tif",
+        "leaf055d2_3.tif",
+        "leaf055d2_4.tif",
+        "leaf055d2_5.tif"
+      ],
       "actual": {
         "fmc": 126.46006774902344,
         "chlorophyll": 38.0,
@@ -3662,6 +5160,13 @@
       "species": "Vineyard",
       "leaf": 63,
       "stage": 2,
+      "images": [
+        "leaf063d2_1.tif",
+        "leaf063d2_2.tif",
+        "leaf063d2_3.tif",
+        "leaf063d2_4.tif",
+        "leaf063d2_5.tif"
+      ],
       "actual": {
         "fmc": 104.74452209472656,
         "chlorophyll": 37.70000076293945,
@@ -3679,6 +5184,13 @@
       "species": "Vineyard",
       "leaf": 18,
       "stage": 2,
+      "images": [
+        "leaf018d2_1.tif",
+        "leaf018d2_2.tif",
+        "leaf018d2_3.tif",
+        "leaf018d2_4.tif",
+        "leaf018d2_5.tif"
+      ],
       "actual": {
         "fmc": 119.28044128417969,
         "chlorophyll": 28.200000762939453,
@@ -3696,6 +5208,13 @@
       "species": "Vineyard",
       "leaf": 36,
       "stage": 0,
+      "images": [
+        "leaf036d0_1.tif",
+        "leaf036d0_2.tif",
+        "leaf036d0_3.tif",
+        "leaf036d0_4.tif",
+        "leaf036d0_5.tif"
+      ],
       "actual": {
         "fmc": 218.52207946777344,
         "chlorophyll": 33.20000076293945,
@@ -3713,6 +5232,13 @@
       "species": "Vineyard",
       "leaf": 26,
       "stage": 0,
+      "images": [
+        "leaf026d0_1.tif",
+        "leaf026d0_2.tif",
+        "leaf026d0_3.tif",
+        "leaf026d0_4.tif",
+        "leaf026d0_5.tif"
+      ],
       "actual": {
         "fmc": 253.65853881835938,
         "chlorophyll": 27.600000381469727,
@@ -3730,6 +5256,13 @@
       "species": "Vineyard",
       "leaf": 55,
       "stage": 4,
+      "images": [
+        "leaf055d4_1.tif",
+        "leaf055d4_2.tif",
+        "leaf055d4_3.tif",
+        "leaf055d4_4.tif",
+        "leaf055d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 22.200000762939453,
@@ -3747,6 +5280,13 @@
       "species": "Vineyard",
       "leaf": 18,
       "stage": 4,
+      "images": [
+        "leaf018d4_1.tif",
+        "leaf018d4_2.tif",
+        "leaf018d4_3.tif",
+        "leaf018d4_4.tif",
+        "leaf018d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 38.900001525878906,
@@ -3764,6 +5304,13 @@
       "species": "Vineyard",
       "leaf": 95,
       "stage": 3,
+      "images": [
+        "leaf095d3_1.tif",
+        "leaf095d3_2.tif",
+        "leaf095d3_3.tif",
+        "leaf095d3_4.tif",
+        "leaf095d3_5.tif"
+      ],
       "actual": {
         "fmc": 84.44055938720703,
         "chlorophyll": 27.600000381469727,
@@ -3781,6 +5328,13 @@
       "species": "Vineyard",
       "leaf": 44,
       "stage": 0,
+      "images": [
+        "leaf044d0_1.tif",
+        "leaf044d0_2.tif",
+        "leaf044d0_3.tif",
+        "leaf044d0_4.tif",
+        "leaf044d0_5.tif"
+      ],
       "actual": {
         "fmc": 241.1317596435547,
         "chlorophyll": 41.70000076293945,
@@ -3798,6 +5352,13 @@
       "species": "Vineyard",
       "leaf": 18,
       "stage": 1,
+      "images": [
+        "leaf018d1_1.tif",
+        "leaf018d1_2.tif",
+        "leaf018d1_3.tif",
+        "leaf018d1_4.tif",
+        "leaf018d1_5.tif"
+      ],
       "actual": {
         "fmc": 180.62730407714844,
         "chlorophyll": 26.700000762939453,
@@ -3815,6 +5376,13 @@
       "species": "Vineyard",
       "leaf": 55,
       "stage": 3,
+      "images": [
+        "leaf055d3_1.tif",
+        "leaf055d3_2.tif",
+        "leaf055d3_3.tif",
+        "leaf055d3_4.tif",
+        "leaf055d3_5.tif"
+      ],
       "actual": {
         "fmc": 92.72943878173828,
         "chlorophyll": 37.0,
@@ -3832,6 +5400,13 @@
       "species": "Vineyard",
       "leaf": 44,
       "stage": 1,
+      "images": [
+        "leaf044d1_1.tif",
+        "leaf044d1_2.tif",
+        "leaf044d1_3.tif",
+        "leaf044d1_4.tif",
+        "leaf044d1_5.tif"
+      ],
       "actual": {
         "fmc": 170.86148071289062,
         "chlorophyll": 36.70000076293945,
@@ -3849,6 +5424,13 @@
       "species": "Vineyard",
       "leaf": 24,
       "stage": 4,
+      "images": [
+        "leaf024d4_1.tif",
+        "leaf024d4_2.tif",
+        "leaf024d4_3.tif",
+        "leaf024d4_4.tif",
+        "leaf024d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 49.5,
@@ -3866,6 +5448,13 @@
       "species": "Vineyard",
       "leaf": 18,
       "stage": 3,
+      "images": [
+        "leaf018d3_1.tif",
+        "leaf018d3_2.tif",
+        "leaf018d3_3.tif",
+        "leaf018d3_4.tif",
+        "leaf018d3_5.tif"
+      ],
       "actual": {
         "fmc": 109.50184631347656,
         "chlorophyll": 32.400001525878906,
@@ -3883,6 +5472,13 @@
       "species": "Vineyard",
       "leaf": 95,
       "stage": 2,
+      "images": [
+        "leaf095d2_1.tif",
+        "leaf095d2_2.tif",
+        "leaf095d2_3.tif",
+        "leaf095d2_4.tif",
+        "leaf095d2_5.tif"
+      ],
       "actual": {
         "fmc": 142.48251342773438,
         "chlorophyll": 27.0,
@@ -3900,6 +5496,13 @@
       "species": "Vineyard",
       "leaf": 63,
       "stage": 1,
+      "images": [
+        "leaf063d1_1.tif",
+        "leaf063d1_2.tif",
+        "leaf063d1_3.tif",
+        "leaf063d1_4.tif",
+        "leaf063d1_5.tif"
+      ],
       "actual": {
         "fmc": 159.48904418945312,
         "chlorophyll": 34.599998474121094,
@@ -3917,6 +5520,13 @@
       "species": "Vineyard",
       "leaf": 95,
       "stage": 4,
+      "images": [
+        "leaf095d4_1.tif",
+        "leaf095d4_2.tif",
+        "leaf095d4_3.tif",
+        "leaf095d4_4.tif",
+        "leaf095d4_5.tif"
+      ],
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 54.20000076293945,
@@ -3934,6 +5544,13 @@
       "species": "Vineyard",
       "leaf": 36,
       "stage": 1,
+      "images": [
+        "leaf036d1_1.tif",
+        "leaf036d1_2.tif",
+        "leaf036d1_3.tif",
+        "leaf036d1_4.tif",
+        "leaf036d1_5.tif"
+      ],
       "actual": {
         "fmc": 167.08253479003906,
         "chlorophyll": 33.0,
@@ -3951,6 +5568,13 @@
       "species": "Vineyard",
       "leaf": 26,
       "stage": 1,
+      "images": [
+        "leaf026d1_1.tif",
+        "leaf026d1_2.tif",
+        "leaf026d1_3.tif",
+        "leaf026d1_4.tif",
+        "leaf026d1_5.tif"
+      ],
       "actual": {
         "fmc": 178.17715454101562,
         "chlorophyll": 27.200000762939453,
@@ -3968,6 +5592,13 @@
       "species": "Vineyard",
       "leaf": 24,
       "stage": 2,
+      "images": [
+        "leaf024d2_1.tif",
+        "leaf024d2_2.tif",
+        "leaf024d2_3.tif",
+        "leaf024d2_4.tif",
+        "leaf024d2_5.tif"
+      ],
       "actual": {
         "fmc": 115.52900695800781,
         "chlorophyll": 32.79999923706055,
@@ -3985,6 +5616,13 @@
       "species": "Vineyard",
       "leaf": 24,
       "stage": 0,
+      "images": [
+        "leaf024d0_1.tif",
+        "leaf024d0_2.tif",
+        "leaf024d0_3.tif",
+        "leaf024d0_4.tif",
+        "leaf024d0_5.tif"
+      ],
       "actual": {
         "fmc": 263.6518859863281,
         "chlorophyll": 32.20000076293945,
@@ -4002,6 +5640,13 @@
       "species": "Vineyard",
       "leaf": 55,
       "stage": 1,
+      "images": [
+        "leaf055d1_1.tif",
+        "leaf055d1_2.tif",
+        "leaf055d1_3.tif",
+        "leaf055d1_4.tif",
+        "leaf055d1_5.tif"
+      ],
       "actual": {
         "fmc": 157.68772888183594,
         "chlorophyll": 34.0,
@@ -4019,6 +5664,13 @@
       "species": "Vineyard",
       "leaf": 63,
       "stage": 3,
+      "images": [
+        "leaf063d3_1.tif",
+        "leaf063d3_2.tif",
+        "leaf063d3_3.tif",
+        "leaf063d3_4.tif",
+        "leaf063d3_5.tif"
+      ],
       "actual": {
         "fmc": 50.18247985839844,
         "chlorophyll": 37.29999923706055,
@@ -4036,6 +5688,13 @@
       "species": "Vineyard",
       "leaf": 95,
       "stage": 0,
+      "images": [
+        "leaf095d0_1.tif",
+        "leaf095d0_2.tif",
+        "leaf095d0_3.tif",
+        "leaf095d0_4.tif",
+        "leaf095d0_5.tif"
+      ],
       "actual": {
         "fmc": 291.9580383300781,
         "chlorophyll": 27.899999618530273,
@@ -4053,6 +5712,13 @@
       "species": "Vineyard",
       "leaf": 44,
       "stage": 3,
+      "images": [
+        "leaf044d3_1.tif",
+        "leaf044d3_2.tif",
+        "leaf044d3_3.tif",
+        "leaf044d3_4.tif",
+        "leaf044d3_5.tif"
+      ],
       "actual": {
         "fmc": 80.65878295898438,
         "chlorophyll": 39.099998474121094,
@@ -4070,6 +5736,13 @@
       "species": "Vineyard",
       "leaf": 26,
       "stage": 3,
+      "images": [
+        "leaf026d3_1.tif",
+        "leaf026d3_2.tif",
+        "leaf026d3_3.tif",
+        "leaf026d3_4.tif",
+        "leaf026d3_5.tif"
+      ],
       "actual": {
         "fmc": 83.4403076171875,
         "chlorophyll": 29.0,
@@ -4087,6 +5760,13 @@
       "species": "Vineyard",
       "leaf": 36,
       "stage": 3,
+      "images": [
+        "leaf036d3_1.tif",
+        "leaf036d3_2.tif",
+        "leaf036d3_3.tif",
+        "leaf036d3_4.tif",
+        "leaf036d3_5.tif"
+      ],
       "actual": {
         "fmc": 89.15547180175781,
         "chlorophyll": 33.20000076293945,

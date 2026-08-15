@@ -70,6 +70,11 @@ def list_image_names() -> list[str]:
     )
 
 
+def dataset_label() -> str:
+    """A human-friendly name for the gallery folder, e.g. for the subtitle."""
+    return IMAGE_DIR.parent.name.replace("-", " ").replace("_", " ").title()
+
+
 def resolve_image(name: str) -> Path:
     """Resolve an image name to a path, guarding against traversal."""
     # Reject anything that tries to escape the gallery directory.
@@ -82,12 +87,14 @@ def resolve_image(name: str) -> Path:
 
 
 # Plausible ranges for each trait, used to generate mock PoC data. There is no
-# real ground-truth measurement dataset behind this yet.
+# real ground-truth measurement dataset behind this yet. Order matters: the
+# traits that feed the leaf health score (see HEALTH_TRAIT_KEYS) are listed
+# first so the detail view can group them visually.
 TRAIT_RANGES = {
     "fuel_moisture": ("Fuel moisture content", "%", 35.0, 75.0),
-    "weight": ("Weight", "g", 120.0, 420.0),
     "chlorophyll": ("Chlorophyll", "SPAD", 20.0, 55.0),
     "nitrogen": ("Nitrogen", "mg/g", 12.0, 45.0),
+    "weight": ("Weight", "g", 120.0, 420.0),
 }
 
 
@@ -114,6 +121,15 @@ def mock_traits(name: str) -> list[dict[str, str | float]]:
 # plant stress. Weight is a size/biomass measure, not a health signal.
 HEALTH_TRAIT_KEYS = ("fuel_moisture", "chlorophyll", "nitrogen")
 
+# The 0-100 stress score is split into four equal 25-point bands, from
+# healthiest to most stressed.
+STATUS_TIERS = [
+    (25, "Ok", "✅"),
+    (50, "Warning", "⚠️"),
+    (75, "Danger", "🚨"),
+    (100, "Fire", "🔥"),
+]
+
 
 def leaf_status(traits: list[dict[str, str | float]]) -> dict[str, float | str]:
     """Roll fuel moisture, chlorophyll and nitrogen into a single stress score.
@@ -129,14 +145,11 @@ def leaf_status(traits: list[dict[str, str | float]]) -> dict[str, float | str]:
         stress_components.append(1 - normalized)
     score = round(sum(stress_components) / len(stress_components) * 100, 1)
 
-    if score < 33:
-        label = "Healthy"
-    elif score < 66:
-        label = "Stressed"
-    else:
-        label = "Dry"
+    for max_score, label, emoji in STATUS_TIERS:
+        if score <= max_score:
+            break
 
-    return {"score": score, "label": label}
+    return {"score": score, "label": label, "emoji": emoji}
 
 
 @lru_cache(maxsize=512)
@@ -171,6 +184,7 @@ def index(request: Request):
         "index.html",
         {
             "image_dir": str(IMAGE_DIR),
+            "dataset_label": dataset_label(),
             "count": len(list_image_names()),
         },
     )
