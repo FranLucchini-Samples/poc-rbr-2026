@@ -12,6 +12,7 @@ dependencies = [
     "opencv-python>=5.0.0.93",
     "pandas==3.0.5",
     "pillow>=12.3.0",
+    "pyodm>=1.5.13",
     "rasterio>=1.5.1",
     "rioxarray>=0.23.0",
     "shapely>=2.1.2",
