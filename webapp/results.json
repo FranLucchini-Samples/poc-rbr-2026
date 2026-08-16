@@ -1,0 +1,6024 @@
+{
+  "checkpoint": "resnet18_leaf_traits_20260815_184426.pt",
+  "n_samples": 240,
+  "metrics": {
+    "fmc": {
+      "r2": 0.8151639699935913,
+      "mae": 22.202211380004883
+    },
+    "chlorophyll": {
+      "r2": 0.8151687383651733,
+      "mae": 7.637016773223877
+    },
+    "nitrogen": {
+      "r2": 0.8564256429672241,
+      "mae": 1.8506217002868652
+    },
+    "weight": {
+      "r2": 0.8210669755935669,
+      "mae": 0.26321882009506226
+    }
+  },
+  "samples": [
+    {
+      "species": "Avocado",
+      "leaf": 89,
+      "stage": 2,
+      "images": [
+        "leaf089d2_1.tif",
+        "leaf089d2_2.tif",
+        "leaf089d2_3.tif",
+        "leaf089d2_4.tif",
+        "leaf089d2_5.tif"
+      ],
+      "filename": "Avocado_leaf089_stage2.png",
+      "actual": {
+        "fmc": 56.28140640258789,
+        "chlorophyll": 58.63333511352539,
+        "nitrogen": 18.133333206176758,
+        "weight": 0.9330000281333923
+      },
+      "predicted": {
+        "fmc": 101.27344512939453,
+        "chlorophyll": 55.0485725402832,
+        "nitrogen": 17.907928466796875,
+        "weight": 1.4866745471954346
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 65,
+      "stage": 4,
+      "images": [
+        "leaf065d4_1.tif",
+        "leaf065d4_2.tif",
+        "leaf065d4_3.tif",
+        "leaf065d4_4.tif",
+        "leaf065d4_5.tif"
+      ],
+      "filename": "Avocado_leaf065_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 90.0,
+        "nitrogen": 27.5,
+        "weight": 0.7699999809265137
+      },
+      "predicted": {
+        "fmc": 4.273887634277344,
+        "chlorophyll": 71.27140808105469,
+        "nitrogen": 24.619688034057617,
+        "weight": 0.4483772814273834
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 99,
+      "stage": 2,
+      "images": [
+        "leaf099d2_1.tif",
+        "leaf099d2_2.tif",
+        "leaf099d2_3.tif",
+        "leaf099d2_4.tif",
+        "leaf099d2_5.tif"
+      ],
+      "filename": "Avocado_leaf099_stage2.png",
+      "actual": {
+        "fmc": 55.769229888916016,
+        "chlorophyll": 61.233333587646484,
+        "nitrogen": 18.899999618530273,
+        "weight": 0.890999972820282
+      },
+      "predicted": {
+        "fmc": 49.71329879760742,
+        "chlorophyll": 61.433292388916016,
+        "nitrogen": 22.11564826965332,
+        "weight": 1.0735514163970947
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 16,
+      "stage": 0,
+      "images": [
+        "leaf016d0_1.tif",
+        "leaf016d0_2.tif",
+        "leaf016d0_3.tif",
+        "leaf016d0_4.tif",
+        "leaf016d0_5.tif"
+      ],
+      "filename": "Avocado_leaf016_stage0.png",
+      "actual": {
+        "fmc": 127.76148223876953,
+        "chlorophyll": 61.099998474121094,
+        "nitrogen": 18.866666793823242,
+        "weight": 2.3299999237060547
+      },
+      "predicted": {
+        "fmc": 71.82688903808594,
+        "chlorophyll": 57.569637298583984,
+        "nitrogen": 19.818683624267578,
+        "weight": 1.3917386531829834
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 6,
+      "stage": 0,
+      "images": [
+        "leaf006d0_1.tif",
+        "leaf006d0_2.tif",
+        "leaf006d0_3.tif",
+        "leaf006d0_4.tif",
+        "leaf006d0_5.tif"
+      ],
+      "filename": "Avocado_leaf006_stage0.png",
+      "actual": {
+        "fmc": 152.22840881347656,
+        "chlorophyll": 62.20000076293945,
+        "nitrogen": 19.16666603088379,
+        "weight": 1.8109999895095825
+      },
+      "predicted": {
+        "fmc": 98.08064270019531,
+        "chlorophyll": 60.76249694824219,
+        "nitrogen": 19.136838912963867,
+        "weight": 1.5587420463562012
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 89,
+      "stage": 0,
+      "images": [
+        "leaf089d0_1.tif",
+        "leaf089d0_2.tif",
+        "leaf089d0_3.tif",
+        "leaf089d0_4.tif",
+        "leaf089d0_5.tif"
+      ],
+      "filename": "Avocado_leaf089_stage0.png",
+      "actual": {
+        "fmc": 118.92797088623047,
+        "chlorophyll": 56.20000076293945,
+        "nitrogen": 17.399999618530273,
+        "weight": 1.3070000410079956
+      },
+      "predicted": {
+        "fmc": 77.90235900878906,
+        "chlorophyll": 66.9056396484375,
+        "nitrogen": 20.236658096313477,
+        "weight": 1.134519100189209
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 99,
+      "stage": 0,
+      "images": [
+        "leaf099d0_1.tif",
+        "leaf099d0_2.tif",
+        "leaf099d0_3.tif",
+        "leaf099d0_4.tif",
+        "leaf099d0_5.tif"
+      ],
+      "filename": "Avocado_leaf099_stage0.png",
+      "actual": {
+        "fmc": 124.1258773803711,
+        "chlorophyll": 53.599998474121094,
+        "nitrogen": 16.633333206176758,
+        "weight": 1.281999945640564
+      },
+      "predicted": {
+        "fmc": 75.94676208496094,
+        "chlorophyll": 58.86174011230469,
+        "nitrogen": 19.607818603515625,
+        "weight": 1.002176284790039
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 16,
+      "stage": 2,
+      "images": [
+        "leaf016d2_1.tif",
+        "leaf016d2_2.tif",
+        "leaf016d2_3.tif",
+        "leaf016d2_4.tif",
+        "leaf016d2_5.tif"
+      ],
+      "filename": "Avocado_leaf016_stage2.png",
+      "actual": {
+        "fmc": 85.63050079345703,
+        "chlorophyll": 75.9000015258789,
+        "nitrogen": 23.33333396911621,
+        "weight": 1.8990000486373901
+      },
+      "predicted": {
+        "fmc": 76.46647644042969,
+        "chlorophyll": 69.43353271484375,
+        "nitrogen": 21.301122665405273,
+        "weight": 1.4654309749603271
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 6,
+      "stage": 2,
+      "images": [
+        "leaf006d2_1.tif",
+        "leaf006d2_2.tif",
+        "leaf006d2_3.tif",
+        "leaf006d2_4.tif",
+        "leaf006d2_5.tif"
+      ],
+      "filename": "Avocado_leaf006_stage2.png",
+      "actual": {
+        "fmc": 79.10863494873047,
+        "chlorophyll": 90.5,
+        "nitrogen": 27.700000762939453,
+        "weight": 1.2860000133514404
+      },
+      "predicted": {
+        "fmc": 93.62250518798828,
+        "chlorophyll": 65.17015075683594,
+        "nitrogen": 18.04679298400879,
+        "weight": 1.1890277862548828
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 59,
+      "stage": 3,
+      "images": [
+        "leaf059d3_1.tif",
+        "leaf059d3_2.tif",
+        "leaf059d3_3.tif",
+        "leaf059d3_4.tif",
+        "leaf059d3_5.tif"
+      ],
+      "filename": "Avocado_leaf059_stage3.png",
+      "actual": {
+        "fmc": 12.903225898742676,
+        "chlorophyll": 62.29999923706055,
+        "nitrogen": 19.200000762939453,
+        "weight": 0.6299999952316284
+      },
+      "predicted": {
+        "fmc": 32.0467529296875,
+        "chlorophyll": 70.92929077148438,
+        "nitrogen": 22.16448974609375,
+        "weight": 0.4899944067001343
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 64,
+      "stage": 2,
+      "images": [
+        "leaf064d2_1.tif",
+        "leaf064d2_2.tif",
+        "leaf064d2_3.tif",
+        "leaf064d2_4.tif",
+        "leaf064d2_5.tif"
+      ],
+      "filename": "Avocado_leaf064_stage2.png",
+      "actual": {
+        "fmc": 61.450382232666016,
+        "chlorophyll": 68.69999694824219,
+        "nitrogen": 21.16666603088379,
+        "weight": 1.2690000534057617
+      },
+      "predicted": {
+        "fmc": 110.349853515625,
+        "chlorophyll": 50.346649169921875,
+        "nitrogen": 17.223249435424805,
+        "weight": 1.4534187316894531
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 67,
+      "stage": 3,
+      "images": [
+        "leaf067d3_1.tif",
+        "leaf067d3_2.tif",
+        "leaf067d3_3.tif",
+        "leaf067d3_4.tif",
+        "leaf067d3_5.tif"
+      ],
+      "filename": "Avocado_leaf067_stage3.png",
+      "actual": {
+        "fmc": 32.66033172607422,
+        "chlorophyll": 82.46666717529297,
+        "nitrogen": 25.266666412353516,
+        "weight": 1.1169999837875366
+      },
+      "predicted": {
+        "fmc": 16.905357360839844,
+        "chlorophyll": 72.2018051147461,
+        "nitrogen": 23.41069984436035,
+        "weight": 0.7733501195907593
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 29,
+      "stage": 0,
+      "images": [
+        "leaf029d0_1.tif",
+        "leaf029d0_2.tif",
+        "leaf029d0_3.tif",
+        "leaf029d0_4.tif",
+        "leaf029d0_5.tif"
+      ],
+      "filename": "Avocado_leaf029_stage0.png",
+      "actual": {
+        "fmc": 139.5781707763672,
+        "chlorophyll": 66.96666717529297,
+        "nitrogen": 20.633333206176758,
+        "weight": 1.930999994277954
+      },
+      "predicted": {
+        "fmc": 91.47418212890625,
+        "chlorophyll": 51.46714401245117,
+        "nitrogen": 17.865814208984375,
+        "weight": 1.4908123016357422
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 65,
+      "stage": 2,
+      "images": [
+        "leaf065d2_1.tif",
+        "leaf065d2_2.tif",
+        "leaf065d2_3.tif",
+        "leaf065d2_4.tif",
+        "leaf065d2_5.tif"
+      ],
+      "filename": "Avocado_leaf065_stage2.png",
+      "actual": {
+        "fmc": 75.84415435791016,
+        "chlorophyll": 70.73332977294922,
+        "nitrogen": 21.766666412353516,
+        "weight": 1.3539999723434448
+      },
+      "predicted": {
+        "fmc": 91.95343017578125,
+        "chlorophyll": 59.542694091796875,
+        "nitrogen": 18.927352905273438,
+        "weight": 1.2102900743484497
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 99,
+      "stage": 4,
+      "images": [
+        "leaf099d4_1.tif",
+        "leaf099d4_2.tif",
+        "leaf099d4_3.tif",
+        "leaf099d4_4.tif",
+        "leaf099d4_5.tif"
+      ],
+      "filename": "Avocado_leaf099_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 76.0999984741211,
+        "nitrogen": 23.399999618530273,
+        "weight": 0.5720000267028809
+      },
+      "predicted": {
+        "fmc": -8.127960205078125,
+        "chlorophyll": 85.96530151367188,
+        "nitrogen": 25.14596176147461,
+        "weight": 0.7145693302154541
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 89,
+      "stage": 4,
+      "images": [
+        "leaf089d4_1.tif",
+        "leaf089d4_2.tif",
+        "leaf089d4_3.tif",
+        "leaf089d4_4.tif",
+        "leaf089d4_5.tif"
+      ],
+      "filename": "Avocado_leaf089_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 63.79999923706055,
+        "nitrogen": 21.200000762939453,
+        "weight": 0.597000002861023
+      },
+      "predicted": {
+        "fmc": 19.271087646484375,
+        "chlorophyll": 74.32819366455078,
+        "nitrogen": 23.202777862548828,
+        "weight": 0.7497782111167908
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 64,
+      "stage": 0,
+      "images": [
+        "leaf064d0_1.tif",
+        "leaf064d0_2.tif",
+        "leaf064d0_3.tif",
+        "leaf064d0_4.tif",
+        "leaf064d0_5.tif"
+      ],
+      "filename": "Avocado_leaf064_stage0.png",
+      "actual": {
+        "fmc": 140.4580078125,
+        "chlorophyll": 55.099998474121094,
+        "nitrogen": 17.066667556762695,
+        "weight": 1.8899999856948853
+      },
+      "predicted": {
+        "fmc": 110.13525390625,
+        "chlorophyll": 46.533592224121094,
+        "nitrogen": 17.035221099853516,
+        "weight": 1.3532350063323975
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 67,
+      "stage": 1,
+      "images": [
+        "leaf067d1_1.tif",
+        "leaf067d1_2.tif",
+        "leaf067d1_3.tif",
+        "leaf067d1_4.tif",
+        "leaf067d1_5.tif"
+      ],
+      "filename": "Avocado_leaf067_stage1.png",
+      "actual": {
+        "fmc": 100.2375259399414,
+        "chlorophyll": 79.5999984741211,
+        "nitrogen": 24.399999618530273,
+        "weight": 1.6859999895095825
+      },
+      "predicted": {
+        "fmc": 66.94154357910156,
+        "chlorophyll": 76.4815444946289,
+        "nitrogen": 22.927059173583984,
+        "weight": 1.0044896602630615
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 29,
+      "stage": 2,
+      "images": [
+        "leaf029d2_1.tif",
+        "leaf029d2_2.tif",
+        "leaf029d2_3.tif",
+        "leaf029d2_4.tif",
+        "leaf029d2_5.tif"
+      ],
+      "filename": "Avocado_leaf029_stage2.png",
+      "actual": {
+        "fmc": 80.76923370361328,
+        "chlorophyll": 63.53333282470703,
+        "nitrogen": 19.600000381469727,
+        "weight": 1.4570000171661377
+      },
+      "predicted": {
+        "fmc": 71.7920913696289,
+        "chlorophyll": 60.31669616699219,
+        "nitrogen": 19.847423553466797,
+        "weight": 1.465442180633545
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 59,
+      "stage": 1,
+      "images": [
+        "leaf059d1_1.tif",
+        "leaf059d1_2.tif",
+        "leaf059d1_3.tif",
+        "leaf059d1_4.tif",
+        "leaf059d1_5.tif"
+      ],
+      "filename": "Avocado_leaf059_stage1.png",
+      "actual": {
+        "fmc": 82.4372787475586,
+        "chlorophyll": 63.70000076293945,
+        "nitrogen": 19.66666603088379,
+        "weight": 1.0180000066757202
+      },
+      "predicted": {
+        "fmc": 55.246498107910156,
+        "chlorophyll": 63.556785583496094,
+        "nitrogen": 20.59488296508789,
+        "weight": 0.9451749920845032
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 29,
+      "stage": 4,
+      "images": [
+        "leaf029d4_1.tif",
+        "leaf029d4_2.tif",
+        "leaf029d4_3.tif",
+        "leaf029d4_4.tif",
+        "leaf029d4_5.tif"
+      ],
+      "filename": "Avocado_leaf029_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 90.19999694824219,
+        "nitrogen": 27.600000381469727,
+        "weight": 0.8059999942779541
+      },
+      "predicted": {
+        "fmc": 16.511253356933594,
+        "chlorophyll": 68.88583374023438,
+        "nitrogen": 20.74932098388672,
+        "weight": 1.0277228355407715
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 64,
+      "stage": 4,
+      "images": [
+        "leaf064d4_1.tif",
+        "leaf064d4_2.tif",
+        "leaf064d4_3.tif",
+        "leaf064d4_4.tif",
+        "leaf064d4_5.tif"
+      ],
+      "filename": "Avocado_leaf064_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 91.69999694824219,
+        "nitrogen": 28.100000381469727,
+        "weight": 0.7860000133514404
+      },
+      "predicted": {
+        "fmc": 5.595726013183594,
+        "chlorophyll": 84.46682739257812,
+        "nitrogen": 25.059593200683594,
+        "weight": 0.7100532054901123
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 65,
+      "stage": 0,
+      "images": [
+        "leaf065d0_1.tif",
+        "leaf065d0_2.tif",
+        "leaf065d0_3.tif",
+        "leaf065d0_4.tif",
+        "leaf065d0_5.tif"
+      ],
+      "filename": "Avocado_leaf065_stage0.png",
+      "actual": {
+        "fmc": 147.40260314941406,
+        "chlorophyll": 55.33333206176758,
+        "nitrogen": 17.133333206176758,
+        "weight": 1.9049999713897705
+      },
+      "predicted": {
+        "fmc": 122.29258728027344,
+        "chlorophyll": 58.31758499145508,
+        "nitrogen": 18.571041107177734,
+        "weight": 1.2692575454711914
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 16,
+      "stage": 4,
+      "images": [
+        "leaf016d4_1.tif",
+        "leaf016d4_2.tif",
+        "leaf016d4_3.tif",
+        "leaf016d4_4.tif",
+        "leaf016d4_5.tif"
+      ],
+      "filename": "Avocado_leaf016_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 72.0,
+        "nitrogen": 22.100000381469727,
+        "weight": 1.0230000019073486
+      },
+      "predicted": {
+        "fmc": 24.52783203125,
+        "chlorophyll": 65.30622863769531,
+        "nitrogen": 21.08506202697754,
+        "weight": 0.491872102022171
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 6,
+      "stage": 4,
+      "images": [
+        "leaf006d4_1.tif",
+        "leaf006d4_2.tif",
+        "leaf006d4_3.tif",
+        "leaf006d4_4.tif",
+        "leaf006d4_5.tif"
+      ],
+      "filename": "Avocado_leaf006_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 99.9000015258789,
+        "nitrogen": 30.5,
+        "weight": 0.7179999947547913
+      },
+      "predicted": {
+        "fmc": -26.405105590820312,
+        "chlorophyll": 78.45173645019531,
+        "nitrogen": 24.485050201416016,
+        "weight": 0.40373069047927856
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 29,
+      "stage": 3,
+      "images": [
+        "leaf029d3_1.tif",
+        "leaf029d3_2.tif",
+        "leaf029d3_3.tif",
+        "leaf029d3_4.tif",
+        "leaf029d3_5.tif"
+      ],
+      "filename": "Avocado_leaf029_stage3.png",
+      "actual": {
+        "fmc": 53.225807189941406,
+        "chlorophyll": 67.80000305175781,
+        "nitrogen": 20.899999618530273,
+        "weight": 1.2350000143051147
+      },
+      "predicted": {
+        "fmc": 59.833404541015625,
+        "chlorophyll": 68.80570220947266,
+        "nitrogen": 21.756479263305664,
+        "weight": 1.1740193367004395
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 64,
+      "stage": 3,
+      "images": [
+        "leaf064d3_1.tif",
+        "leaf064d3_2.tif",
+        "leaf064d3_3.tif",
+        "leaf064d3_4.tif",
+        "leaf064d3_5.tif"
+      ],
+      "filename": "Avocado_leaf064_stage3.png",
+      "actual": {
+        "fmc": 31.424936294555664,
+        "chlorophyll": 67.5999984741211,
+        "nitrogen": 20.83333396911621,
+        "weight": 1.0329999923706055
+      },
+      "predicted": {
+        "fmc": 23.371780395507812,
+        "chlorophyll": 76.59053039550781,
+        "nitrogen": 23.46803855895996,
+        "weight": 0.6839469075202942
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 65,
+      "stage": 1,
+      "images": [
+        "leaf065d1_1.tif",
+        "leaf065d1_2.tif",
+        "leaf065d1_3.tif",
+        "leaf065d1_4.tif",
+        "leaf065d1_5.tif"
+      ],
+      "filename": "Avocado_leaf065_stage1.png",
+      "actual": {
+        "fmc": 110.64935302734375,
+        "chlorophyll": 71.93333435058594,
+        "nitrogen": 22.133333206176758,
+        "weight": 1.621999979019165
+      },
+      "predicted": {
+        "fmc": 76.3564453125,
+        "chlorophyll": 74.58516693115234,
+        "nitrogen": 21.37691879272461,
+        "weight": 1.378577709197998
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 67,
+      "stage": 2,
+      "images": [
+        "leaf067d2_1.tif",
+        "leaf067d2_2.tif",
+        "leaf067d2_3.tif",
+        "leaf067d2_4.tif",
+        "leaf067d2_5.tif"
+      ],
+      "filename": "Avocado_leaf067_stage2.png",
+      "actual": {
+        "fmc": 63.06413269042969,
+        "chlorophyll": 81.86666870117188,
+        "nitrogen": 25.100000381469727,
+        "weight": 1.3730000257492065
+      },
+      "predicted": {
+        "fmc": 67.7843246459961,
+        "chlorophyll": 75.27002716064453,
+        "nitrogen": 23.260459899902344,
+        "weight": 0.9562962055206299
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 29,
+      "stage": 1,
+      "images": [
+        "leaf029d1_1.tif",
+        "leaf029d1_2.tif",
+        "leaf029d1_3.tif",
+        "leaf029d1_4.tif",
+        "leaf029d1_5.tif"
+      ],
+      "filename": "Avocado_leaf029_stage1.png",
+      "actual": {
+        "fmc": 108.06451416015625,
+        "chlorophyll": 69.23332977294922,
+        "nitrogen": 21.33333396911621,
+        "weight": 1.6770000457763672
+      },
+      "predicted": {
+        "fmc": 79.6468276977539,
+        "chlorophyll": 54.35784149169922,
+        "nitrogen": 17.48649024963379,
+        "weight": 1.3976731300354004
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 99,
+      "stage": 1,
+      "images": [
+        "leaf099d1_1.tif",
+        "leaf099d1_2.tif",
+        "leaf099d1_3.tif",
+        "leaf099d1_4.tif",
+        "leaf099d1_5.tif"
+      ],
+      "filename": "Avocado_leaf099_stage1.png",
+      "actual": {
+        "fmc": 88.46154022216797,
+        "chlorophyll": 65.06666564941406,
+        "nitrogen": 20.066667556762695,
+        "weight": 1.0779999494552612
+      },
+      "predicted": {
+        "fmc": 62.10075759887695,
+        "chlorophyll": 60.82574462890625,
+        "nitrogen": 20.516109466552734,
+        "weight": 1.2671337127685547
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 89,
+      "stage": 1,
+      "images": [
+        "leaf089d1_1.tif",
+        "leaf089d1_2.tif",
+        "leaf089d1_3.tif",
+        "leaf089d1_4.tif",
+        "leaf089d1_5.tif"
+      ],
+      "filename": "Avocado_leaf089_stage1.png",
+      "actual": {
+        "fmc": 86.09715270996094,
+        "chlorophyll": 59.53333282470703,
+        "nitrogen": 18.399999618530273,
+        "weight": 1.1109999418258667
+      },
+      "predicted": {
+        "fmc": 93.95866394042969,
+        "chlorophyll": 61.476009368896484,
+        "nitrogen": 18.443866729736328,
+        "weight": 0.9498395323753357
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 6,
+      "stage": 3,
+      "images": [
+        "leaf006d3_1.tif",
+        "leaf006d3_2.tif",
+        "leaf006d3_3.tif",
+        "leaf006d3_4.tif",
+        "leaf006d3_5.tif"
+      ],
+      "filename": "Avocado_leaf006_stage3.png",
+      "actual": {
+        "fmc": 41.50417709350586,
+        "chlorophyll": 76.16666412353516,
+        "nitrogen": 23.399999618530273,
+        "weight": 1.0160000324249268
+      },
+      "predicted": {
+        "fmc": 5.8389434814453125,
+        "chlorophyll": 62.91382598876953,
+        "nitrogen": 19.469438552856445,
+        "weight": 0.7361724972724915
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 16,
+      "stage": 3,
+      "images": [
+        "leaf016d3_1.tif",
+        "leaf016d3_2.tif",
+        "leaf016d3_3.tif",
+        "leaf016d3_4.tif",
+        "leaf016d3_5.tif"
+      ],
+      "filename": "Avocado_leaf016_stage3.png",
+      "actual": {
+        "fmc": 66.3734130859375,
+        "chlorophyll": 66.9000015258789,
+        "nitrogen": 20.5,
+        "weight": 1.7020000219345093
+      },
+      "predicted": {
+        "fmc": 62.180198669433594,
+        "chlorophyll": 59.81275939941406,
+        "nitrogen": 20.931621551513672,
+        "weight": 1.2911127805709839
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 67,
+      "stage": 4,
+      "images": [
+        "leaf067d4_1.tif",
+        "leaf067d4_2.tif",
+        "leaf067d4_3.tif",
+        "leaf067d4_4.tif",
+        "leaf067d4_5.tif"
+      ],
+      "filename": "Avocado_leaf067_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 93.80000305175781,
+        "nitrogen": 28.700000762939453,
+        "weight": 0.8420000076293945
+      },
+      "predicted": {
+        "fmc": -17.842803955078125,
+        "chlorophyll": 84.40037536621094,
+        "nitrogen": 23.390663146972656,
+        "weight": 0.8298083543777466
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 59,
+      "stage": 0,
+      "images": [
+        "leaf059d0_1.tif",
+        "leaf059d0_2.tif",
+        "leaf059d0_3.tif",
+        "leaf059d0_4.tif",
+        "leaf059d0_5.tif"
+      ],
+      "filename": "Avocado_leaf059_stage0.png",
+      "actual": {
+        "fmc": 134.05018615722656,
+        "chlorophyll": 51.0,
+        "nitrogen": 15.866666793823242,
+        "weight": 1.305999994277954
+      },
+      "predicted": {
+        "fmc": 98.29048156738281,
+        "chlorophyll": 62.2789421081543,
+        "nitrogen": 19.44740104675293,
+        "weight": 1.1879535913467407
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 16,
+      "stage": 1,
+      "images": [
+        "leaf016d1_1.tif",
+        "leaf016d1_2.tif",
+        "leaf016d1_3.tif",
+        "leaf016d1_4.tif",
+        "leaf016d1_5.tif"
+      ],
+      "filename": "Avocado_leaf016_stage1.png",
+      "actual": {
+        "fmc": 105.27859497070312,
+        "chlorophyll": 74.30000305175781,
+        "nitrogen": 23.5,
+        "weight": 2.0999999046325684
+      },
+      "predicted": {
+        "fmc": 62.723167419433594,
+        "chlorophyll": 59.18193817138672,
+        "nitrogen": 20.754791259765625,
+        "weight": 1.5849850177764893
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 6,
+      "stage": 1,
+      "images": [
+        "leaf006d1_1.tif",
+        "leaf006d1_2.tif",
+        "leaf006d1_3.tif",
+        "leaf006d1_4.tif",
+        "leaf006d1_5.tif"
+      ],
+      "filename": "Avocado_leaf006_stage1.png",
+      "actual": {
+        "fmc": 113.92757415771484,
+        "chlorophyll": 87.4000015258789,
+        "nitrogen": 27.0,
+        "weight": 1.5360000133514404
+      },
+      "predicted": {
+        "fmc": 113.97958374023438,
+        "chlorophyll": 69.02153015136719,
+        "nitrogen": 21.034364700317383,
+        "weight": 1.6449215412139893
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 89,
+      "stage": 3,
+      "images": [
+        "leaf089d3_1.tif",
+        "leaf089d3_2.tif",
+        "leaf089d3_3.tif",
+        "leaf089d3_4.tif",
+        "leaf089d3_5.tif"
+      ],
+      "filename": "Avocado_leaf089_stage3.png",
+      "actual": {
+        "fmc": 27.97319984436035,
+        "chlorophyll": 57.46666717529297,
+        "nitrogen": 17.799999237060547,
+        "weight": 0.7639999985694885
+      },
+      "predicted": {
+        "fmc": 60.162025451660156,
+        "chlorophyll": 67.60594940185547,
+        "nitrogen": 22.36015510559082,
+        "weight": 0.9750001430511475
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 99,
+      "stage": 3,
+      "images": [
+        "leaf099d3_1.tif",
+        "leaf099d3_2.tif",
+        "leaf099d3_3.tif",
+        "leaf099d3_4.tif",
+        "leaf099d3_5.tif"
+      ],
+      "filename": "Avocado_leaf099_stage3.png",
+      "actual": {
+        "fmc": 29.895105361938477,
+        "chlorophyll": 58.33333206176758,
+        "nitrogen": 18.03333282470703,
+        "weight": 0.7429999709129333
+      },
+      "predicted": {
+        "fmc": 31.862621307373047,
+        "chlorophyll": 67.84656524658203,
+        "nitrogen": 20.968303680419922,
+        "weight": 0.6699053645133972
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 59,
+      "stage": 4,
+      "images": [
+        "leaf059d4_1.tif",
+        "leaf059d4_2.tif",
+        "leaf059d4_3.tif",
+        "leaf059d4_4.tif",
+        "leaf059d4_5.tif"
+      ],
+      "filename": "Avocado_leaf059_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 88.0999984741211,
+        "nitrogen": 27.0,
+        "weight": 0.5580000281333923
+      },
+      "predicted": {
+        "fmc": 19.109607696533203,
+        "chlorophyll": 66.50701904296875,
+        "nitrogen": 20.86623764038086,
+        "weight": 0.7186905741691589
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 67,
+      "stage": 0,
+      "images": [
+        "leaf067d0_1.tif",
+        "leaf067d0_2.tif",
+        "leaf067d0_3.tif",
+        "leaf067d0_4.tif",
+        "leaf067d0_5.tif"
+      ],
+      "filename": "Avocado_leaf067_stage0.png",
+      "actual": {
+        "fmc": 141.9239959716797,
+        "chlorophyll": 56.43333435058594,
+        "nitrogen": 17.46666717529297,
+        "weight": 2.0369999408721924
+      },
+      "predicted": {
+        "fmc": 94.49637603759766,
+        "chlorophyll": 68.70291137695312,
+        "nitrogen": 20.176799774169922,
+        "weight": 1.2448586225509644
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 64,
+      "stage": 1,
+      "images": [
+        "leaf064d1_1.tif",
+        "leaf064d1_2.tif",
+        "leaf064d1_3.tif",
+        "leaf064d1_4.tif",
+        "leaf064d1_5.tif"
+      ],
+      "filename": "Avocado_leaf064_stage1.png",
+      "actual": {
+        "fmc": 101.90839385986328,
+        "chlorophyll": 72.69999694824219,
+        "nitrogen": 22.33333396911621,
+        "weight": 1.5870000123977661
+      },
+      "predicted": {
+        "fmc": 57.454566955566406,
+        "chlorophyll": 64.11320495605469,
+        "nitrogen": 18.659095764160156,
+        "weight": 1.3085598945617676
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 65,
+      "stage": 3,
+      "images": [
+        "leaf065d3_1.tif",
+        "leaf065d3_2.tif",
+        "leaf065d3_3.tif",
+        "leaf065d3_4.tif",
+        "leaf065d3_5.tif"
+      ],
+      "filename": "Avocado_leaf065_stage3.png",
+      "actual": {
+        "fmc": 46.623374938964844,
+        "chlorophyll": 66.53333282470703,
+        "nitrogen": 20.700000762939453,
+        "weight": 1.128999948501587
+      },
+      "predicted": {
+        "fmc": 19.477031707763672,
+        "chlorophyll": 72.2984619140625,
+        "nitrogen": 22.292724609375,
+        "weight": 0.8396704792976379
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 59,
+      "stage": 2,
+      "images": [
+        "leaf059d2_1.tif",
+        "leaf059d2_2.tif",
+        "leaf059d2_3.tif",
+        "leaf059d2_4.tif",
+        "leaf059d2_5.tif"
+      ],
+      "filename": "Avocado_leaf059_stage2.png",
+      "actual": {
+        "fmc": 39.605735778808594,
+        "chlorophyll": 59.56666564941406,
+        "nitrogen": 18.700000762939453,
+        "weight": 0.7789999842643738
+      },
+      "predicted": {
+        "fmc": 76.66641998291016,
+        "chlorophyll": 66.55304718017578,
+        "nitrogen": 20.256235122680664,
+        "weight": 1.029560923576355
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 19,
+      "stage": 4,
+      "images": [
+        "leaf019d4_1.tif",
+        "leaf019d4_2.tif",
+        "leaf019d4_3.tif",
+        "leaf019d4_4.tif",
+        "leaf019d4_5.tif"
+      ],
+      "filename": "Avocado_leaf019_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 86.69999694824219,
+        "nitrogen": 26.600000381469727,
+        "weight": 0.5550000071525574
+      },
+      "predicted": {
+        "fmc": 10.338768005371094,
+        "chlorophyll": 73.58679962158203,
+        "nitrogen": 23.80877685546875,
+        "weight": 0.5958484411239624
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 11,
+      "stage": 2,
+      "images": [
+        "leaf011d2_1.tif",
+        "leaf011d2_2.tif",
+        "leaf011d2_3.tif",
+        "leaf011d2_4.tif",
+        "leaf011d2_5.tif"
+      ],
+      "filename": "Avocado_leaf011_stage2.png",
+      "actual": {
+        "fmc": 64.86956787109375,
+        "chlorophyll": 90.96666717529297,
+        "nitrogen": 27.83333396911621,
+        "weight": 0.9480000138282776
+      },
+      "predicted": {
+        "fmc": 56.054325103759766,
+        "chlorophyll": 75.14433288574219,
+        "nitrogen": 24.08338737487793,
+        "weight": 1.1402788162231445
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 63,
+      "stage": 4,
+      "images": [
+        "leaf063d4_1.tif",
+        "leaf063d4_2.tif",
+        "leaf063d4_3.tif",
+        "leaf063d4_4.tif",
+        "leaf063d4_5.tif"
+      ],
+      "filename": "Avocado_leaf063_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 94.0999984741211,
+        "nitrogen": 28.799999237060547,
+        "weight": 0.6209999918937683
+      },
+      "predicted": {
+        "fmc": 7.5543365478515625,
+        "chlorophyll": 73.13827514648438,
+        "nitrogen": 20.538671493530273,
+        "weight": 0.4159142076969147
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 24,
+      "stage": 3,
+      "images": [
+        "leaf024d3_1.tif",
+        "leaf024d3_2.tif",
+        "leaf024d3_3.tif",
+        "leaf024d3_4.tif",
+        "leaf024d3_5.tif"
+      ],
+      "filename": "Avocado_leaf024_stage3.png",
+      "actual": {
+        "fmc": 43.882545471191406,
+        "chlorophyll": 61.20000076293945,
+        "nitrogen": 18.899999618530273,
+        "weight": 0.8820000290870667
+      },
+      "predicted": {
+        "fmc": 31.578739166259766,
+        "chlorophyll": 65.61711883544922,
+        "nitrogen": 20.59108543395996,
+        "weight": 0.7189916372299194
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 103,
+      "stage": 2,
+      "images": [
+        "leaf103d2_1.tif",
+        "leaf103d2_2.tif",
+        "leaf103d2_3.tif",
+        "leaf103d2_4.tif",
+        "leaf103d2_5.tif"
+      ],
+      "filename": "Avocado_leaf103_stage2.png",
+      "actual": {
+        "fmc": 53.74800491333008,
+        "chlorophyll": 64.69999694824219,
+        "nitrogen": 19.96666717529297,
+        "weight": 0.9639999866485596
+      },
+      "predicted": {
+        "fmc": 33.106327056884766,
+        "chlorophyll": 77.53288269042969,
+        "nitrogen": 22.39549446105957,
+        "weight": 0.9762148857116699
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 11,
+      "stage": 0,
+      "images": [
+        "leaf011d0_1.tif",
+        "leaf011d0_2.tif",
+        "leaf011d0_3.tif",
+        "leaf011d0_4.tif",
+        "leaf011d0_5.tif"
+      ],
+      "filename": "Avocado_leaf011_stage0.png",
+      "actual": {
+        "fmc": 142.43478393554688,
+        "chlorophyll": 59.83333206176758,
+        "nitrogen": 18.5,
+        "weight": 1.3940000534057617
+      },
+      "predicted": {
+        "fmc": 109.24925231933594,
+        "chlorophyll": 67.00640106201172,
+        "nitrogen": 19.741514205932617,
+        "weight": 0.9734508395195007
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 25,
+      "stage": 3,
+      "images": [
+        "leaf025d3_1.tif",
+        "leaf025d3_2.tif",
+        "leaf025d3_3.tif",
+        "leaf025d3_4.tif",
+        "leaf025d3_5.tif"
+      ],
+      "filename": "Avocado_leaf025_stage3.png",
+      "actual": {
+        "fmc": 47.68583297729492,
+        "chlorophyll": 69.30000305175781,
+        "nitrogen": 21.299999237060547,
+        "weight": 1.0529999732971191
+      },
+      "predicted": {
+        "fmc": 50.499542236328125,
+        "chlorophyll": 57.88286590576172,
+        "nitrogen": 20.034582138061523,
+        "weight": 1.253340721130371
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 24,
+      "stage": 1,
+      "images": [
+        "leaf024d1_1.tif",
+        "leaf024d1_2.tif",
+        "leaf024d1_3.tif",
+        "leaf024d1_4.tif",
+        "leaf024d1_5.tif"
+      ],
+      "filename": "Avocado_leaf024_stage1.png",
+      "actual": {
+        "fmc": 85.64437103271484,
+        "chlorophyll": 73.83333587646484,
+        "nitrogen": 22.700000762939453,
+        "weight": 1.1380000114440918
+      },
+      "predicted": {
+        "fmc": 73.30814361572266,
+        "chlorophyll": 64.0361328125,
+        "nitrogen": 20.339187622070312,
+        "weight": 0.9501102566719055
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 55,
+      "stage": 0,
+      "images": [
+        "leaf055d0_1.tif",
+        "leaf055d0_2.tif",
+        "leaf055d0_3.tif",
+        "leaf055d0_4.tif",
+        "leaf055d0_5.tif"
+      ],
+      "filename": "Avocado_leaf055_stage0.png",
+      "actual": {
+        "fmc": 147.64398193359375,
+        "chlorophyll": 52.83333206176758,
+        "nitrogen": 16.399999618530273,
+        "weight": 0.9459999799728394
+      },
+      "predicted": {
+        "fmc": 98.5568618774414,
+        "chlorophyll": 50.5218620300293,
+        "nitrogen": 16.69447898864746,
+        "weight": 0.8843446969985962
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 63,
+      "stage": 0,
+      "images": [
+        "leaf063d0_1.tif",
+        "leaf063d0_2.tif",
+        "leaf063d0_3.tif",
+        "leaf063d0_4.tif",
+        "leaf063d0_5.tif"
+      ],
+      "filename": "Avocado_leaf063_stage0.png",
+      "actual": {
+        "fmc": 158.13204956054688,
+        "chlorophyll": 53.599998474121094,
+        "nitrogen": 16.633333206176758,
+        "weight": 1.6030000448226929
+      },
+      "predicted": {
+        "fmc": 69.8284912109375,
+        "chlorophyll": 61.07473373413086,
+        "nitrogen": 18.543535232543945,
+        "weight": 1.0100315809249878
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 19,
+      "stage": 2,
+      "images": [
+        "leaf019d2_1.tif",
+        "leaf019d2_2.tif",
+        "leaf019d2_3.tif",
+        "leaf019d2_4.tif",
+        "leaf019d2_5.tif"
+      ],
+      "filename": "Avocado_leaf019_stage2.png",
+      "actual": {
+        "fmc": 49.72972869873047,
+        "chlorophyll": 68.30000305175781,
+        "nitrogen": 21.03333282470703,
+        "weight": 0.8309999704360962
+      },
+      "predicted": {
+        "fmc": 42.749698638916016,
+        "chlorophyll": 70.51964569091797,
+        "nitrogen": 22.537078857421875,
+        "weight": 1.067674994468689
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 11,
+      "stage": 4,
+      "images": [
+        "leaf011d4_1.tif",
+        "leaf011d4_2.tif",
+        "leaf011d4_3.tif",
+        "leaf011d4_4.tif",
+        "leaf011d4_5.tif"
+      ],
+      "filename": "Avocado_leaf011_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 99.9000015258789,
+        "nitrogen": 30.5,
+        "weight": 0.574999988079071
+      },
+      "predicted": {
+        "fmc": 5.954719543457031,
+        "chlorophyll": 80.196044921875,
+        "nitrogen": 24.029630661010742,
+        "weight": 0.605514645576477
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 55,
+      "stage": 2,
+      "images": [
+        "leaf055d2_1.tif",
+        "leaf055d2_2.tif",
+        "leaf055d2_3.tif",
+        "leaf055d2_4.tif",
+        "leaf055d2_5.tif"
+      ],
+      "filename": "Avocado_leaf055_stage2.png",
+      "actual": {
+        "fmc": 70.68062591552734,
+        "chlorophyll": 67.69999694824219,
+        "nitrogen": 21.899999618530273,
+        "weight": 0.6520000100135803
+      },
+      "predicted": {
+        "fmc": 108.63737487792969,
+        "chlorophyll": 57.66221618652344,
+        "nitrogen": 19.53931999206543,
+        "weight": 1.1613478660583496
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 62,
+      "stage": 0,
+      "images": [
+        "leaf062d0_1.tif",
+        "leaf062d0_2.tif",
+        "leaf062d0_3.tif",
+        "leaf062d0_4.tif",
+        "leaf062d0_5.tif"
+      ],
+      "filename": "Avocado_leaf062_stage0.png",
+      "actual": {
+        "fmc": 153.01419067382812,
+        "chlorophyll": 50.099998474121094,
+        "nitrogen": 15.566666603088379,
+        "weight": 1.4270000457763672
+      },
+      "predicted": {
+        "fmc": 74.97840118408203,
+        "chlorophyll": 51.98482894897461,
+        "nitrogen": 16.06900405883789,
+        "weight": 1.023614764213562
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 103,
+      "stage": 4,
+      "images": [
+        "leaf103d4_1.tif",
+        "leaf103d4_2.tif",
+        "leaf103d4_3.tif",
+        "leaf103d4_4.tif",
+        "leaf103d4_5.tif"
+      ],
+      "filename": "Avocado_leaf103_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 68.69999694824219,
+        "nitrogen": 21.200000762939453,
+        "weight": 0.6269999742507935
+      },
+      "predicted": {
+        "fmc": 10.107597351074219,
+        "chlorophyll": 82.483642578125,
+        "nitrogen": 22.293224334716797,
+        "weight": 0.6900545358657837
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 63,
+      "stage": 2,
+      "images": [
+        "leaf063d2_1.tif",
+        "leaf063d2_2.tif",
+        "leaf063d2_3.tif",
+        "leaf063d2_4.tif",
+        "leaf063d2_5.tif"
+      ],
+      "filename": "Avocado_leaf063_stage2.png",
+      "actual": {
+        "fmc": 61.835750579833984,
+        "chlorophyll": 70.96666717529297,
+        "nitrogen": 22.799999237060547,
+        "weight": 1.0049999952316284
+      },
+      "predicted": {
+        "fmc": 56.76268768310547,
+        "chlorophyll": 66.64173889160156,
+        "nitrogen": 23.097862243652344,
+        "weight": 1.2194173336029053
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 62,
+      "stage": 4,
+      "images": [
+        "leaf062d4_1.tif",
+        "leaf062d4_2.tif",
+        "leaf062d4_3.tif",
+        "leaf062d4_4.tif",
+        "leaf062d4_5.tif"
+      ],
+      "filename": "Avocado_leaf062_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 84.0999984741211,
+        "nitrogen": 25.799999237060547,
+        "weight": 0.5640000104904175
+      },
+      "predicted": {
+        "fmc": 17.675006866455078,
+        "chlorophyll": 75.99557495117188,
+        "nitrogen": 22.749446868896484,
+        "weight": 0.25057876110076904
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 55,
+      "stage": 4,
+      "images": [
+        "leaf055d4_1.tif",
+        "leaf055d4_2.tif",
+        "leaf055d4_3.tif",
+        "leaf055d4_4.tif",
+        "leaf055d4_5.tif"
+      ],
+      "filename": "Avocado_leaf055_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 84.19999694824219,
+        "nitrogen": 25.799999237060547,
+        "weight": 0.38199999928474426
+      },
+      "predicted": {
+        "fmc": 1.2219772338867188,
+        "chlorophyll": 69.98902893066406,
+        "nitrogen": 23.003854751586914,
+        "weight": 0.42197728157043457
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 25,
+      "stage": 1,
+      "images": [
+        "leaf025d1_1.tif",
+        "leaf025d1_2.tif",
+        "leaf025d1_3.tif",
+        "leaf025d1_4.tif",
+        "leaf025d1_5.tif"
+      ],
+      "filename": "Avocado_leaf025_stage1.png",
+      "actual": {
+        "fmc": 94.1093978881836,
+        "chlorophyll": 66.5,
+        "nitrogen": 20.5,
+        "weight": 1.3839999437332153
+      },
+      "predicted": {
+        "fmc": 68.62630462646484,
+        "chlorophyll": 53.813987731933594,
+        "nitrogen": 19.666568756103516,
+        "weight": 1.6827328205108643
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 103,
+      "stage": 0,
+      "images": [
+        "leaf103d0_1.tif",
+        "leaf103d0_2.tif",
+        "leaf103d0_3.tif",
+        "leaf103d0_4.tif",
+        "leaf103d0_5.tif"
+      ],
+      "filename": "Avocado_leaf103_stage0.png",
+      "actual": {
+        "fmc": 112.59967803955078,
+        "chlorophyll": 53.0,
+        "nitrogen": 16.46666717529297,
+        "weight": 1.3329999446868896
+      },
+      "predicted": {
+        "fmc": 49.62681579589844,
+        "chlorophyll": 75.55186462402344,
+        "nitrogen": 21.2039852142334,
+        "weight": 0.7180951833724976
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 19,
+      "stage": 0,
+      "images": [
+        "leaf019d0_1.tif",
+        "leaf019d0_2.tif",
+        "leaf019d0_3.tif",
+        "leaf019d0_4.tif",
+        "leaf019d0_5.tif"
+      ],
+      "filename": "Avocado_leaf019_stage0.png",
+      "actual": {
+        "fmc": 116.75675964355469,
+        "chlorophyll": 61.43333435058594,
+        "nitrogen": 18.96666717529297,
+        "weight": 1.2029999494552612
+      },
+      "predicted": {
+        "fmc": 65.28681945800781,
+        "chlorophyll": 57.6488151550293,
+        "nitrogen": 18.835731506347656,
+        "weight": 1.0070247650146484
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 62,
+      "stage": 2,
+      "images": [
+        "leaf062d2_1.tif",
+        "leaf062d2_2.tif",
+        "leaf062d2_3.tif",
+        "leaf062d2_4.tif",
+        "leaf062d2_5.tif"
+      ],
+      "filename": "Avocado_leaf062_stage2.png",
+      "actual": {
+        "fmc": 72.16312408447266,
+        "chlorophyll": 63.33333206176758,
+        "nitrogen": 20.100000381469727,
+        "weight": 0.9710000157356262
+      },
+      "predicted": {
+        "fmc": 56.00415802001953,
+        "chlorophyll": 77.45108795166016,
+        "nitrogen": 21.989498138427734,
+        "weight": 1.1407384872436523
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 55,
+      "stage": 3,
+      "images": [
+        "leaf055d3_1.tif",
+        "leaf055d3_2.tif",
+        "leaf055d3_3.tif",
+        "leaf055d3_4.tif",
+        "leaf055d3_5.tif"
+      ],
+      "filename": "Avocado_leaf055_stage3.png",
+      "actual": {
+        "fmc": 39.00523376464844,
+        "chlorophyll": 62.099998474121094,
+        "nitrogen": 19.16666603088379,
+        "weight": 0.531000018119812
+      },
+      "predicted": {
+        "fmc": 60.06538391113281,
+        "chlorophyll": 67.98635864257812,
+        "nitrogen": 21.337202072143555,
+        "weight": 0.7208349108695984
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 24,
+      "stage": 4,
+      "images": [
+        "leaf024d4_1.tif",
+        "leaf024d4_2.tif",
+        "leaf024d4_3.tif",
+        "leaf024d4_4.tif",
+        "leaf024d4_5.tif"
+      ],
+      "filename": "Avocado_leaf024_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 84.69999694824219,
+        "nitrogen": 26.0,
+        "weight": 0.6129999756813049
+      },
+      "predicted": {
+        "fmc": 20.20815658569336,
+        "chlorophyll": 60.64655685424805,
+        "nitrogen": 18.148740768432617,
+        "weight": 0.5843182802200317
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 19,
+      "stage": 1,
+      "images": [
+        "leaf019d1_1.tif",
+        "leaf019d1_2.tif",
+        "leaf019d1_3.tif",
+        "leaf019d1_4.tif",
+        "leaf019d1_5.tif"
+      ],
+      "filename": "Avocado_leaf019_stage1.png",
+      "actual": {
+        "fmc": 82.34233856201172,
+        "chlorophyll": 70.96666717529297,
+        "nitrogen": 21.83333396911621,
+        "weight": 1.0119999647140503
+      },
+      "predicted": {
+        "fmc": 39.491737365722656,
+        "chlorophyll": 66.01480102539062,
+        "nitrogen": 22.237335205078125,
+        "weight": 1.0001261234283447
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 25,
+      "stage": 4,
+      "images": [
+        "leaf025d4_1.tif",
+        "leaf025d4_2.tif",
+        "leaf025d4_3.tif",
+        "leaf025d4_4.tif",
+        "leaf025d4_5.tif"
+      ],
+      "filename": "Avocado_leaf025_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 83.19999694824219,
+        "nitrogen": 25.5,
+        "weight": 0.7129999995231628
+      },
+      "predicted": {
+        "fmc": -11.663101196289062,
+        "chlorophyll": 74.1224136352539,
+        "nitrogen": 24.42852020263672,
+        "weight": 0.6566609144210815
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 63,
+      "stage": 1,
+      "images": [
+        "leaf063d1_1.tif",
+        "leaf063d1_2.tif",
+        "leaf063d1_3.tif",
+        "leaf063d1_4.tif",
+        "leaf063d1_5.tif"
+      ],
+      "filename": "Avocado_leaf063_stage1.png",
+      "actual": {
+        "fmc": 106.92431640625,
+        "chlorophyll": 69.23332977294922,
+        "nitrogen": 21.33333396911621,
+        "weight": 1.284999966621399
+      },
+      "predicted": {
+        "fmc": 85.97346496582031,
+        "chlorophyll": 66.3672103881836,
+        "nitrogen": 22.411779403686523,
+        "weight": 1.1232949495315552
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 62,
+      "stage": 3,
+      "images": [
+        "leaf062d3_1.tif",
+        "leaf062d3_2.tif",
+        "leaf062d3_3.tif",
+        "leaf062d3_4.tif",
+        "leaf062d3_5.tif"
+      ],
+      "filename": "Avocado_leaf062_stage3.png",
+      "actual": {
+        "fmc": 37.05673599243164,
+        "chlorophyll": 62.20000076293945,
+        "nitrogen": 18.700000762939453,
+        "weight": 0.7730000019073486
+      },
+      "predicted": {
+        "fmc": 4.7372894287109375,
+        "chlorophyll": 75.50314331054688,
+        "nitrogen": 24.593687057495117,
+        "weight": 0.5176472663879395
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 11,
+      "stage": 1,
+      "images": [
+        "leaf011d1_1.tif",
+        "leaf011d1_2.tif",
+        "leaf011d1_3.tif",
+        "leaf011d1_4.tif",
+        "leaf011d1_5.tif"
+      ],
+      "filename": "Avocado_leaf011_stage1.png",
+      "actual": {
+        "fmc": 105.21739196777344,
+        "chlorophyll": 87.53333282470703,
+        "nitrogen": 26.83333396911621,
+        "weight": 1.1799999475479126
+      },
+      "predicted": {
+        "fmc": 108.49005126953125,
+        "chlorophyll": 80.7734603881836,
+        "nitrogen": 21.954973220825195,
+        "weight": 1.1590297222137451
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 103,
+      "stage": 1,
+      "images": [
+        "leaf103d1_1.tif",
+        "leaf103d1_2.tif",
+        "leaf103d1_3.tif",
+        "leaf103d1_4.tif",
+        "leaf103d1_5.tif"
+      ],
+      "filename": "Avocado_leaf103_stage1.png",
+      "actual": {
+        "fmc": 82.61563110351562,
+        "chlorophyll": 66.4000015258789,
+        "nitrogen": 20.46666717529297,
+        "weight": 1.1449999809265137
+      },
+      "predicted": {
+        "fmc": 58.86882781982422,
+        "chlorophyll": 78.43962097167969,
+        "nitrogen": 21.68150520324707,
+        "weight": 0.9034795761108398
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 24,
+      "stage": 2,
+      "images": [
+        "leaf024d2_1.tif",
+        "leaf024d2_2.tif",
+        "leaf024d2_3.tif",
+        "leaf024d2_4.tif",
+        "leaf024d2_5.tif"
+      ],
+      "filename": "Avocado_leaf024_stage2.png",
+      "actual": {
+        "fmc": 62.9690055847168,
+        "chlorophyll": 71.43333435058594,
+        "nitrogen": 22.0,
+        "weight": 0.9990000128746033
+      },
+      "predicted": {
+        "fmc": 68.30091857910156,
+        "chlorophyll": 73.05424499511719,
+        "nitrogen": 21.947038650512695,
+        "weight": 0.9475446939468384
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 25,
+      "stage": 0,
+      "images": [
+        "leaf025d0_1.tif",
+        "leaf025d0_2.tif",
+        "leaf025d0_3.tif",
+        "leaf025d0_4.tif",
+        "leaf025d0_5.tif"
+      ],
+      "filename": "Avocado_leaf025_stage0.png",
+      "actual": {
+        "fmc": 122.44039154052734,
+        "chlorophyll": 59.266666412353516,
+        "nitrogen": 18.33333396911621,
+        "weight": 1.5859999656677246
+      },
+      "predicted": {
+        "fmc": 84.94197845458984,
+        "chlorophyll": 52.932228088378906,
+        "nitrogen": 17.881061553955078,
+        "weight": 1.3381208181381226
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 11,
+      "stage": 3,
+      "images": [
+        "leaf011d3_1.tif",
+        "leaf011d3_2.tif",
+        "leaf011d3_3.tif",
+        "leaf011d3_4.tif",
+        "leaf011d3_5.tif"
+      ],
+      "filename": "Avocado_leaf011_stage3.png",
+      "actual": {
+        "fmc": 29.565217971801758,
+        "chlorophyll": 78.86666870117188,
+        "nitrogen": 24.16666603088379,
+        "weight": 0.7450000047683716
+      },
+      "predicted": {
+        "fmc": 34.708858489990234,
+        "chlorophyll": 67.25812530517578,
+        "nitrogen": 22.128984451293945,
+        "weight": 0.814009964466095
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 24,
+      "stage": 0,
+      "images": [
+        "leaf024d0_1.tif",
+        "leaf024d0_2.tif",
+        "leaf024d0_3.tif",
+        "leaf024d0_4.tif",
+        "leaf024d0_5.tif"
+      ],
+      "filename": "Avocado_leaf024_stage0.png",
+      "actual": {
+        "fmc": 112.23490905761719,
+        "chlorophyll": 70.16666412353516,
+        "nitrogen": 21.600000381469727,
+        "weight": 1.3009999990463257
+      },
+      "predicted": {
+        "fmc": 97.1329345703125,
+        "chlorophyll": 60.088218688964844,
+        "nitrogen": 18.51620864868164,
+        "weight": 0.8458166718482971
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 55,
+      "stage": 1,
+      "images": [
+        "leaf055d1_1.tif",
+        "leaf055d1_2.tif",
+        "leaf055d1_3.tif",
+        "leaf055d1_4.tif",
+        "leaf055d1_5.tif"
+      ],
+      "filename": "Avocado_leaf055_stage1.png",
+      "actual": {
+        "fmc": 109.68586730957031,
+        "chlorophyll": 65.13333129882812,
+        "nitrogen": 20.066667556762695,
+        "weight": 0.8009999990463257
+      },
+      "predicted": {
+        "fmc": 91.0539321899414,
+        "chlorophyll": 65.6639633178711,
+        "nitrogen": 20.253210067749023,
+        "weight": 0.9667945504188538
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 63,
+      "stage": 3,
+      "images": [
+        "leaf063d3_1.tif",
+        "leaf063d3_2.tif",
+        "leaf063d3_3.tif",
+        "leaf063d3_4.tif",
+        "leaf063d3_5.tif"
+      ],
+      "filename": "Avocado_leaf063_stage3.png",
+      "actual": {
+        "fmc": 27.214170455932617,
+        "chlorophyll": 66.73332977294922,
+        "nitrogen": 20.53333282470703,
+        "weight": 0.7900000214576721
+      },
+      "predicted": {
+        "fmc": 23.819087982177734,
+        "chlorophyll": 79.75788879394531,
+        "nitrogen": 23.37538719177246,
+        "weight": 0.5200582146644592
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 19,
+      "stage": 3,
+      "images": [
+        "leaf019d3_1.tif",
+        "leaf019d3_2.tif",
+        "leaf019d3_3.tif",
+        "leaf019d3_4.tif",
+        "leaf019d3_5.tif"
+      ],
+      "filename": "Avocado_leaf019_stage3.png",
+      "actual": {
+        "fmc": 21.08108139038086,
+        "chlorophyll": 66.0999984741211,
+        "nitrogen": 20.399999618530273,
+        "weight": 0.671999990940094
+      },
+      "predicted": {
+        "fmc": 23.356060028076172,
+        "chlorophyll": 77.10736846923828,
+        "nitrogen": 22.458560943603516,
+        "weight": 0.7905014753341675
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 62,
+      "stage": 1,
+      "images": [
+        "leaf062d1_1.tif",
+        "leaf062d1_2.tif",
+        "leaf062d1_3.tif",
+        "leaf062d1_4.tif",
+        "leaf062d1_5.tif"
+      ],
+      "filename": "Avocado_leaf062_stage1.png",
+      "actual": {
+        "fmc": 111.52482604980469,
+        "chlorophyll": 62.29999923706055,
+        "nitrogen": 19.233333587646484,
+        "weight": 1.1929999589920044
+      },
+      "predicted": {
+        "fmc": 95.04763793945312,
+        "chlorophyll": 54.35378646850586,
+        "nitrogen": 18.25302505493164,
+        "weight": 1.1994575262069702
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 25,
+      "stage": 2,
+      "images": [
+        "leaf025d2_1.tif",
+        "leaf025d2_2.tif",
+        "leaf025d2_3.tif",
+        "leaf025d2_4.tif",
+        "leaf025d2_5.tif"
+      ],
+      "filename": "Avocado_leaf025_stage2.png",
+      "actual": {
+        "fmc": 69.98597717285156,
+        "chlorophyll": 59.79999923706055,
+        "nitrogen": 18.46666717529297,
+        "weight": 1.2120000123977661
+      },
+      "predicted": {
+        "fmc": 56.72943878173828,
+        "chlorophyll": 57.32825469970703,
+        "nitrogen": 20.390777587890625,
+        "weight": 1.3941807746887207
+      }
+    },
+    {
+      "species": "Avocado",
+      "leaf": 103,
+      "stage": 3,
+      "images": [
+        "leaf103d3_1.tif",
+        "leaf103d3_2.tif",
+        "leaf103d3_3.tif",
+        "leaf103d3_4.tif",
+        "leaf103d3_5.tif"
+      ],
+      "filename": "Avocado_leaf103_stage3.png",
+      "actual": {
+        "fmc": 31.578947067260742,
+        "chlorophyll": 58.599998474121094,
+        "nitrogen": 18.133333206176758,
+        "weight": 0.824999988079071
+      },
+      "predicted": {
+        "fmc": 47.52281188964844,
+        "chlorophyll": 84.4896469116211,
+        "nitrogen": 24.218477249145508,
+        "weight": 1.1091200113296509
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 15,
+      "stage": 1,
+      "images": [
+        "leaf015d1_1.tif",
+        "leaf015d1_2.tif",
+        "leaf015d1_3.tif",
+        "leaf015d1_4.tif",
+        "leaf015d1_5.tif"
+      ],
+      "filename": "Olive_leaf015_stage1.png",
+      "actual": {
+        "fmc": 78.16901397705078,
+        "chlorophyll": 77.30000305175781,
+        "nitrogen": 23.700000762939453,
+        "weight": 0.2529999911785126
+      },
+      "predicted": {
+        "fmc": 77.02562713623047,
+        "chlorophyll": 73.69625854492188,
+        "nitrogen": 24.856952667236328,
+        "weight": 0.11213552951812744
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 99,
+      "stage": 2,
+      "images": [
+        "leaf099d2_1.tif",
+        "leaf099d2_2.tif",
+        "leaf099d2_3.tif",
+        "leaf099d2_4.tif",
+        "leaf099d2_5.tif"
+      ],
+      "filename": "Olive_leaf099_stage2.png",
+      "actual": {
+        "fmc": 57.96178436279297,
+        "chlorophyll": 77.69999694824219,
+        "nitrogen": 23.899999618530273,
+        "weight": 0.24799999594688416
+      },
+      "predicted": {
+        "fmc": 70.4219970703125,
+        "chlorophyll": 78.2139892578125,
+        "nitrogen": 24.830339431762695,
+        "weight": 0.16222792863845825
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 17,
+      "stage": 2,
+      "images": [
+        "leaf017d2_1.tif",
+        "leaf017d2_2.tif",
+        "leaf017d2_3.tif",
+        "leaf017d2_4.tif",
+        "leaf017d2_5.tif"
+      ],
+      "filename": "Olive_leaf017_stage2.png",
+      "actual": {
+        "fmc": 52.41935348510742,
+        "chlorophyll": 82.19999694824219,
+        "nitrogen": 25.200000762939453,
+        "weight": 0.1889999955892563
+      },
+      "predicted": {
+        "fmc": 52.76826477050781,
+        "chlorophyll": 74.00724029541016,
+        "nitrogen": 22.99397087097168,
+        "weight": 0.15065884590148926
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 15,
+      "stage": 3,
+      "images": [
+        "leaf015d3_1.tif",
+        "leaf015d3_2.tif",
+        "leaf015d3_3.tif",
+        "leaf015d3_4.tif",
+        "leaf015d3_5.tif"
+      ],
+      "filename": "Olive_leaf015_stage3.png",
+      "actual": {
+        "fmc": 28.873239517211914,
+        "chlorophyll": 85.9000015258789,
+        "nitrogen": 26.299999237060547,
+        "weight": 0.18299999833106995
+      },
+      "predicted": {
+        "fmc": 19.792766571044922,
+        "chlorophyll": 80.8225326538086,
+        "nitrogen": 25.418834686279297,
+        "weight": 0.2728039622306824
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 99,
+      "stage": 0,
+      "images": [
+        "leaf099d0_1.tif",
+        "leaf099d0_2.tif",
+        "leaf099d0_3.tif",
+        "leaf099d0_4.tif",
+        "leaf099d0_5.tif"
+      ],
+      "filename": "Olive_leaf099_stage0.png",
+      "actual": {
+        "fmc": 139.49044799804688,
+        "chlorophyll": 65.30000305175781,
+        "nitrogen": 20.100000381469727,
+        "weight": 0.37599998712539673
+      },
+      "predicted": {
+        "fmc": 86.24568939208984,
+        "chlorophyll": 72.60801696777344,
+        "nitrogen": 24.728952407836914,
+        "weight": 0.3273623585700989
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 28,
+      "stage": 4,
+      "images": [
+        "leaf028d4_1.tif",
+        "leaf028d4_2.tif",
+        "leaf028d4_3.tif",
+        "leaf028d4_4.tif",
+        "leaf028d4_5.tif"
+      ],
+      "filename": "Olive_leaf028_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 90.0,
+        "nitrogen": 27.5,
+        "weight": 0.11800000071525574
+      },
+      "predicted": {
+        "fmc": 0.5587158203125,
+        "chlorophyll": 96.87567138671875,
+        "nitrogen": 25.13922119140625,
+        "weight": 0.33776772022247314
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 64,
+      "stage": 2,
+      "images": [
+        "leaf064d2_1.tif",
+        "leaf064d2_2.tif",
+        "leaf064d2_3.tif",
+        "leaf064d2_4.tif",
+        "leaf064d2_5.tif"
+      ],
+      "filename": "Olive_leaf064_stage2.png",
+      "actual": {
+        "fmc": 59.21052551269531,
+        "chlorophyll": 79.0,
+        "nitrogen": 24.200000762939453,
+        "weight": 0.24199999868869781
+      },
+      "predicted": {
+        "fmc": 60.268798828125,
+        "chlorophyll": 86.5327377319336,
+        "nitrogen": 24.68488121032715,
+        "weight": 0.20313268899917603
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 50,
+      "stage": 1,
+      "images": [
+        "leaf050d1_1.tif",
+        "leaf050d1_2.tif",
+        "leaf050d1_3.tif",
+        "leaf050d1_4.tif",
+        "leaf050d1_5.tif"
+      ],
+      "filename": "Olive_leaf050_stage1.png",
+      "actual": {
+        "fmc": 63.6363639831543,
+        "chlorophyll": 79.30000305175781,
+        "nitrogen": 24.299999237060547,
+        "weight": 0.23399999737739563
+      },
+      "predicted": {
+        "fmc": 76.84648132324219,
+        "chlorophyll": 70.2011947631836,
+        "nitrogen": 23.46198081970215,
+        "weight": 0.2803695797920227
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 28,
+      "stage": 2,
+      "images": [
+        "leaf028d2_1.tif",
+        "leaf028d2_2.tif",
+        "leaf028d2_3.tif",
+        "leaf028d2_4.tif",
+        "leaf028d2_5.tif"
+      ],
+      "filename": "Olive_leaf028_stage2.png",
+      "actual": {
+        "fmc": 38.13559341430664,
+        "chlorophyll": 85.69999694824219,
+        "nitrogen": 25.700000762939453,
+        "weight": 0.16300000250339508
+      },
+      "predicted": {
+        "fmc": 31.219711303710938,
+        "chlorophyll": 82.64183044433594,
+        "nitrogen": 25.610139846801758,
+        "weight": 0.07507455348968506
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 99,
+      "stage": 4,
+      "images": [
+        "leaf099d4_1.tif",
+        "leaf099d4_2.tif",
+        "leaf099d4_3.tif",
+        "leaf099d4_4.tif",
+        "leaf099d4_5.tif"
+      ],
+      "filename": "Olive_leaf099_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 70.9000015258789,
+        "nitrogen": 21.799999237060547,
+        "weight": 0.15700000524520874
+      },
+      "predicted": {
+        "fmc": 7.908721923828125,
+        "chlorophyll": 94.17402648925781,
+        "nitrogen": 26.156063079833984,
+        "weight": 0.08450347185134888
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 64,
+      "stage": 0,
+      "images": [
+        "leaf064d0_1.tif",
+        "leaf064d0_2.tif",
+        "leaf064d0_3.tif",
+        "leaf064d0_4.tif",
+        "leaf064d0_5.tif"
+      ],
+      "filename": "Olive_leaf064_stage0.png",
+      "actual": {
+        "fmc": 121.0526351928711,
+        "chlorophyll": 70.0999984741211,
+        "nitrogen": 21.600000381469727,
+        "weight": 0.335999995470047
+      },
+      "predicted": {
+        "fmc": 98.05030059814453,
+        "chlorophyll": 77.18909454345703,
+        "nitrogen": 24.063838958740234,
+        "weight": 0.2904723882675171
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 17,
+      "stage": 4,
+      "images": [
+        "leaf017d4_1.tif",
+        "leaf017d4_2.tif",
+        "leaf017d4_3.tif",
+        "leaf017d4_4.tif",
+        "leaf017d4_5.tif"
+      ],
+      "filename": "Olive_leaf017_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 89.80000305175781,
+        "nitrogen": 27.5,
+        "weight": 0.12399999797344208
+      },
+      "predicted": {
+        "fmc": 1.0044326782226562,
+        "chlorophyll": 85.48180389404297,
+        "nitrogen": 24.550731658935547,
+        "weight": -0.011789917945861816
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 82,
+      "stage": 3,
+      "images": [
+        "leaf082d3_1.tif",
+        "leaf082d3_2.tif",
+        "leaf082d3_3.tif",
+        "leaf082d3_4.tif",
+        "leaf082d3_5.tif"
+      ],
+      "filename": "Olive_leaf082_stage3.png",
+      "actual": {
+        "fmc": 27.932960510253906,
+        "chlorophyll": 92.30000305175781,
+        "nitrogen": 28.200000762939453,
+        "weight": 0.2290000021457672
+      },
+      "predicted": {
+        "fmc": 50.651695251464844,
+        "chlorophyll": 77.08464050292969,
+        "nitrogen": 25.469785690307617,
+        "weight": 0.3835131525993347
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 64,
+      "stage": 4,
+      "images": [
+        "leaf064d4_1.tif",
+        "leaf064d4_2.tif",
+        "leaf064d4_3.tif",
+        "leaf064d4_4.tif",
+        "leaf064d4_5.tif"
+      ],
+      "filename": "Olive_leaf064_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 87.9000015258789,
+        "nitrogen": 26.899999618530273,
+        "weight": 0.15199999511241913
+      },
+      "predicted": {
+        "fmc": 24.292266845703125,
+        "chlorophyll": 78.48745727539062,
+        "nitrogen": 25.300861358642578,
+        "weight": 0.10477536916732788
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 17,
+      "stage": 0,
+      "images": [
+        "leaf017d0_1.tif",
+        "leaf017d0_2.tif",
+        "leaf017d0_3.tif",
+        "leaf017d0_4.tif",
+        "leaf017d0_5.tif"
+      ],
+      "filename": "Olive_leaf017_stage0.png",
+      "actual": {
+        "fmc": 124.19355010986328,
+        "chlorophyll": 71.80000305175781,
+        "nitrogen": 22.100000381469727,
+        "weight": 0.27799999713897705
+      },
+      "predicted": {
+        "fmc": 70.44937133789062,
+        "chlorophyll": 69.66231536865234,
+        "nitrogen": 22.393733978271484,
+        "weight": 0.33932918310165405
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 82,
+      "stage": 1,
+      "images": [
+        "leaf082d1_1.tif",
+        "leaf082d1_2.tif",
+        "leaf082d1_3.tif",
+        "leaf082d1_4.tif",
+        "leaf082d1_5.tif"
+      ],
+      "filename": "Olive_leaf082_stage1.png",
+      "actual": {
+        "fmc": 76.53631591796875,
+        "chlorophyll": 84.0,
+        "nitrogen": 25.700000762939453,
+        "weight": 0.3160000145435333
+      },
+      "predicted": {
+        "fmc": 44.42578887939453,
+        "chlorophyll": 77.97465515136719,
+        "nitrogen": 26.699726104736328,
+        "weight": 0.25615233182907104
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 50,
+      "stage": 3,
+      "images": [
+        "leaf050d3_1.tif",
+        "leaf050d3_2.tif",
+        "leaf050d3_3.tif",
+        "leaf050d3_4.tif",
+        "leaf050d3_5.tif"
+      ],
+      "filename": "Olive_leaf050_stage3.png",
+      "actual": {
+        "fmc": 10.489510536193848,
+        "chlorophyll": 80.5,
+        "nitrogen": 24.700000762939453,
+        "weight": 0.15800000727176666
+      },
+      "predicted": {
+        "fmc": 51.41559982299805,
+        "chlorophyll": 76.43840789794922,
+        "nitrogen": 24.545148849487305,
+        "weight": 0.19807595014572144
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 28,
+      "stage": 0,
+      "images": [
+        "leaf028d0_1.tif",
+        "leaf028d0_2.tif",
+        "leaf028d0_3.tif",
+        "leaf028d0_4.tif",
+        "leaf028d0_5.tif"
+      ],
+      "filename": "Olive_leaf028_stage0.png",
+      "actual": {
+        "fmc": 100.84745788574219,
+        "chlorophyll": 72.4000015258789,
+        "nitrogen": 22.299999237060547,
+        "weight": 0.2370000034570694
+      },
+      "predicted": {
+        "fmc": 105.35326385498047,
+        "chlorophyll": 63.573734283447266,
+        "nitrogen": 21.09101104736328,
+        "weight": 0.15832030773162842
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 50,
+      "stage": 2,
+      "images": [
+        "leaf050d2_1.tif",
+        "leaf050d2_2.tif",
+        "leaf050d2_3.tif",
+        "leaf050d2_4.tif",
+        "leaf050d2_5.tif"
+      ],
+      "filename": "Olive_leaf050_stage2.png",
+      "actual": {
+        "fmc": 33.56643295288086,
+        "chlorophyll": 80.5,
+        "nitrogen": 24.700000762939453,
+        "weight": 0.19099999964237213
+      },
+      "predicted": {
+        "fmc": 49.73760223388672,
+        "chlorophyll": 82.26052856445312,
+        "nitrogen": 24.869565963745117,
+        "weight": 0.3245978355407715
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 28,
+      "stage": 1,
+      "images": [
+        "leaf028d1_1.tif",
+        "leaf028d1_2.tif",
+        "leaf028d1_3.tif",
+        "leaf028d1_4.tif",
+        "leaf028d1_5.tif"
+      ],
+      "filename": "Olive_leaf028_stage1.png",
+      "actual": {
+        "fmc": 64.40677642822266,
+        "chlorophyll": 87.80000305175781,
+        "nitrogen": 26.899999618530273,
+        "weight": 0.1940000057220459
+      },
+      "predicted": {
+        "fmc": 53.8088264465332,
+        "chlorophyll": 77.77603912353516,
+        "nitrogen": 24.571109771728516,
+        "weight": 0.35010212659835815
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 15,
+      "stage": 4,
+      "images": [
+        "leaf015d4_1.tif",
+        "leaf015d4_2.tif",
+        "leaf015d4_3.tif",
+        "leaf015d4_4.tif",
+        "leaf015d4_5.tif"
+      ],
+      "filename": "Olive_leaf015_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 83.5999984741211,
+        "nitrogen": 25.600000381469727,
+        "weight": 0.1420000046491623
+      },
+      "predicted": {
+        "fmc": -9.519607543945312,
+        "chlorophyll": 90.05918884277344,
+        "nitrogen": 27.684085845947266,
+        "weight": 0.287244975566864
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 64,
+      "stage": 3,
+      "images": [
+        "leaf064d3_1.tif",
+        "leaf064d3_2.tif",
+        "leaf064d3_3.tif",
+        "leaf064d3_4.tif",
+        "leaf064d3_5.tif"
+      ],
+      "filename": "Olive_leaf064_stage3.png",
+      "actual": {
+        "fmc": 32.23684310913086,
+        "chlorophyll": 80.30000305175781,
+        "nitrogen": 24.600000381469727,
+        "weight": 0.20100000500679016
+      },
+      "predicted": {
+        "fmc": 45.02066421508789,
+        "chlorophyll": 86.52267456054688,
+        "nitrogen": 25.454635620117188,
+        "weight": 0.19998085498809814
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 82,
+      "stage": 0,
+      "images": [
+        "leaf082d0_1.tif",
+        "leaf082d0_2.tif",
+        "leaf082d0_3.tif",
+        "leaf082d0_4.tif",
+        "leaf082d0_5.tif"
+      ],
+      "filename": "Olive_leaf082_stage0.png",
+      "actual": {
+        "fmc": 110.6145248413086,
+        "chlorophyll": 72.0999984741211,
+        "nitrogen": 22.200000762939453,
+        "weight": 0.37700000405311584
+      },
+      "predicted": {
+        "fmc": 76.62154388427734,
+        "chlorophyll": 70.54815673828125,
+        "nitrogen": 24.07029151916504,
+        "weight": 0.3540244698524475
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 15,
+      "stage": 2,
+      "images": [
+        "leaf015d2_1.tif",
+        "leaf015d2_2.tif",
+        "leaf015d2_3.tif",
+        "leaf015d2_4.tif",
+        "leaf015d2_5.tif"
+      ],
+      "filename": "Olive_leaf015_stage2.png",
+      "actual": {
+        "fmc": 51.408451080322266,
+        "chlorophyll": 88.19999694824219,
+        "nitrogen": 27.0,
+        "weight": 0.2150000035762787
+      },
+      "predicted": {
+        "fmc": 48.93305969238281,
+        "chlorophyll": 79.60943603515625,
+        "nitrogen": 25.69621467590332,
+        "weight": 0.17502427101135254
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 99,
+      "stage": 1,
+      "images": [
+        "leaf099d1_1.tif",
+        "leaf099d1_2.tif",
+        "leaf099d1_3.tif",
+        "leaf099d1_4.tif",
+        "leaf099d1_5.tif"
+      ],
+      "filename": "Olive_leaf099_stage1.png",
+      "actual": {
+        "fmc": 98.08917236328125,
+        "chlorophyll": 78.69999694824219,
+        "nitrogen": 24.200000762939453,
+        "weight": 0.3109999895095825
+      },
+      "predicted": {
+        "fmc": 68.52642059326172,
+        "chlorophyll": 77.61438751220703,
+        "nitrogen": 24.57434844970703,
+        "weight": 0.32709741592407227
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 17,
+      "stage": 1,
+      "images": [
+        "leaf017d1_1.tif",
+        "leaf017d1_2.tif",
+        "leaf017d1_3.tif",
+        "leaf017d1_4.tif",
+        "leaf017d1_5.tif"
+      ],
+      "filename": "Olive_leaf017_stage1.png",
+      "actual": {
+        "fmc": 83.87096405029297,
+        "chlorophyll": 85.69999694824219,
+        "nitrogen": 26.299999237060547,
+        "weight": 0.2280000001192093
+      },
+      "predicted": {
+        "fmc": 69.07135772705078,
+        "chlorophyll": 71.16896057128906,
+        "nitrogen": 23.446260452270508,
+        "weight": 0.2929731607437134
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 50,
+      "stage": 4,
+      "images": [
+        "leaf050d4_1.tif",
+        "leaf050d4_2.tif",
+        "leaf050d4_3.tif",
+        "leaf050d4_4.tif",
+        "leaf050d4_5.tif"
+      ],
+      "filename": "Olive_leaf050_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 91.19999694824219,
+        "nitrogen": 27.899999618530273,
+        "weight": 0.14300000667572021
+      },
+      "predicted": {
+        "fmc": 8.789299011230469,
+        "chlorophyll": 92.8443374633789,
+        "nitrogen": 26.907215118408203,
+        "weight": 0.1720658540725708
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 82,
+      "stage": 4,
+      "images": [
+        "leaf082d4_1.tif",
+        "leaf082d4_2.tif",
+        "leaf082d4_3.tif",
+        "leaf082d4_4.tif",
+        "leaf082d4_5.tif"
+      ],
+      "filename": "Olive_leaf082_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 92.69999694824219,
+        "nitrogen": 28.399999618530273,
+        "weight": 0.17900000512599945
+      },
+      "predicted": {
+        "fmc": 11.932136535644531,
+        "chlorophyll": 94.63432312011719,
+        "nitrogen": 26.10120964050293,
+        "weight": 0.2801528573036194
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 99,
+      "stage": 3,
+      "images": [
+        "leaf099d3_1.tif",
+        "leaf099d3_2.tif",
+        "leaf099d3_3.tif",
+        "leaf099d3_4.tif",
+        "leaf099d3_5.tif"
+      ],
+      "filename": "Olive_leaf099_stage3.png",
+      "actual": {
+        "fmc": 28.66242027282715,
+        "chlorophyll": 76.5999984741211,
+        "nitrogen": 23.5,
+        "weight": 0.20200000703334808
+      },
+      "predicted": {
+        "fmc": 27.296916961669922,
+        "chlorophyll": 82.91487884521484,
+        "nitrogen": 25.2711238861084,
+        "weight": 0.15018421411514282
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 15,
+      "stage": 0,
+      "images": [
+        "leaf015d0_1.tif",
+        "leaf015d0_2.tif",
+        "leaf015d0_3.tif",
+        "leaf015d0_4.tif",
+        "leaf015d0_5.tif"
+      ],
+      "filename": "Olive_leaf015_stage0.png",
+      "actual": {
+        "fmc": 114.78873443603516,
+        "chlorophyll": 73.0,
+        "nitrogen": 22.399999618530273,
+        "weight": 0.3050000071525574
+      },
+      "predicted": {
+        "fmc": 71.42327880859375,
+        "chlorophyll": 78.14242553710938,
+        "nitrogen": 22.998977661132812,
+        "weight": 0.19796311855316162
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 64,
+      "stage": 1,
+      "images": [
+        "leaf064d1_1.tif",
+        "leaf064d1_2.tif",
+        "leaf064d1_3.tif",
+        "leaf064d1_4.tif",
+        "leaf064d1_5.tif"
+      ],
+      "filename": "Olive_leaf064_stage1.png",
+      "actual": {
+        "fmc": 95.39473724365234,
+        "chlorophyll": 78.5,
+        "nitrogen": 24.100000381469727,
+        "weight": 0.296999990940094
+      },
+      "predicted": {
+        "fmc": 64.72909545898438,
+        "chlorophyll": 87.1300048828125,
+        "nitrogen": 23.79983139038086,
+        "weight": 0.24879848957061768
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 82,
+      "stage": 2,
+      "images": [
+        "leaf082d2_1.tif",
+        "leaf082d2_2.tif",
+        "leaf082d2_3.tif",
+        "leaf082d2_4.tif",
+        "leaf082d2_5.tif"
+      ],
+      "filename": "Olive_leaf082_stage2.png",
+      "actual": {
+        "fmc": 55.3072624206543,
+        "chlorophyll": 85.4000015258789,
+        "nitrogen": 26.200000762939453,
+        "weight": 0.27799999713897705
+      },
+      "predicted": {
+        "fmc": 70.56320190429688,
+        "chlorophyll": 77.86705017089844,
+        "nitrogen": 23.781734466552734,
+        "weight": 0.48420441150665283
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 50,
+      "stage": 0,
+      "images": [
+        "leaf050d0_1.tif",
+        "leaf050d0_2.tif",
+        "leaf050d0_3.tif",
+        "leaf050d0_4.tif",
+        "leaf050d0_5.tif"
+      ],
+      "filename": "Olive_leaf050_stage0.png",
+      "actual": {
+        "fmc": 102.79720306396484,
+        "chlorophyll": 67.80000305175781,
+        "nitrogen": 20.899999618530273,
+        "weight": 0.28999999165534973
+      },
+      "predicted": {
+        "fmc": 95.12898254394531,
+        "chlorophyll": 76.58309173583984,
+        "nitrogen": 23.22840118408203,
+        "weight": 0.3105751872062683
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 28,
+      "stage": 3,
+      "images": [
+        "leaf028d3_1.tif",
+        "leaf028d3_2.tif",
+        "leaf028d3_3.tif",
+        "leaf028d3_4.tif",
+        "leaf028d3_5.tif"
+      ],
+      "filename": "Olive_leaf028_stage3.png",
+      "actual": {
+        "fmc": 19.491525650024414,
+        "chlorophyll": 82.5999984741211,
+        "nitrogen": 25.299999237060547,
+        "weight": 0.14100000262260437
+      },
+      "predicted": {
+        "fmc": 4.730125427246094,
+        "chlorophyll": 80.71043395996094,
+        "nitrogen": 24.270641326904297,
+        "weight": 0.12967896461486816
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 17,
+      "stage": 3,
+      "images": [
+        "leaf017d3_1.tif",
+        "leaf017d3_2.tif",
+        "leaf017d3_3.tif",
+        "leaf017d3_4.tif",
+        "leaf017d3_5.tif"
+      ],
+      "filename": "Olive_leaf017_stage3.png",
+      "actual": {
+        "fmc": 28.225807189941406,
+        "chlorophyll": 88.69999694824219,
+        "nitrogen": 27.200000762939453,
+        "weight": 0.1589999943971634
+      },
+      "predicted": {
+        "fmc": 36.40998840332031,
+        "chlorophyll": 76.38097381591797,
+        "nitrogen": 24.017696380615234,
+        "weight": 0.213270902633667
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 101,
+      "stage": 1,
+      "images": [
+        "leaf101d1_1.tif",
+        "leaf101d1_2.tif",
+        "leaf101d1_3.tif",
+        "leaf101d1_4.tif",
+        "leaf101d1_5.tif"
+      ],
+      "filename": "Olive_leaf101_stage1.png",
+      "actual": {
+        "fmc": 104.4871826171875,
+        "chlorophyll": 76.0999984741211,
+        "nitrogen": 23.399999618530273,
+        "weight": 0.3190000057220459
+      },
+      "predicted": {
+        "fmc": 94.12786102294922,
+        "chlorophyll": 68.07410430908203,
+        "nitrogen": 20.053787231445312,
+        "weight": 0.4304533302783966
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 69,
+      "stage": 1,
+      "images": [
+        "leaf069d1_1.tif",
+        "leaf069d1_2.tif",
+        "leaf069d1_3.tif",
+        "leaf069d1_4.tif",
+        "leaf069d1_5.tif"
+      ],
+      "filename": "Olive_leaf069_stage1.png",
+      "actual": {
+        "fmc": 80.98591613769531,
+        "chlorophyll": 80.30000305175781,
+        "nitrogen": 24.600000381469727,
+        "weight": 0.25699999928474426
+      },
+      "predicted": {
+        "fmc": 22.970012664794922,
+        "chlorophyll": 83.28282928466797,
+        "nitrogen": 23.50083351135254,
+        "weight": 0.16911107301712036
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 26,
+      "stage": 2,
+      "images": [
+        "leaf026d2_1.tif",
+        "leaf026d2_2.tif",
+        "leaf026d2_3.tif",
+        "leaf026d2_4.tif",
+        "leaf026d2_5.tif"
+      ],
+      "filename": "Olive_leaf026_stage2.png",
+      "actual": {
+        "fmc": 56.29138946533203,
+        "chlorophyll": 80.80000305175781,
+        "nitrogen": 24.799999237060547,
+        "weight": 0.23600000143051147
+      },
+      "predicted": {
+        "fmc": 65.45551300048828,
+        "chlorophyll": 90.61994934082031,
+        "nitrogen": 23.762802124023438,
+        "weight": 0.3181459307670593
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 35,
+      "stage": 3,
+      "images": [
+        "leaf035d3_1.tif",
+        "leaf035d3_2.tif",
+        "leaf035d3_3.tif",
+        "leaf035d3_4.tif",
+        "leaf035d3_5.tif"
+      ],
+      "filename": "Olive_leaf035_stage3.png",
+      "actual": {
+        "fmc": 9.91735553741455,
+        "chlorophyll": 89.0999984741211,
+        "nitrogen": 27.299999237060547,
+        "weight": 0.13300000131130219
+      },
+      "predicted": {
+        "fmc": 31.371429443359375,
+        "chlorophyll": 86.35621643066406,
+        "nitrogen": 25.715484619140625,
+        "weight": 0.10772520303726196
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 47,
+      "stage": 3,
+      "images": [
+        "leaf047d3_1.tif",
+        "leaf047d3_2.tif",
+        "leaf047d3_3.tif",
+        "leaf047d3_4.tif",
+        "leaf047d3_5.tif"
+      ],
+      "filename": "Olive_leaf047_stage3.png",
+      "actual": {
+        "fmc": 38.095237731933594,
+        "chlorophyll": 82.69999694824219,
+        "nitrogen": 25.399999618530273,
+        "weight": 0.2029999941587448
+      },
+      "predicted": {
+        "fmc": 17.139301300048828,
+        "chlorophyll": 80.88221740722656,
+        "nitrogen": 25.69442367553711,
+        "weight": 0.19557815790176392
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 46,
+      "stage": 1,
+      "images": [
+        "leaf046d1_1.tif",
+        "leaf046d1_2.tif",
+        "leaf046d1_3.tif",
+        "leaf046d1_4.tif",
+        "leaf046d1_5.tif"
+      ],
+      "filename": "Olive_leaf046_stage1.png",
+      "actual": {
+        "fmc": 76.74418640136719,
+        "chlorophyll": 76.5,
+        "nitrogen": 23.5,
+        "weight": 0.2280000001192093
+      },
+      "predicted": {
+        "fmc": 71.289306640625,
+        "chlorophyll": 72.82696533203125,
+        "nitrogen": 23.38888931274414,
+        "weight": 0.2973470091819763
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 26,
+      "stage": 4,
+      "images": [
+        "leaf026d4_1.tif",
+        "leaf026d4_2.tif",
+        "leaf026d4_3.tif",
+        "leaf026d4_4.tif",
+        "leaf026d4_5.tif"
+      ],
+      "filename": "Olive_leaf026_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 81.0,
+        "nitrogen": 24.799999237060547,
+        "weight": 0.1509999930858612
+      },
+      "predicted": {
+        "fmc": -18.4150390625,
+        "chlorophyll": 87.4228515625,
+        "nitrogen": 26.147695541381836,
+        "weight": 0.03362494707107544
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 55,
+      "stage": 0,
+      "images": [
+        "leaf055d0_1.tif",
+        "leaf055d0_2.tif",
+        "leaf055d0_3.tif",
+        "leaf055d0_4.tif",
+        "leaf055d0_5.tif"
+      ],
+      "filename": "Olive_leaf055_stage0.png",
+      "actual": {
+        "fmc": 117.532470703125,
+        "chlorophyll": 64.80000305175781,
+        "nitrogen": 20.0,
+        "weight": 0.33500000834465027
+      },
+      "predicted": {
+        "fmc": 92.03925323486328,
+        "chlorophyll": 67.10613250732422,
+        "nitrogen": 21.749380111694336,
+        "weight": 0.4144143760204315
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 46,
+      "stage": 3,
+      "images": [
+        "leaf046d3_1.tif",
+        "leaf046d3_2.tif",
+        "leaf046d3_3.tif",
+        "leaf046d3_4.tif",
+        "leaf046d3_5.tif"
+      ],
+      "filename": "Olive_leaf046_stage3.png",
+      "actual": {
+        "fmc": 10.852713584899902,
+        "chlorophyll": 82.69999694824219,
+        "nitrogen": 25.399999618530273,
+        "weight": 0.14300000667572021
+      },
+      "predicted": {
+        "fmc": 3.3284072875976562,
+        "chlorophyll": 84.95983123779297,
+        "nitrogen": 28.74216079711914,
+        "weight": 0.15252459049224854
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 84,
+      "stage": 3,
+      "images": [
+        "leaf084d3_1.tif",
+        "leaf084d3_2.tif",
+        "leaf084d3_3.tif",
+        "leaf084d3_4.tif",
+        "leaf084d3_5.tif"
+      ],
+      "filename": "Olive_leaf084_stage3.png",
+      "actual": {
+        "fmc": 27.972028732299805,
+        "chlorophyll": 85.30000305175781,
+        "nitrogen": 26.100000381469727,
+        "weight": 0.18299999833106995
+      },
+      "predicted": {
+        "fmc": 37.56793212890625,
+        "chlorophyll": 81.58094787597656,
+        "nitrogen": 27.383625030517578,
+        "weight": 0.16776525974273682
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 71,
+      "stage": 1,
+      "images": [
+        "leaf071d1_1.tif",
+        "leaf071d1_2.tif",
+        "leaf071d1_3.tif",
+        "leaf071d1_4.tif",
+        "leaf071d1_5.tif"
+      ],
+      "filename": "Olive_leaf071_stage1.png",
+      "actual": {
+        "fmc": 82.08955383300781,
+        "chlorophyll": 82.0,
+        "nitrogen": 25.100000381469727,
+        "weight": 0.24400000274181366
+      },
+      "predicted": {
+        "fmc": 93.21292877197266,
+        "chlorophyll": 71.35212707519531,
+        "nitrogen": 23.298498153686523,
+        "weight": 0.2929121255874634
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 55,
+      "stage": 2,
+      "images": [
+        "leaf055d2_1.tif",
+        "leaf055d2_2.tif",
+        "leaf055d2_3.tif",
+        "leaf055d2_4.tif",
+        "leaf055d2_5.tif"
+      ],
+      "filename": "Olive_leaf055_stage2.png",
+      "actual": {
+        "fmc": 42.20779037475586,
+        "chlorophyll": 79.30000305175781,
+        "nitrogen": 24.299999237060547,
+        "weight": 0.21899999678134918
+      },
+      "predicted": {
+        "fmc": 42.76177978515625,
+        "chlorophyll": 82.46581268310547,
+        "nitrogen": 23.5814151763916,
+        "weight": 0.3273734450340271
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 84,
+      "stage": 1,
+      "images": [
+        "leaf084d1_1.tif",
+        "leaf084d1_2.tif",
+        "leaf084d1_3.tif",
+        "leaf084d1_4.tif",
+        "leaf084d1_5.tif"
+      ],
+      "filename": "Olive_leaf084_stage1.png",
+      "actual": {
+        "fmc": 83.21678161621094,
+        "chlorophyll": 82.5999984741211,
+        "nitrogen": 25.299999237060547,
+        "weight": 0.2619999945163727
+      },
+      "predicted": {
+        "fmc": 84.20182800292969,
+        "chlorophyll": 79.83235168457031,
+        "nitrogen": 24.307395935058594,
+        "weight": 0.2658212184906006
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 69,
+      "stage": 3,
+      "images": [
+        "leaf069d3_1.tif",
+        "leaf069d3_2.tif",
+        "leaf069d3_3.tif",
+        "leaf069d3_4.tif",
+        "leaf069d3_5.tif"
+      ],
+      "filename": "Olive_leaf069_stage3.png",
+      "actual": {
+        "fmc": 24.36619758605957,
+        "chlorophyll": 81.9000015258789,
+        "nitrogen": 25.100000381469727,
+        "weight": 0.17659999430179596
+      },
+      "predicted": {
+        "fmc": 25.58661651611328,
+        "chlorophyll": 84.3894271850586,
+        "nitrogen": 23.087276458740234,
+        "weight": 0.2748206853866577
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 101,
+      "stage": 3,
+      "images": [
+        "leaf101d3_1.tif",
+        "leaf101d3_2.tif",
+        "leaf101d3_3.tif",
+        "leaf101d3_4.tif",
+        "leaf101d3_5.tif"
+      ],
+      "filename": "Olive_leaf101_stage3.png",
+      "actual": {
+        "fmc": 30.769229888916016,
+        "chlorophyll": 81.30000305175781,
+        "nitrogen": 24.899999618530273,
+        "weight": 0.20399999618530273
+      },
+      "predicted": {
+        "fmc": 62.088279724121094,
+        "chlorophyll": 75.21888732910156,
+        "nitrogen": 23.079030990600586,
+        "weight": 0.23012757301330566
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 26,
+      "stage": 0,
+      "images": [
+        "leaf026d0_1.tif",
+        "leaf026d0_2.tif",
+        "leaf026d0_3.tif",
+        "leaf026d0_4.tif",
+        "leaf026d0_5.tif"
+      ],
+      "filename": "Olive_leaf026_stage0.png",
+      "actual": {
+        "fmc": 120.52980041503906,
+        "chlorophyll": 69.9000015258789,
+        "nitrogen": 21.5,
+        "weight": 0.3330000042915344
+      },
+      "predicted": {
+        "fmc": 120.7886734008789,
+        "chlorophyll": 68.59618377685547,
+        "nitrogen": 20.25802993774414,
+        "weight": 0.42086848616600037
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 55,
+      "stage": 4,
+      "images": [
+        "leaf055d4_1.tif",
+        "leaf055d4_2.tif",
+        "leaf055d4_3.tif",
+        "leaf055d4_4.tif",
+        "leaf055d4_5.tif"
+      ],
+      "filename": "Olive_leaf055_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 89.19999694824219,
+        "nitrogen": 27.299999237060547,
+        "weight": 0.15399999916553497
+      },
+      "predicted": {
+        "fmc": 12.144157409667969,
+        "chlorophyll": 85.05109405517578,
+        "nitrogen": 24.944194793701172,
+        "weight": 0.27557963132858276
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 35,
+      "stage": 1,
+      "images": [
+        "leaf035d1_1.tif",
+        "leaf035d1_2.tif",
+        "leaf035d1_3.tif",
+        "leaf035d1_4.tif",
+        "leaf035d1_5.tif"
+      ],
+      "filename": "Olive_leaf035_stage1.png",
+      "actual": {
+        "fmc": 66.1156997680664,
+        "chlorophyll": 81.30000305175781,
+        "nitrogen": 24.899999618530273,
+        "weight": 0.20100000500679016
+      },
+      "predicted": {
+        "fmc": 78.66988372802734,
+        "chlorophyll": 78.95245361328125,
+        "nitrogen": 24.276803970336914,
+        "weight": 0.20132100582122803
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 71,
+      "stage": 3,
+      "images": [
+        "leaf071d3_1.tif",
+        "leaf071d3_2.tif",
+        "leaf071d3_3.tif",
+        "leaf071d3_4.tif",
+        "leaf071d3_5.tif"
+      ],
+      "filename": "Olive_leaf071_stage3.png",
+      "actual": {
+        "fmc": 24.62686538696289,
+        "chlorophyll": 87.69999694824219,
+        "nitrogen": 26.899999618530273,
+        "weight": 0.16699999570846558
+      },
+      "predicted": {
+        "fmc": 54.740089416503906,
+        "chlorophyll": 78.28601837158203,
+        "nitrogen": 23.13915252685547,
+        "weight": 0.13748681545257568
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 47,
+      "stage": 1,
+      "images": [
+        "leaf047d1_1.tif",
+        "leaf047d1_2.tif",
+        "leaf047d1_3.tif",
+        "leaf047d1_4.tif",
+        "leaf047d1_5.tif"
+      ],
+      "filename": "Olive_leaf047_stage1.png",
+      "actual": {
+        "fmc": 100.0,
+        "chlorophyll": 79.4000015258789,
+        "nitrogen": 24.399999618530273,
+        "weight": 0.2939999997615814
+      },
+      "predicted": {
+        "fmc": 64.0085678100586,
+        "chlorophyll": 76.38621520996094,
+        "nitrogen": 24.137897491455078,
+        "weight": 0.3796059489250183
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 46,
+      "stage": 2,
+      "images": [
+        "leaf046d2_1.tif",
+        "leaf046d2_2.tif",
+        "leaf046d2_3.tif",
+        "leaf046d2_4.tif",
+        "leaf046d2_5.tif"
+      ],
+      "filename": "Olive_leaf046_stage2.png",
+      "actual": {
+        "fmc": 37.20930099487305,
+        "chlorophyll": 84.9000015258789,
+        "nitrogen": 26.0,
+        "weight": 0.1770000010728836
+      },
+      "predicted": {
+        "fmc": 46.048309326171875,
+        "chlorophyll": 76.47976684570312,
+        "nitrogen": 25.230445861816406,
+        "weight": 0.12370389699935913
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 47,
+      "stage": 0,
+      "images": [
+        "leaf047d0_1.tif",
+        "leaf047d0_2.tif",
+        "leaf047d0_3.tif",
+        "leaf047d0_4.tif",
+        "leaf047d0_5.tif"
+      ],
+      "filename": "Olive_leaf047_stage0.png",
+      "actual": {
+        "fmc": 112.9251708984375,
+        "chlorophyll": 66.80000305175781,
+        "nitrogen": 20.600000381469727,
+        "weight": 0.31299999356269836
+      },
+      "predicted": {
+        "fmc": 76.86837768554688,
+        "chlorophyll": 76.25074768066406,
+        "nitrogen": 24.023365020751953,
+        "weight": 0.3519498109817505
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 84,
+      "stage": 2,
+      "images": [
+        "leaf084d2_1.tif",
+        "leaf084d2_2.tif",
+        "leaf084d2_3.tif",
+        "leaf084d2_4.tif",
+        "leaf084d2_5.tif"
+      ],
+      "filename": "Olive_leaf084_stage2.png",
+      "actual": {
+        "fmc": 58.74126052856445,
+        "chlorophyll": 82.4000015258789,
+        "nitrogen": 25.299999237060547,
+        "weight": 0.22699999809265137
+      },
+      "predicted": {
+        "fmc": 72.53147888183594,
+        "chlorophyll": 75.3913803100586,
+        "nitrogen": 25.35897445678711,
+        "weight": 0.20078372955322266
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 55,
+      "stage": 3,
+      "images": [
+        "leaf055d3_1.tif",
+        "leaf055d3_2.tif",
+        "leaf055d3_3.tif",
+        "leaf055d3_4.tif",
+        "leaf055d3_5.tif"
+      ],
+      "filename": "Olive_leaf055_stage3.png",
+      "actual": {
+        "fmc": 15.584415435791016,
+        "chlorophyll": 79.5,
+        "nitrogen": 24.399999618530273,
+        "weight": 0.17800000309944153
+      },
+      "predicted": {
+        "fmc": 22.82611083984375,
+        "chlorophyll": 83.60858917236328,
+        "nitrogen": 24.667621612548828,
+        "weight": 0.1901530623435974
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 101,
+      "stage": 4,
+      "images": [
+        "leaf101d4_1.tif",
+        "leaf101d4_2.tif",
+        "leaf101d4_3.tif",
+        "leaf101d4_4.tif",
+        "leaf101d4_5.tif"
+      ],
+      "filename": "Olive_leaf101_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 89.4000015258789,
+        "nitrogen": 27.399999618530273,
+        "weight": 0.15600000321865082
+      },
+      "predicted": {
+        "fmc": 0.04979705810546875,
+        "chlorophyll": 85.02983093261719,
+        "nitrogen": 25.77756118774414,
+        "weight": 0.06842082738876343
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 71,
+      "stage": 2,
+      "images": [
+        "leaf071d2_1.tif",
+        "leaf071d2_2.tif",
+        "leaf071d2_3.tif",
+        "leaf071d2_4.tif",
+        "leaf071d2_5.tif"
+      ],
+      "filename": "Olive_leaf071_stage2.png",
+      "actual": {
+        "fmc": 48.50746154785156,
+        "chlorophyll": 80.9000015258789,
+        "nitrogen": 24.799999237060547,
+        "weight": 0.19900000095367432
+      },
+      "predicted": {
+        "fmc": 65.61234283447266,
+        "chlorophyll": 79.54187774658203,
+        "nitrogen": 23.416656494140625,
+        "weight": 0.39964914321899414
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 69,
+      "stage": 4,
+      "images": [
+        "leaf069d4_1.tif",
+        "leaf069d4_2.tif",
+        "leaf069d4_3.tif",
+        "leaf069d4_4.tif",
+        "leaf069d4_5.tif"
+      ],
+      "filename": "Olive_leaf069_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 81.0999984741211,
+        "nitrogen": 24.899999618530273,
+        "weight": 0.1420000046491623
+      },
+      "predicted": {
+        "fmc": 9.324111938476562,
+        "chlorophyll": 84.10646057128906,
+        "nitrogen": 24.20940589904785,
+        "weight": 0.16674959659576416
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 84,
+      "stage": 0,
+      "images": [
+        "leaf084d0_1.tif",
+        "leaf084d0_2.tif",
+        "leaf084d0_3.tif",
+        "leaf084d0_4.tif",
+        "leaf084d0_5.tif"
+      ],
+      "filename": "Olive_leaf084_stage0.png",
+      "actual": {
+        "fmc": 127.2727279663086,
+        "chlorophyll": 69.5999984741211,
+        "nitrogen": 21.399999618530273,
+        "weight": 0.32499998807907104
+      },
+      "predicted": {
+        "fmc": 119.75059509277344,
+        "chlorophyll": 67.1554946899414,
+        "nitrogen": 20.941457748413086,
+        "weight": 0.23854374885559082
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 35,
+      "stage": 4,
+      "images": [
+        "leaf035d4_1.tif",
+        "leaf035d4_2.tif",
+        "leaf035d4_3.tif",
+        "leaf035d4_4.tif",
+        "leaf035d4_5.tif"
+      ],
+      "filename": "Olive_leaf035_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 91.19999694824219,
+        "nitrogen": 27.899999618530273,
+        "weight": 0.12099999934434891
+      },
+      "predicted": {
+        "fmc": 5.15863037109375,
+        "chlorophyll": 83.4508056640625,
+        "nitrogen": 26.92919158935547,
+        "weight": 0.06780499219894409
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 47,
+      "stage": 4,
+      "images": [
+        "leaf047d4_1.tif",
+        "leaf047d4_2.tif",
+        "leaf047d4_3.tif",
+        "leaf047d4_4.tif",
+        "leaf047d4_5.tif"
+      ],
+      "filename": "Olive_leaf047_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 90.4000015258789,
+        "nitrogen": 27.700000762939453,
+        "weight": 0.1469999998807907
+      },
+      "predicted": {
+        "fmc": 25.818538665771484,
+        "chlorophyll": 80.18518829345703,
+        "nitrogen": 25.283432006835938,
+        "weight": 0.043865859508514404
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 69,
+      "stage": 2,
+      "images": [
+        "leaf069d2_1.tif",
+        "leaf069d2_2.tif",
+        "leaf069d2_3.tif",
+        "leaf069d2_4.tif",
+        "leaf069d2_5.tif"
+      ],
+      "filename": "Olive_leaf069_stage2.png",
+      "actual": {
+        "fmc": 47.18309783935547,
+        "chlorophyll": 88.0999984741211,
+        "nitrogen": 27.0,
+        "weight": 0.20900000631809235
+      },
+      "predicted": {
+        "fmc": 9.987373352050781,
+        "chlorophyll": 79.1058349609375,
+        "nitrogen": 24.368722915649414,
+        "weight": 0.22721123695373535
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 101,
+      "stage": 2,
+      "images": [
+        "leaf101d2_1.tif",
+        "leaf101d2_2.tif",
+        "leaf101d2_3.tif",
+        "leaf101d2_4.tif",
+        "leaf101d2_5.tif"
+      ],
+      "filename": "Olive_leaf101_stage2.png",
+      "actual": {
+        "fmc": 66.02564239501953,
+        "chlorophyll": 79.0,
+        "nitrogen": 24.200000762939453,
+        "weight": 0.2590000033378601
+      },
+      "predicted": {
+        "fmc": 64.57060241699219,
+        "chlorophyll": 75.8744888305664,
+        "nitrogen": 23.133567810058594,
+        "weight": 0.2969079613685608
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 71,
+      "stage": 4,
+      "images": [
+        "leaf071d4_1.tif",
+        "leaf071d4_2.tif",
+        "leaf071d4_3.tif",
+        "leaf071d4_4.tif",
+        "leaf071d4_5.tif"
+      ],
+      "filename": "Olive_leaf071_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 88.5,
+        "nitrogen": 27.100000381469727,
+        "weight": 0.1340000033378601
+      },
+      "predicted": {
+        "fmc": 16.123531341552734,
+        "chlorophyll": 83.16844177246094,
+        "nitrogen": 24.762420654296875,
+        "weight": -0.03465777635574341
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 46,
+      "stage": 4,
+      "images": [
+        "leaf046d4_1.tif",
+        "leaf046d4_2.tif",
+        "leaf046d4_3.tif",
+        "leaf046d4_4.tif",
+        "leaf046d4_5.tif"
+      ],
+      "filename": "Olive_leaf046_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 88.4000015258789,
+        "nitrogen": 27.100000381469727,
+        "weight": 0.1289999932050705
+      },
+      "predicted": {
+        "fmc": 29.126575469970703,
+        "chlorophyll": 84.0503158569336,
+        "nitrogen": 26.780927658081055,
+        "weight": 0.05695497989654541
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 69,
+      "stage": 0,
+      "images": [
+        "leaf069d0_1.tif",
+        "leaf069d0_2.tif",
+        "leaf069d0_3.tif",
+        "leaf069d0_4.tif",
+        "leaf069d0_5.tif"
+      ],
+      "filename": "Olive_leaf069_stage0.png",
+      "actual": {
+        "fmc": 112.67605590820312,
+        "chlorophyll": 66.80000305175781,
+        "nitrogen": 20.600000381469727,
+        "weight": 0.3019999861717224
+      },
+      "predicted": {
+        "fmc": 40.29924011230469,
+        "chlorophyll": 71.98806762695312,
+        "nitrogen": 22.022417068481445,
+        "weight": 0.24314993619918823
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 101,
+      "stage": 0,
+      "images": [
+        "leaf101d0_1.tif",
+        "leaf101d0_2.tif",
+        "leaf101d0_3.tif",
+        "leaf101d0_4.tif",
+        "leaf101d0_5.tif"
+      ],
+      "filename": "Olive_leaf101_stage0.png",
+      "actual": {
+        "fmc": 141.025634765625,
+        "chlorophyll": 62.400001525878906,
+        "nitrogen": 19.299999237060547,
+        "weight": 0.37599998712539673
+      },
+      "predicted": {
+        "fmc": 122.36459350585938,
+        "chlorophyll": 71.3899917602539,
+        "nitrogen": 18.855772018432617,
+        "weight": 0.3132815361022949
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 26,
+      "stage": 1,
+      "images": [
+        "leaf026d1_1.tif",
+        "leaf026d1_2.tif",
+        "leaf026d1_3.tif",
+        "leaf026d1_4.tif",
+        "leaf026d1_5.tif"
+      ],
+      "filename": "Olive_leaf026_stage1.png",
+      "actual": {
+        "fmc": 82.78145599365234,
+        "chlorophyll": 82.19999694824219,
+        "nitrogen": 25.200000762939453,
+        "weight": 0.2759999930858612
+      },
+      "predicted": {
+        "fmc": 103.30563354492188,
+        "chlorophyll": 75.84270477294922,
+        "nitrogen": 22.4918212890625,
+        "weight": 0.07392621040344238
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 35,
+      "stage": 0,
+      "images": [
+        "leaf035d0_1.tif",
+        "leaf035d0_2.tif",
+        "leaf035d0_3.tif",
+        "leaf035d0_4.tif",
+        "leaf035d0_5.tif"
+      ],
+      "filename": "Olive_leaf035_stage0.png",
+      "actual": {
+        "fmc": 103.3057861328125,
+        "chlorophyll": 67.4000015258789,
+        "nitrogen": 20.799999237060547,
+        "weight": 0.2460000067949295
+      },
+      "predicted": {
+        "fmc": 40.94963455200195,
+        "chlorophyll": 63.67558288574219,
+        "nitrogen": 22.681798934936523,
+        "weight": 0.457165390253067
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 55,
+      "stage": 1,
+      "images": [
+        "leaf055d1_1.tif",
+        "leaf055d1_2.tif",
+        "leaf055d1_3.tif",
+        "leaf055d1_4.tif",
+        "leaf055d1_5.tif"
+      ],
+      "filename": "Olive_leaf055_stage1.png",
+      "actual": {
+        "fmc": 73.37662506103516,
+        "chlorophyll": 76.9000015258789,
+        "nitrogen": 23.600000381469727,
+        "weight": 0.2669999897480011
+      },
+      "predicted": {
+        "fmc": 65.55040740966797,
+        "chlorophyll": 73.81214904785156,
+        "nitrogen": 23.62645721435547,
+        "weight": 0.3330313563346863
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 46,
+      "stage": 0,
+      "images": [
+        "leaf046d0_1.tif",
+        "leaf046d0_2.tif",
+        "leaf046d0_3.tif",
+        "leaf046d0_4.tif",
+        "leaf046d0_5.tif"
+      ],
+      "filename": "Olive_leaf046_stage0.png",
+      "actual": {
+        "fmc": 138.7596893310547,
+        "chlorophyll": 62.20000076293945,
+        "nitrogen": 19.200000762939453,
+        "weight": 0.30799999833106995
+      },
+      "predicted": {
+        "fmc": 92.4915771484375,
+        "chlorophyll": 63.06089782714844,
+        "nitrogen": 21.800504684448242,
+        "weight": 0.5942319631576538
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 71,
+      "stage": 0,
+      "images": [
+        "leaf071d0_1.tif",
+        "leaf071d0_2.tif",
+        "leaf071d0_3.tif",
+        "leaf071d0_4.tif",
+        "leaf071d0_5.tif"
+      ],
+      "filename": "Olive_leaf071_stage0.png",
+      "actual": {
+        "fmc": 115.67163848876953,
+        "chlorophyll": 72.0,
+        "nitrogen": 22.100000381469727,
+        "weight": 0.289000004529953
+      },
+      "predicted": {
+        "fmc": 104.74043273925781,
+        "chlorophyll": 67.26971435546875,
+        "nitrogen": 20.510995864868164,
+        "weight": 0.3854878544807434
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 47,
+      "stage": 2,
+      "images": [
+        "leaf047d2_1.tif",
+        "leaf047d2_2.tif",
+        "leaf047d2_3.tif",
+        "leaf047d2_4.tif",
+        "leaf047d2_5.tif"
+      ],
+      "filename": "Olive_leaf047_stage2.png",
+      "actual": {
+        "fmc": 68.02721405029297,
+        "chlorophyll": 88.4000015258789,
+        "nitrogen": 27.100000381469727,
+        "weight": 0.24699999392032623
+      },
+      "predicted": {
+        "fmc": 32.91508102416992,
+        "chlorophyll": 84.23224639892578,
+        "nitrogen": 27.21210479736328,
+        "weight": 0.04397857189178467
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 26,
+      "stage": 3,
+      "images": [
+        "leaf026d3_1.tif",
+        "leaf026d3_2.tif",
+        "leaf026d3_3.tif",
+        "leaf026d3_4.tif",
+        "leaf026d3_5.tif"
+      ],
+      "filename": "Olive_leaf026_stage3.png",
+      "actual": {
+        "fmc": 35.76158905029297,
+        "chlorophyll": 84.80000305175781,
+        "nitrogen": 26.0,
+        "weight": 0.20499999821186066
+      },
+      "predicted": {
+        "fmc": 48.69935607910156,
+        "chlorophyll": 81.4439468383789,
+        "nitrogen": 25.343069076538086,
+        "weight": 0.06830030679702759
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 35,
+      "stage": 2,
+      "images": [
+        "leaf035d2_1.tif",
+        "leaf035d2_2.tif",
+        "leaf035d2_3.tif",
+        "leaf035d2_4.tif",
+        "leaf035d2_5.tif"
+      ],
+      "filename": "Olive_leaf035_stage2.png",
+      "actual": {
+        "fmc": 36.3636360168457,
+        "chlorophyll": 82.0,
+        "nitrogen": 25.100000381469727,
+        "weight": 0.16500000655651093
+      },
+      "predicted": {
+        "fmc": 61.40646743774414,
+        "chlorophyll": 82.19782257080078,
+        "nitrogen": 24.679367065429688,
+        "weight": 0.14857882261276245
+      }
+    },
+    {
+      "species": "Olive",
+      "leaf": 84,
+      "stage": 4,
+      "images": [
+        "leaf084d4_1.tif",
+        "leaf084d4_2.tif",
+        "leaf084d4_3.tif",
+        "leaf084d4_4.tif",
+        "leaf084d4_5.tif"
+      ],
+      "filename": "Olive_leaf084_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 89.5,
+        "nitrogen": 27.399999618530273,
+        "weight": 0.14300000667572021
+      },
+      "predicted": {
+        "fmc": -11.26153564453125,
+        "chlorophyll": 84.78126525878906,
+        "nitrogen": 26.40342903137207,
+        "weight": 0.2643129825592041
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 17,
+      "stage": 2,
+      "images": [
+        "leaf017d2_1.tif",
+        "leaf017d2_2.tif",
+        "leaf017d2_3.tif",
+        "leaf017d2_4.tif",
+        "leaf017d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf017_stage2.png",
+      "actual": {
+        "fmc": 124.51612854003906,
+        "chlorophyll": 29.799999237060547,
+        "nitrogen": 9.5,
+        "weight": 0.6959999799728394
+      },
+      "predicted": {
+        "fmc": 88.62440490722656,
+        "chlorophyll": 22.470741271972656,
+        "nitrogen": 8.694544792175293,
+        "weight": 0.6746523976325989
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 52,
+      "stage": 4,
+      "images": [
+        "leaf052d4_1.tif",
+        "leaf052d4_2.tif",
+        "leaf052d4_3.tif",
+        "leaf052d4_4.tif",
+        "leaf052d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf052_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 22.200000762939453,
+        "nitrogen": 7.199999809265137,
+        "weight": 1.2000000476837158
+      },
+      "predicted": {
+        "fmc": -4.5886383056640625,
+        "chlorophyll": 43.924171447753906,
+        "nitrogen": 13.214323997497559,
+        "weight": 0.8146423697471619
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 28,
+      "stage": 4,
+      "images": [
+        "leaf028d4_1.tif",
+        "leaf028d4_2.tif",
+        "leaf028d4_3.tif",
+        "leaf028d4_4.tif",
+        "leaf028d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf028_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 35.0,
+        "nitrogen": 11.0,
+        "weight": 1.024999976158142
+      },
+      "predicted": {
+        "fmc": 1.9854812622070312,
+        "chlorophyll": 49.47572708129883,
+        "nitrogen": 15.421671867370605,
+        "weight": 1.3907253742218018
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 52,
+      "stage": 2,
+      "images": [
+        "leaf052d2_1.tif",
+        "leaf052d2_2.tif",
+        "leaf052d2_3.tif",
+        "leaf052d2_4.tif",
+        "leaf052d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf052_stage2.png",
+      "actual": {
+        "fmc": 113.91666412353516,
+        "chlorophyll": 27.200000762939453,
+        "nitrogen": 8.699999809265137,
+        "weight": 2.566999912261963
+      },
+      "predicted": {
+        "fmc": 147.44253540039062,
+        "chlorophyll": 33.974002838134766,
+        "nitrogen": 9.828447341918945,
+        "weight": 2.430333137512207
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 74,
+      "stage": 2,
+      "images": [
+        "leaf074d2_1.tif",
+        "leaf074d2_2.tif",
+        "leaf074d2_3.tif",
+        "leaf074d2_4.tif",
+        "leaf074d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf074_stage2.png",
+      "actual": {
+        "fmc": 102.23175811767578,
+        "chlorophyll": 27.0,
+        "nitrogen": 8.600000381469727,
+        "weight": 2.3559999465942383
+      },
+      "predicted": {
+        "fmc": 137.17373657226562,
+        "chlorophyll": 28.045345306396484,
+        "nitrogen": 9.375255584716797,
+        "weight": 1.4064085483551025
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 51,
+      "stage": 3,
+      "images": [
+        "leaf051d3_1.tif",
+        "leaf051d3_2.tif",
+        "leaf051d3_3.tif",
+        "leaf051d3_4.tif",
+        "leaf051d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf051_stage3.png",
+      "actual": {
+        "fmc": 107.41024017333984,
+        "chlorophyll": 45.70000076293945,
+        "nitrogen": 14.600000381469727,
+        "weight": 2.7149999141693115
+      },
+      "predicted": {
+        "fmc": 146.56988525390625,
+        "chlorophyll": 37.081512451171875,
+        "nitrogen": 13.058982849121094,
+        "weight": 1.9401586055755615
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 28,
+      "stage": 2,
+      "images": [
+        "leaf028d2_1.tif",
+        "leaf028d2_2.tif",
+        "leaf028d2_3.tif",
+        "leaf028d2_4.tif",
+        "leaf028d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf028_stage2.png",
+      "actual": {
+        "fmc": 122.04878234863281,
+        "chlorophyll": 32.29999923706055,
+        "nitrogen": 10.199999809265137,
+        "weight": 2.2760000228881836
+      },
+      "predicted": {
+        "fmc": 158.12442016601562,
+        "chlorophyll": 27.29692840576172,
+        "nitrogen": 9.421526908874512,
+        "weight": 1.2900736331939697
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 39,
+      "stage": 0,
+      "images": [
+        "leaf039d0_1.tif",
+        "leaf039d0_2.tif",
+        "leaf039d0_3.tif",
+        "leaf039d0_4.tif",
+        "leaf039d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf039_stage0.png",
+      "actual": {
+        "fmc": 298.125,
+        "chlorophyll": 24.600000381469727,
+        "nitrogen": 7.900000095367432,
+        "weight": 1.9110000133514404
+      },
+      "predicted": {
+        "fmc": 282.54681396484375,
+        "chlorophyll": 26.969924926757812,
+        "nitrogen": 7.695651054382324,
+        "weight": 1.898382306098938
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 52,
+      "stage": 0,
+      "images": [
+        "leaf052d0_1.tif",
+        "leaf052d0_2.tif",
+        "leaf052d0_3.tif",
+        "leaf052d0_4.tif",
+        "leaf052d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf052_stage0.png",
+      "actual": {
+        "fmc": 227.6666717529297,
+        "chlorophyll": 26.700000762939453,
+        "nitrogen": 8.600000381469727,
+        "weight": 3.931999921798706
+      },
+      "predicted": {
+        "fmc": 274.5222473144531,
+        "chlorophyll": 39.42051696777344,
+        "nitrogen": 9.278851509094238,
+        "weight": 3.3498728275299072
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 74,
+      "stage": 0,
+      "images": [
+        "leaf074d0_1.tif",
+        "leaf074d0_2.tif",
+        "leaf074d0_3.tif",
+        "leaf074d0_4.tif",
+        "leaf074d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf074_stage0.png",
+      "actual": {
+        "fmc": 202.06008911132812,
+        "chlorophyll": 31.700000762939453,
+        "nitrogen": 10.100000381469727,
+        "weight": 3.5190000534057617
+      },
+      "predicted": {
+        "fmc": 269.3895263671875,
+        "chlorophyll": 35.62531280517578,
+        "nitrogen": 9.220647811889648,
+        "weight": 2.3686232566833496
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 90,
+      "stage": 0,
+      "images": [
+        "leaf090d0_1.tif",
+        "leaf090d0_2.tif",
+        "leaf090d0_3.tif",
+        "leaf090d0_4.tif",
+        "leaf090d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf090_stage0.png",
+      "actual": {
+        "fmc": 267.7372131347656,
+        "chlorophyll": 24.799999237060547,
+        "nitrogen": 8.0,
+        "weight": 2.5190000534057617
+      },
+      "predicted": {
+        "fmc": 279.6067810058594,
+        "chlorophyll": 29.177661895751953,
+        "nitrogen": 8.296177864074707,
+        "weight": 2.5824031829833984
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 51,
+      "stage": 1,
+      "images": [
+        "leaf051d1_1.tif",
+        "leaf051d1_2.tif",
+        "leaf051d1_3.tif",
+        "leaf051d1_4.tif",
+        "leaf051d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf051_stage1.png",
+      "actual": {
+        "fmc": 162.33766174316406,
+        "chlorophyll": 44.70000076293945,
+        "nitrogen": 14.0,
+        "weight": 3.434000015258789
+      },
+      "predicted": {
+        "fmc": 157.69464111328125,
+        "chlorophyll": 40.34189224243164,
+        "nitrogen": 10.962607383728027,
+        "weight": 2.535947561264038
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 17,
+      "stage": 4,
+      "images": [
+        "leaf017d4_1.tif",
+        "leaf017d4_2.tif",
+        "leaf017d4_3.tif",
+        "leaf017d4_4.tif",
+        "leaf017d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf017_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 47.400001525878906,
+        "nitrogen": 14.800000190734863,
+        "weight": 0.3100000023841858
+      },
+      "predicted": {
+        "fmc": 16.67562484741211,
+        "chlorophyll": 39.447303771972656,
+        "nitrogen": 12.050105094909668,
+        "weight": 0.28032249212265015
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 39,
+      "stage": 2,
+      "images": [
+        "leaf039d2_1.tif",
+        "leaf039d2_2.tif",
+        "leaf039d2_3.tif",
+        "leaf039d2_4.tif",
+        "leaf039d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf039_stage2.png",
+      "actual": {
+        "fmc": 111.25,
+        "chlorophyll": 25.399999618530273,
+        "nitrogen": 8.199999809265137,
+        "weight": 1.0140000581741333
+      },
+      "predicted": {
+        "fmc": 111.33614349365234,
+        "chlorophyll": 31.254013061523438,
+        "nitrogen": 10.591389656066895,
+        "weight": 1.2702972888946533
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 90,
+      "stage": 2,
+      "images": [
+        "leaf090d2_1.tif",
+        "leaf090d2_2.tif",
+        "leaf090d2_3.tif",
+        "leaf090d2_4.tif",
+        "leaf090d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf090_stage2.png",
+      "actual": {
+        "fmc": 149.3430633544922,
+        "chlorophyll": 29.5,
+        "nitrogen": 9.399999618530273,
+        "weight": 1.7079999446868896
+      },
+      "predicted": {
+        "fmc": 140.71102905273438,
+        "chlorophyll": 39.58855438232422,
+        "nitrogen": 9.733431816101074,
+        "weight": 2.3858847618103027
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 39,
+      "stage": 4,
+      "images": [
+        "leaf039d4_1.tif",
+        "leaf039d4_2.tif",
+        "leaf039d4_3.tif",
+        "leaf039d4_4.tif",
+        "leaf039d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf039_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 42.70000076293945,
+        "nitrogen": 13.399999618530273,
+        "weight": 0.47999998927116394
+      },
+      "predicted": {
+        "fmc": 1.0667037963867188,
+        "chlorophyll": 54.06837463378906,
+        "nitrogen": 16.841747283935547,
+        "weight": 0.7345162630081177
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 74,
+      "stage": 4,
+      "images": [
+        "leaf074d4_1.tif",
+        "leaf074d4_2.tif",
+        "leaf074d4_3.tif",
+        "leaf074d4_4.tif",
+        "leaf074d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf074_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 37.29999923706055,
+        "nitrogen": 11.699999809265137,
+        "weight": 1.1649999618530273
+      },
+      "predicted": {
+        "fmc": -10.387603759765625,
+        "chlorophyll": 41.334495544433594,
+        "nitrogen": 13.089166641235352,
+        "weight": 0.9017940759658813
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 90,
+      "stage": 4,
+      "images": [
+        "leaf090d4_1.tif",
+        "leaf090d4_2.tif",
+        "leaf090d4_3.tif",
+        "leaf090d4_4.tif",
+        "leaf090d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf090_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 46.599998474121094,
+        "nitrogen": 14.5,
+        "weight": 0.6850000023841858
+      },
+      "predicted": {
+        "fmc": -2.9304885864257812,
+        "chlorophyll": 32.909629821777344,
+        "nitrogen": 12.08339786529541,
+        "weight": 1.0252511501312256
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 17,
+      "stage": 0,
+      "images": [
+        "leaf017d0_1.tif",
+        "leaf017d0_2.tif",
+        "leaf017d0_3.tif",
+        "leaf017d0_4.tif",
+        "leaf017d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf017_stage0.png",
+      "actual": {
+        "fmc": 289.67742919921875,
+        "chlorophyll": 24.399999618530273,
+        "nitrogen": 7.900000095367432,
+        "weight": 1.2079999446868896
+      },
+      "predicted": {
+        "fmc": 283.78607177734375,
+        "chlorophyll": 27.038089752197266,
+        "nitrogen": 7.092883110046387,
+        "weight": 1.64066743850708
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 28,
+      "stage": 0,
+      "images": [
+        "leaf028d0_1.tif",
+        "leaf028d0_2.tif",
+        "leaf028d0_3.tif",
+        "leaf028d0_4.tif",
+        "leaf028d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf028_stage0.png",
+      "actual": {
+        "fmc": 243.7073211669922,
+        "chlorophyll": 28.799999237060547,
+        "nitrogen": 9.199999809265137,
+        "weight": 3.5230000019073486
+      },
+      "predicted": {
+        "fmc": 242.59776306152344,
+        "chlorophyll": 32.715415954589844,
+        "nitrogen": 8.31440258026123,
+        "weight": 2.6659817695617676
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 52,
+      "stage": 1,
+      "images": [
+        "leaf052d1_1.tif",
+        "leaf052d1_2.tif",
+        "leaf052d1_3.tif",
+        "leaf052d1_4.tif",
+        "leaf052d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf052_stage1.png",
+      "actual": {
+        "fmc": 161.5,
+        "chlorophyll": 27.200000762939453,
+        "nitrogen": 8.699999809265137,
+        "weight": 3.138000011444092
+      },
+      "predicted": {
+        "fmc": 197.7486572265625,
+        "chlorophyll": 34.188663482666016,
+        "nitrogen": 9.468454360961914,
+        "weight": 2.901637077331543
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 90,
+      "stage": 1,
+      "images": [
+        "leaf090d1_1.tif",
+        "leaf090d1_2.tif",
+        "leaf090d1_3.tif",
+        "leaf090d1_4.tif",
+        "leaf090d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf090_stage1.png",
+      "actual": {
+        "fmc": 201.7518310546875,
+        "chlorophyll": 29.600000381469727,
+        "nitrogen": 9.399999618530273,
+        "weight": 2.066999912261963
+      },
+      "predicted": {
+        "fmc": 172.84963989257812,
+        "chlorophyll": 31.95689582824707,
+        "nitrogen": 9.963841438293457,
+        "weight": 2.310159683227539
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 51,
+      "stage": 0,
+      "images": [
+        "leaf051d0_1.tif",
+        "leaf051d0_2.tif",
+        "leaf051d0_3.tif",
+        "leaf051d0_4.tif",
+        "leaf051d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf051_stage0.png",
+      "actual": {
+        "fmc": 206.72268676757812,
+        "chlorophyll": 40.79999923706055,
+        "nitrogen": 12.800000190734863,
+        "weight": 4.014999866485596
+      },
+      "predicted": {
+        "fmc": 191.663818359375,
+        "chlorophyll": 47.41191482543945,
+        "nitrogen": 13.61619758605957,
+        "weight": 2.7724201679229736
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 39,
+      "stage": 3,
+      "images": [
+        "leaf039d3_1.tif",
+        "leaf039d3_2.tif",
+        "leaf039d3_3.tif",
+        "leaf039d3_4.tif",
+        "leaf039d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf039_stage3.png",
+      "actual": {
+        "fmc": 48.33333206176758,
+        "chlorophyll": 30.100000381469727,
+        "nitrogen": 9.600000381469727,
+        "weight": 0.7120000123977661
+      },
+      "predicted": {
+        "fmc": 76.0637435913086,
+        "chlorophyll": 28.641448974609375,
+        "nitrogen": 11.019014358520508,
+        "weight": 0.805732786655426
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 28,
+      "stage": 1,
+      "images": [
+        "leaf028d1_1.tif",
+        "leaf028d1_2.tif",
+        "leaf028d1_3.tif",
+        "leaf028d1_4.tif",
+        "leaf028d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf028_stage1.png",
+      "actual": {
+        "fmc": 171.31707763671875,
+        "chlorophyll": 29.700000762939453,
+        "nitrogen": 9.5,
+        "weight": 2.7809998989105225
+      },
+      "predicted": {
+        "fmc": 172.41128540039062,
+        "chlorophyll": 46.80204391479492,
+        "nitrogen": 9.789417266845703,
+        "weight": 2.4263901710510254
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 90,
+      "stage": 3,
+      "images": [
+        "leaf090d3_1.tif",
+        "leaf090d3_2.tif",
+        "leaf090d3_3.tif",
+        "leaf090d3_4.tif",
+        "leaf090d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf090_stage3.png",
+      "actual": {
+        "fmc": 101.75182342529297,
+        "chlorophyll": 30.700000762939453,
+        "nitrogen": 9.800000190734863,
+        "weight": 1.3819999694824219
+      },
+      "predicted": {
+        "fmc": 87.46395111083984,
+        "chlorophyll": 38.17766571044922,
+        "nitrogen": 11.605276107788086,
+        "weight": 1.6554985046386719
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 74,
+      "stage": 3,
+      "images": [
+        "leaf074d3_1.tif",
+        "leaf074d3_2.tif",
+        "leaf074d3_3.tif",
+        "leaf074d3_4.tif",
+        "leaf074d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf074_stage3.png",
+      "actual": {
+        "fmc": 66.3519287109375,
+        "chlorophyll": 32.599998474121094,
+        "nitrogen": 10.300000190734863,
+        "weight": 1.937999963760376
+      },
+      "predicted": {
+        "fmc": 126.29241943359375,
+        "chlorophyll": 39.399017333984375,
+        "nitrogen": 11.411684036254883,
+        "weight": 1.5190117359161377
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 39,
+      "stage": 1,
+      "images": [
+        "leaf039d1_1.tif",
+        "leaf039d1_2.tif",
+        "leaf039d1_3.tif",
+        "leaf039d1_4.tif",
+        "leaf039d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf039_stage1.png",
+      "actual": {
+        "fmc": 196.6666717529297,
+        "chlorophyll": 24.600000381469727,
+        "nitrogen": 7.900000095367432,
+        "weight": 1.4240000247955322
+      },
+      "predicted": {
+        "fmc": 194.75347900390625,
+        "chlorophyll": 30.395343780517578,
+        "nitrogen": 8.188794136047363,
+        "weight": 1.3256821632385254
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 17,
+      "stage": 1,
+      "images": [
+        "leaf017d1_1.tif",
+        "leaf017d1_2.tif",
+        "leaf017d1_3.tif",
+        "leaf017d1_4.tif",
+        "leaf017d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf017_stage1.png",
+      "actual": {
+        "fmc": 204.83871459960938,
+        "chlorophyll": 28.299999237060547,
+        "nitrogen": 9.0,
+        "weight": 0.9449999928474426
+      },
+      "predicted": {
+        "fmc": 172.71682739257812,
+        "chlorophyll": 32.21473693847656,
+        "nitrogen": 8.54523754119873,
+        "weight": 1.5313385725021362
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 51,
+      "stage": 2,
+      "images": [
+        "leaf051d2_1.tif",
+        "leaf051d2_2.tif",
+        "leaf051d2_3.tif",
+        "leaf051d2_4.tif",
+        "leaf051d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf051_stage2.png",
+      "actual": {
+        "fmc": 135.2177276611328,
+        "chlorophyll": 45.29999923706055,
+        "nitrogen": 14.100000381469727,
+        "weight": 3.0789999961853027
+      },
+      "predicted": {
+        "fmc": 166.365966796875,
+        "chlorophyll": 41.56253433227539,
+        "nitrogen": 10.971925735473633,
+        "weight": 2.0138142108917236
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 52,
+      "stage": 3,
+      "images": [
+        "leaf052d3_1.tif",
+        "leaf052d3_2.tif",
+        "leaf052d3_3.tif",
+        "leaf052d3_4.tif",
+        "leaf052d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf052_stage3.png",
+      "actual": {
+        "fmc": 65.33333587646484,
+        "chlorophyll": 31.600000381469727,
+        "nitrogen": 10.0,
+        "weight": 1.9839999675750732
+      },
+      "predicted": {
+        "fmc": 114.98236083984375,
+        "chlorophyll": 33.452423095703125,
+        "nitrogen": 9.829955101013184,
+        "weight": 1.6384105682373047
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 74,
+      "stage": 1,
+      "images": [
+        "leaf074d1_1.tif",
+        "leaf074d1_2.tif",
+        "leaf074d1_3.tif",
+        "leaf074d1_4.tif",
+        "leaf074d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf074_stage1.png",
+      "actual": {
+        "fmc": 141.54505920410156,
+        "chlorophyll": 29.600000381469727,
+        "nitrogen": 9.399999618530273,
+        "weight": 2.813999891281128
+      },
+      "predicted": {
+        "fmc": 199.81649780273438,
+        "chlorophyll": 48.026641845703125,
+        "nitrogen": 9.1158447265625,
+        "weight": 2.8850650787353516
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 28,
+      "stage": 3,
+      "images": [
+        "leaf028d3_1.tif",
+        "leaf028d3_2.tif",
+        "leaf028d3_3.tif",
+        "leaf028d3_4.tif",
+        "leaf028d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf028_stage3.png",
+      "actual": {
+        "fmc": 76.09756469726562,
+        "chlorophyll": 33.599998474121094,
+        "nitrogen": 10.600000381469727,
+        "weight": 1.8049999475479126
+      },
+      "predicted": {
+        "fmc": 77.5220718383789,
+        "chlorophyll": 42.34954071044922,
+        "nitrogen": 13.011455535888672,
+        "weight": 1.218572974205017
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 51,
+      "stage": 4,
+      "images": [
+        "leaf051d4_1.tif",
+        "leaf051d4_2.tif",
+        "leaf051d4_3.tif",
+        "leaf051d4_4.tif",
+        "leaf051d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf051_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 23.600000381469727,
+        "nitrogen": 7.599999904632568,
+        "weight": 1.309000015258789
+      },
+      "predicted": {
+        "fmc": -25.900360107421875,
+        "chlorophyll": 41.97014236450195,
+        "nitrogen": 13.91692066192627,
+        "weight": 0.9629724025726318
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 17,
+      "stage": 3,
+      "images": [
+        "leaf017d3_1.tif",
+        "leaf017d3_2.tif",
+        "leaf017d3_3.tif",
+        "leaf017d3_4.tif",
+        "leaf017d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf017_stage3.png",
+      "actual": {
+        "fmc": 41.6129035949707,
+        "chlorophyll": 28.799999237060547,
+        "nitrogen": 9.199999809265137,
+        "weight": 0.4390000104904175
+      },
+      "predicted": {
+        "fmc": 58.11003112792969,
+        "chlorophyll": 33.26067352294922,
+        "nitrogen": 9.437949180603027,
+        "weight": 0.6388903856277466
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 63,
+      "stage": 4,
+      "images": [
+        "leaf063d4_1.tif",
+        "leaf063d4_2.tif",
+        "leaf063d4_3.tif",
+        "leaf063d4_4.tif",
+        "leaf063d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf063_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 48.5,
+        "nitrogen": 15.100000381469727,
+        "weight": 0.5479999780654907
+      },
+      "predicted": {
+        "fmc": 31.60049057006836,
+        "chlorophyll": 42.840553283691406,
+        "nitrogen": 13.132755279541016,
+        "weight": 1.0323412418365479
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 24,
+      "stage": 3,
+      "images": [
+        "leaf024d3_1.tif",
+        "leaf024d3_2.tif",
+        "leaf024d3_3.tif",
+        "leaf024d3_4.tif",
+        "leaf024d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf024_stage3.png",
+      "actual": {
+        "fmc": 58.70307159423828,
+        "chlorophyll": 34.900001525878906,
+        "nitrogen": 11.0,
+        "weight": 0.9300000071525574
+      },
+      "predicted": {
+        "fmc": 82.2348861694336,
+        "chlorophyll": 28.27492904663086,
+        "nitrogen": 9.944562911987305,
+        "weight": 0.584189772605896
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 26,
+      "stage": 2,
+      "images": [
+        "leaf026d2_1.tif",
+        "leaf026d2_2.tif",
+        "leaf026d2_3.tif",
+        "leaf026d2_4.tif",
+        "leaf026d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf026_stage2.png",
+      "actual": {
+        "fmc": 129.39666748046875,
+        "chlorophyll": 30.200000762939453,
+        "nitrogen": 9.600000381469727,
+        "weight": 1.7869999408721924
+      },
+      "predicted": {
+        "fmc": 132.03564453125,
+        "chlorophyll": 39.13899230957031,
+        "nitrogen": 9.922849655151367,
+        "weight": 1.5530900955200195
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 36,
+      "stage": 2,
+      "images": [
+        "leaf036d2_1.tif",
+        "leaf036d2_2.tif",
+        "leaf036d2_3.tif",
+        "leaf036d2_4.tif",
+        "leaf036d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf036_stage2.png",
+      "actual": {
+        "fmc": 126.58349609375,
+        "chlorophyll": 32.0,
+        "nitrogen": 10.100000381469727,
+        "weight": 2.3610000610351562
+      },
+      "predicted": {
+        "fmc": 118.47055053710938,
+        "chlorophyll": 36.16790008544922,
+        "nitrogen": 9.484038352966309,
+        "weight": 1.7808970212936401
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 44,
+      "stage": 4,
+      "images": [
+        "leaf044d4_1.tif",
+        "leaf044d4_2.tif",
+        "leaf044d4_3.tif",
+        "leaf044d4_4.tif",
+        "leaf044d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf044_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 33.900001525878906,
+        "nitrogen": 10.699999809265137,
+        "weight": 1.184000015258789
+      },
+      "predicted": {
+        "fmc": -3.1075286865234375,
+        "chlorophyll": 48.70682907104492,
+        "nitrogen": 13.79791259765625,
+        "weight": 1.367855429649353
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 24,
+      "stage": 1,
+      "images": [
+        "leaf024d1_1.tif",
+        "leaf024d1_2.tif",
+        "leaf024d1_3.tif",
+        "leaf024d1_4.tif",
+        "leaf024d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf024_stage1.png",
+      "actual": {
+        "fmc": 178.15699768066406,
+        "chlorophyll": 32.099998474121094,
+        "nitrogen": 10.199999809265137,
+        "weight": 1.6299999952316284
+      },
+      "predicted": {
+        "fmc": 153.691650390625,
+        "chlorophyll": 26.921581268310547,
+        "nitrogen": 9.109967231750488,
+        "weight": 2.020195484161377
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 36,
+      "stage": 4,
+      "images": [
+        "leaf036d4_1.tif",
+        "leaf036d4_2.tif",
+        "leaf036d4_3.tif",
+        "leaf036d4_4.tif",
+        "leaf036d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf036_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 30.5,
+        "nitrogen": 9.699999809265137,
+        "weight": 1.0420000553131104
+      },
+      "predicted": {
+        "fmc": -2.11981201171875,
+        "chlorophyll": 41.9459228515625,
+        "nitrogen": 12.269098281860352,
+        "weight": 0.5548198223114014
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 26,
+      "stage": 4,
+      "images": [
+        "leaf026d4_1.tif",
+        "leaf026d4_2.tif",
+        "leaf026d4_3.tif",
+        "leaf026d4_4.tif",
+        "leaf026d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf026_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 39.599998474121094,
+        "nitrogen": 12.399999618530273,
+        "weight": 0.7789999842643738
+      },
+      "predicted": {
+        "fmc": 27.405597686767578,
+        "chlorophyll": 41.3586311340332,
+        "nitrogen": 12.21993637084961,
+        "weight": 1.0615168809890747
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 44,
+      "stage": 2,
+      "images": [
+        "leaf044d2_1.tif",
+        "leaf044d2_2.tif",
+        "leaf044d2_3.tif",
+        "leaf044d2_4.tif",
+        "leaf044d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf044_stage2.png",
+      "actual": {
+        "fmc": 123.64865112304688,
+        "chlorophyll": 37.400001525878906,
+        "nitrogen": 11.800000190734863,
+        "weight": 2.6480000019073486
+      },
+      "predicted": {
+        "fmc": 117.23619079589844,
+        "chlorophyll": 39.687255859375,
+        "nitrogen": 13.576655387878418,
+        "weight": 2.486217975616455
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 55,
+      "stage": 0,
+      "images": [
+        "leaf055d0_1.tif",
+        "leaf055d0_2.tif",
+        "leaf055d0_3.tif",
+        "leaf055d0_4.tif",
+        "leaf055d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf055_stage0.png",
+      "actual": {
+        "fmc": 205.8402862548828,
+        "chlorophyll": 40.79999923706055,
+        "nitrogen": 12.800000190734863,
+        "weight": 2.565999984741211
+      },
+      "predicted": {
+        "fmc": 280.888916015625,
+        "chlorophyll": 30.25174331665039,
+        "nitrogen": 10.345556259155273,
+        "weight": 2.2433485984802246
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 63,
+      "stage": 0,
+      "images": [
+        "leaf063d0_1.tif",
+        "leaf063d0_2.tif",
+        "leaf063d0_3.tif",
+        "leaf063d0_4.tif",
+        "leaf063d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf063_stage0.png",
+      "actual": {
+        "fmc": 227.55474853515625,
+        "chlorophyll": 37.29999923706055,
+        "nitrogen": 11.699999809265137,
+        "weight": 1.7949999570846558
+      },
+      "predicted": {
+        "fmc": 246.90646362304688,
+        "chlorophyll": 33.55094909667969,
+        "nitrogen": 11.570032119750977,
+        "weight": 2.5729966163635254
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 18,
+      "stage": 0,
+      "images": [
+        "leaf018d0_1.tif",
+        "leaf018d0_2.tif",
+        "leaf018d0_3.tif",
+        "leaf018d0_4.tif",
+        "leaf018d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf018_stage0.png",
+      "actual": {
+        "fmc": 219.9261932373047,
+        "chlorophyll": 31.0,
+        "nitrogen": 9.800000190734863,
+        "weight": 3.4679999351501465
+      },
+      "predicted": {
+        "fmc": 226.62506103515625,
+        "chlorophyll": 36.81647491455078,
+        "nitrogen": 10.371021270751953,
+        "weight": 2.4413983821868896
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 95,
+      "stage": 1,
+      "images": [
+        "leaf095d1_1.tif",
+        "leaf095d1_2.tif",
+        "leaf095d1_3.tif",
+        "leaf095d1_4.tif",
+        "leaf095d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf095_stage1.png",
+      "actual": {
+        "fmc": 202.7971954345703,
+        "chlorophyll": 25.299999237060547,
+        "nitrogen": 8.100000381469727,
+        "weight": 1.7319999933242798
+      },
+      "predicted": {
+        "fmc": 154.94390869140625,
+        "chlorophyll": 31.273313522338867,
+        "nitrogen": 8.535871505737305,
+        "weight": 1.6939291954040527
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 55,
+      "stage": 2,
+      "images": [
+        "leaf055d2_1.tif",
+        "leaf055d2_2.tif",
+        "leaf055d2_3.tif",
+        "leaf055d2_4.tif",
+        "leaf055d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf055_stage2.png",
+      "actual": {
+        "fmc": 126.46006774902344,
+        "chlorophyll": 38.0,
+        "nitrogen": 11.899999618530273,
+        "weight": 1.899999976158142
+      },
+      "predicted": {
+        "fmc": 180.5074462890625,
+        "chlorophyll": 34.432395935058594,
+        "nitrogen": 10.459248542785645,
+        "weight": 1.6964374780654907
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 63,
+      "stage": 2,
+      "images": [
+        "leaf063d2_1.tif",
+        "leaf063d2_2.tif",
+        "leaf063d2_3.tif",
+        "leaf063d2_4.tif",
+        "leaf063d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf063_stage2.png",
+      "actual": {
+        "fmc": 104.74452209472656,
+        "chlorophyll": 37.70000076293945,
+        "nitrogen": 11.899999618530273,
+        "weight": 1.121999979019165
+      },
+      "predicted": {
+        "fmc": 164.39413452148438,
+        "chlorophyll": 38.850738525390625,
+        "nitrogen": 9.697090148925781,
+        "weight": 1.4258582592010498
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 18,
+      "stage": 2,
+      "images": [
+        "leaf018d2_1.tif",
+        "leaf018d2_2.tif",
+        "leaf018d2_3.tif",
+        "leaf018d2_4.tif",
+        "leaf018d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf018_stage2.png",
+      "actual": {
+        "fmc": 119.28044128417969,
+        "chlorophyll": 28.200000762939453,
+        "nitrogen": 9.0,
+        "weight": 2.377000093460083
+      },
+      "predicted": {
+        "fmc": 142.87135314941406,
+        "chlorophyll": 43.13005828857422,
+        "nitrogen": 11.122387886047363,
+        "weight": 2.044806480407715
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 36,
+      "stage": 0,
+      "images": [
+        "leaf036d0_1.tif",
+        "leaf036d0_2.tif",
+        "leaf036d0_3.tif",
+        "leaf036d0_4.tif",
+        "leaf036d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf036_stage0.png",
+      "actual": {
+        "fmc": 218.52207946777344,
+        "chlorophyll": 33.20000076293945,
+        "nitrogen": 10.5,
+        "weight": 3.319000005722046
+      },
+      "predicted": {
+        "fmc": 159.46072387695312,
+        "chlorophyll": 42.140159606933594,
+        "nitrogen": 12.161613464355469,
+        "weight": 2.1704792976379395
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 26,
+      "stage": 0,
+      "images": [
+        "leaf026d0_1.tif",
+        "leaf026d0_2.tif",
+        "leaf026d0_3.tif",
+        "leaf026d0_4.tif",
+        "leaf026d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf026_stage0.png",
+      "actual": {
+        "fmc": 253.65853881835938,
+        "chlorophyll": 27.600000381469727,
+        "nitrogen": 8.800000190734863,
+        "weight": 2.755000114440918
+      },
+      "predicted": {
+        "fmc": 274.0299072265625,
+        "chlorophyll": 40.582763671875,
+        "nitrogen": 8.662957191467285,
+        "weight": 1.7481987476348877
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 55,
+      "stage": 4,
+      "images": [
+        "leaf055d4_1.tif",
+        "leaf055d4_2.tif",
+        "leaf055d4_3.tif",
+        "leaf055d4_4.tif",
+        "leaf055d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf055_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 22.200000762939453,
+        "nitrogen": 7.199999809265137,
+        "weight": 0.8389999866485596
+      },
+      "predicted": {
+        "fmc": 13.664146423339844,
+        "chlorophyll": 45.245574951171875,
+        "nitrogen": 14.219600677490234,
+        "weight": 1.2490618228912354
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 18,
+      "stage": 4,
+      "images": [
+        "leaf018d4_1.tif",
+        "leaf018d4_2.tif",
+        "leaf018d4_3.tif",
+        "leaf018d4_4.tif",
+        "leaf018d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf018_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 38.900001525878906,
+        "nitrogen": 12.199999809265137,
+        "weight": 1.0839999914169312
+      },
+      "predicted": {
+        "fmc": -6.5781707763671875,
+        "chlorophyll": 41.983787536621094,
+        "nitrogen": 14.123459815979004,
+        "weight": 0.6358252763748169
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 95,
+      "stage": 3,
+      "images": [
+        "leaf095d3_1.tif",
+        "leaf095d3_2.tif",
+        "leaf095d3_3.tif",
+        "leaf095d3_4.tif",
+        "leaf095d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf095_stage3.png",
+      "actual": {
+        "fmc": 84.44055938720703,
+        "chlorophyll": 27.600000381469727,
+        "nitrogen": 8.800000190734863,
+        "weight": 1.0549999475479126
+      },
+      "predicted": {
+        "fmc": 79.22062683105469,
+        "chlorophyll": 34.96281814575195,
+        "nitrogen": 11.022627830505371,
+        "weight": 1.539677381515503
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 44,
+      "stage": 0,
+      "images": [
+        "leaf044d0_1.tif",
+        "leaf044d0_2.tif",
+        "leaf044d0_3.tif",
+        "leaf044d0_4.tif",
+        "leaf044d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf044_stage0.png",
+      "actual": {
+        "fmc": 241.1317596435547,
+        "chlorophyll": 41.70000076293945,
+        "nitrogen": 13.100000381469727,
+        "weight": 4.039000034332275
+      },
+      "predicted": {
+        "fmc": 219.56158447265625,
+        "chlorophyll": 37.56464767456055,
+        "nitrogen": 12.374185562133789,
+        "weight": 2.656691551208496
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 18,
+      "stage": 1,
+      "images": [
+        "leaf018d1_1.tif",
+        "leaf018d1_2.tif",
+        "leaf018d1_3.tif",
+        "leaf018d1_4.tif",
+        "leaf018d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf018_stage1.png",
+      "actual": {
+        "fmc": 180.62730407714844,
+        "chlorophyll": 26.700000762939453,
+        "nitrogen": 8.600000381469727,
+        "weight": 3.0420000553131104
+      },
+      "predicted": {
+        "fmc": 142.76461791992188,
+        "chlorophyll": 32.082916259765625,
+        "nitrogen": 9.527228355407715,
+        "weight": 1.998329520225525
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 55,
+      "stage": 3,
+      "images": [
+        "leaf055d3_1.tif",
+        "leaf055d3_2.tif",
+        "leaf055d3_3.tif",
+        "leaf055d3_4.tif",
+        "leaf055d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf055_stage3.png",
+      "actual": {
+        "fmc": 92.72943878173828,
+        "chlorophyll": 37.0,
+        "nitrogen": 11.600000381469727,
+        "weight": 1.6169999837875366
+      },
+      "predicted": {
+        "fmc": 144.678955078125,
+        "chlorophyll": 29.189624786376953,
+        "nitrogen": 10.505712509155273,
+        "weight": 1.4219683408737183
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 44,
+      "stage": 1,
+      "images": [
+        "leaf044d1_1.tif",
+        "leaf044d1_2.tif",
+        "leaf044d1_3.tif",
+        "leaf044d1_4.tif",
+        "leaf044d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf044_stage1.png",
+      "actual": {
+        "fmc": 170.86148071289062,
+        "chlorophyll": 36.70000076293945,
+        "nitrogen": 11.600000381469727,
+        "weight": 3.2070000171661377
+      },
+      "predicted": {
+        "fmc": 227.9314727783203,
+        "chlorophyll": 33.06324768066406,
+        "nitrogen": 10.048480033874512,
+        "weight": 2.493420362472534
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 24,
+      "stage": 4,
+      "images": [
+        "leaf024d4_1.tif",
+        "leaf024d4_2.tif",
+        "leaf024d4_3.tif",
+        "leaf024d4_4.tif",
+        "leaf024d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf024_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 49.5,
+        "nitrogen": 15.399999618530273,
+        "weight": 0.5860000252723694
+      },
+      "predicted": {
+        "fmc": 8.560745239257812,
+        "chlorophyll": 35.96684265136719,
+        "nitrogen": 14.16183090209961,
+        "weight": 0.5015134811401367
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 18,
+      "stage": 3,
+      "images": [
+        "leaf018d3_1.tif",
+        "leaf018d3_2.tif",
+        "leaf018d3_3.tif",
+        "leaf018d3_4.tif",
+        "leaf018d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf018_stage3.png",
+      "actual": {
+        "fmc": 109.50184631347656,
+        "chlorophyll": 32.400001525878906,
+        "nitrogen": 10.300000190734863,
+        "weight": 2.2709999084472656
+      },
+      "predicted": {
+        "fmc": 95.17529296875,
+        "chlorophyll": 24.76819610595703,
+        "nitrogen": 8.960211753845215,
+        "weight": 1.7578020095825195
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 95,
+      "stage": 2,
+      "images": [
+        "leaf095d2_1.tif",
+        "leaf095d2_2.tif",
+        "leaf095d2_3.tif",
+        "leaf095d2_4.tif",
+        "leaf095d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf095_stage2.png",
+      "actual": {
+        "fmc": 142.48251342773438,
+        "chlorophyll": 27.0,
+        "nitrogen": 8.600000381469727,
+        "weight": 1.3869999647140503
+      },
+      "predicted": {
+        "fmc": 163.39491271972656,
+        "chlorophyll": 31.37721824645996,
+        "nitrogen": 9.893758773803711,
+        "weight": 2.085141181945801
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 63,
+      "stage": 1,
+      "images": [
+        "leaf063d1_1.tif",
+        "leaf063d1_2.tif",
+        "leaf063d1_3.tif",
+        "leaf063d1_4.tif",
+        "leaf063d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf063_stage1.png",
+      "actual": {
+        "fmc": 159.48904418945312,
+        "chlorophyll": 34.599998474121094,
+        "nitrogen": 10.899999618530273,
+        "weight": 1.4220000505447388
+      },
+      "predicted": {
+        "fmc": 222.2750701904297,
+        "chlorophyll": 40.62302017211914,
+        "nitrogen": 10.703341484069824,
+        "weight": 2.4549508094787598
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 95,
+      "stage": 4,
+      "images": [
+        "leaf095d4_1.tif",
+        "leaf095d4_2.tif",
+        "leaf095d4_3.tif",
+        "leaf095d4_4.tif",
+        "leaf095d4_5.tif"
+      ],
+      "filename": "Vineyard_leaf095_stage4.png",
+      "actual": {
+        "fmc": 0.0,
+        "chlorophyll": 54.20000076293945,
+        "nitrogen": 16.799999237060547,
+        "weight": 0.5720000267028809
+      },
+      "predicted": {
+        "fmc": 6.4503631591796875,
+        "chlorophyll": 28.856475830078125,
+        "nitrogen": 10.84459114074707,
+        "weight": 1.136725902557373
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 36,
+      "stage": 1,
+      "images": [
+        "leaf036d1_1.tif",
+        "leaf036d1_2.tif",
+        "leaf036d1_3.tif",
+        "leaf036d1_4.tif",
+        "leaf036d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf036_stage1.png",
+      "actual": {
+        "fmc": 167.08253479003906,
+        "chlorophyll": 33.0,
+        "nitrogen": 10.399999618530273,
+        "weight": 2.7829999923706055
+      },
+      "predicted": {
+        "fmc": 158.29042053222656,
+        "chlorophyll": 30.180171966552734,
+        "nitrogen": 11.0217866897583,
+        "weight": 1.9194080829620361
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 26,
+      "stage": 1,
+      "images": [
+        "leaf026d1_1.tif",
+        "leaf026d1_2.tif",
+        "leaf026d1_3.tif",
+        "leaf026d1_4.tif",
+        "leaf026d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf026_stage1.png",
+      "actual": {
+        "fmc": 178.17715454101562,
+        "chlorophyll": 27.200000762939453,
+        "nitrogen": 8.699999809265137,
+        "weight": 2.1670000553131104
+      },
+      "predicted": {
+        "fmc": 181.7711181640625,
+        "chlorophyll": 37.27067565917969,
+        "nitrogen": 8.480768203735352,
+        "weight": 1.7001173496246338
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 24,
+      "stage": 2,
+      "images": [
+        "leaf024d2_1.tif",
+        "leaf024d2_2.tif",
+        "leaf024d2_3.tif",
+        "leaf024d2_4.tif",
+        "leaf024d2_5.tif"
+      ],
+      "filename": "Vineyard_leaf024_stage2.png",
+      "actual": {
+        "fmc": 115.52900695800781,
+        "chlorophyll": 32.79999923706055,
+        "nitrogen": 10.399999618530273,
+        "weight": 1.2630000114440918
+      },
+      "predicted": {
+        "fmc": 123.73225402832031,
+        "chlorophyll": 27.761066436767578,
+        "nitrogen": 9.413973808288574,
+        "weight": 1.3773208856582642
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 24,
+      "stage": 0,
+      "images": [
+        "leaf024d0_1.tif",
+        "leaf024d0_2.tif",
+        "leaf024d0_3.tif",
+        "leaf024d0_4.tif",
+        "leaf024d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf024_stage0.png",
+      "actual": {
+        "fmc": 263.6518859863281,
+        "chlorophyll": 32.20000076293945,
+        "nitrogen": 10.199999809265137,
+        "weight": 2.13100004196167
+      },
+      "predicted": {
+        "fmc": 227.8117218017578,
+        "chlorophyll": 40.39388656616211,
+        "nitrogen": 11.585254669189453,
+        "weight": 2.464890956878662
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 55,
+      "stage": 1,
+      "images": [
+        "leaf055d1_1.tif",
+        "leaf055d1_2.tif",
+        "leaf055d1_3.tif",
+        "leaf055d1_4.tif",
+        "leaf055d1_5.tif"
+      ],
+      "filename": "Vineyard_leaf055_stage1.png",
+      "actual": {
+        "fmc": 157.68772888183594,
+        "chlorophyll": 34.0,
+        "nitrogen": 10.699999809265137,
+        "weight": 2.1619999408721924
+      },
+      "predicted": {
+        "fmc": 232.08224487304688,
+        "chlorophyll": 34.08490753173828,
+        "nitrogen": 10.705979347229004,
+        "weight": 1.8389925956726074
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 63,
+      "stage": 3,
+      "images": [
+        "leaf063d3_1.tif",
+        "leaf063d3_2.tif",
+        "leaf063d3_3.tif",
+        "leaf063d3_4.tif",
+        "leaf063d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf063_stage3.png",
+      "actual": {
+        "fmc": 50.18247985839844,
+        "chlorophyll": 37.29999923706055,
+        "nitrogen": 11.699999809265137,
+        "weight": 0.8230000138282776
+      },
+      "predicted": {
+        "fmc": 100.94617462158203,
+        "chlorophyll": 39.13044738769531,
+        "nitrogen": 11.38064956665039,
+        "weight": 1.0792760848999023
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 95,
+      "stage": 0,
+      "images": [
+        "leaf095d0_1.tif",
+        "leaf095d0_2.tif",
+        "leaf095d0_3.tif",
+        "leaf095d0_4.tif",
+        "leaf095d0_5.tif"
+      ],
+      "filename": "Vineyard_leaf095_stage0.png",
+      "actual": {
+        "fmc": 291.9580383300781,
+        "chlorophyll": 27.899999618530273,
+        "nitrogen": 8.899999618530273,
+        "weight": 2.242000102996826
+      },
+      "predicted": {
+        "fmc": 203.61326599121094,
+        "chlorophyll": 33.18439483642578,
+        "nitrogen": 10.12004280090332,
+        "weight": 1.9778767824172974
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 44,
+      "stage": 3,
+      "images": [
+        "leaf044d3_1.tif",
+        "leaf044d3_2.tif",
+        "leaf044d3_3.tif",
+        "leaf044d3_4.tif",
+        "leaf044d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf044_stage3.png",
+      "actual": {
+        "fmc": 80.65878295898438,
+        "chlorophyll": 39.099998474121094,
+        "nitrogen": 12.300000190734863,
+        "weight": 2.1389999389648438
+      },
+      "predicted": {
+        "fmc": 53.58494186401367,
+        "chlorophyll": 42.44984436035156,
+        "nitrogen": 12.455680847167969,
+        "weight": 1.555724024772644
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 26,
+      "stage": 3,
+      "images": [
+        "leaf026d3_1.tif",
+        "leaf026d3_2.tif",
+        "leaf026d3_3.tif",
+        "leaf026d3_4.tif",
+        "leaf026d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf026_stage3.png",
+      "actual": {
+        "fmc": 83.4403076171875,
+        "chlorophyll": 29.0,
+        "nitrogen": 9.199999809265137,
+        "weight": 1.4290000200271606
+      },
+      "predicted": {
+        "fmc": 99.82788848876953,
+        "chlorophyll": 41.80766296386719,
+        "nitrogen": 9.280250549316406,
+        "weight": 1.1895198822021484
+      }
+    },
+    {
+      "species": "Vineyard",
+      "leaf": 36,
+      "stage": 3,
+      "images": [
+        "leaf036d3_1.tif",
+        "leaf036d3_2.tif",
+        "leaf036d3_3.tif",
+        "leaf036d3_4.tif",
+        "leaf036d3_5.tif"
+      ],
+      "filename": "Vineyard_leaf036_stage3.png",
+      "actual": {
+        "fmc": 89.15547180175781,
+        "chlorophyll": 33.20000076293945,
+        "nitrogen": 10.5,
+        "weight": 1.9709999561309814
+      },
+      "predicted": {
+        "fmc": 94.96735382080078,
+        "chlorophyll": 32.70350646972656,
+        "nitrogen": 10.296380996704102,
+        "weight": 1.1253130435943604
+      }
+    }
+  ]
+}

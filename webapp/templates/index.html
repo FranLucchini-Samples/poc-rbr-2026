@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Paddle Gallery</title>
+    <link rel="icon" href="/static/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Paddle Gallery</h1>
+        <p class="subtitle" title="{{ image_dir }}">
+          {{ dataset_label }} · {{ count }} images
+        </p>
+      </div>
+      <div class="header-actions">
+        <div class="selection" id="selection">No image selected</div>
+        <a class="back-link" href="/detail">View details &rarr;</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="stage" aria-label="Image gallery">
+        <button class="nav prev" id="prev" aria-label="Previous image">&#8249;</button>
+
+        <div class="paddle" id="paddle">
+          <div class="paddle-track" id="track"></div>
+          <p class="empty" id="empty" hidden>
+            No images found. Point <code>GALLERY_DIR</code> at a folder of images.
+          </p>
+        </div>
+
+        <button class="nav next" id="next" aria-label="Next image">&#8250;</button>
+      </section>
+
+      <section class="controls">
+        <span class="caption" id="caption">&nbsp;</span>
+        <button class="select-btn" id="select" disabled>Select this image</button>
+        <p class="hint">Use &larr; &rarr;, scroll, or swipe to browse</p>
+      </section>
+    </main>
+
+    <script src="/static/gallery.js" defer></script>
+  </body>
+</html>
