@@ -14,10 +14,9 @@ then open http://127.0.0.1:8000
 
 from __future__ import annotations
 
-import hashlib
 import io
+import json
 import os
-import random
 from functools import lru_cache
 from pathlib import Path
 
@@ -32,14 +31,18 @@ from starlette.requests import Request
 # --- Paths -----------------------------------------------------------------
 
 WEBAPP_DIR = Path(__file__).resolve().parent
-PROJECT_ROOT = WEBAPP_DIR.parent
 
 # Folder holding the images to browse. Override with GALLERY_DIR if you want to
 # point the gallery somewhere else.
-DEFAULT_IMAGE_DIR = (
-    PROJECT_ROOT / "data" / "mixeduse-agricultural-fields" / "rgb-images"
-)
+DEFAULT_IMAGE_DIR = WEBAPP_DIR / "gallery" / "test_images"
 IMAGE_DIR = Path(os.environ.get("GALLERY_DIR", DEFAULT_IMAGE_DIR)).resolve()
+
+# Model predictions, keyed by RGB image filename (see results.json's "filename").
+RESULTS_PATH = WEBAPP_DIR / "results.json"
+
+# Per-species trait distributions/tiers (very low..very high), used to judge
+# whether a predicted value is high or low relative to that species' norms.
+LABEL_TIERS_PATH = WEBAPP_DIR / "label_tiers.json"
 
 ALLOWED_SUFFIXES = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".bmp", ".tif", ".tiff"}
 THUMB_MAX = (480, 480)
@@ -86,42 +89,79 @@ def resolve_image(name: str) -> Path:
     return candidate
 
 
-# Plausible ranges for each trait, used to generate mock PoC data. There is no
-# real ground-truth measurement dataset behind this yet. Order matters: the
-# traits that feed the leaf health score (see HEALTH_TRAIT_KEYS) are listed
-# first so the detail view can group them visually.
-TRAIT_RANGES = {
-    "fuel_moisture": ("Fuel moisture content", "%", 35.0, 75.0),
-    "chlorophyll": ("Chlorophyll", "SPAD", 20.0, 55.0),
-    "nitrogen": ("Nitrogen", "mg/g", 12.0, 45.0),
-    "weight": ("Weight", "g", 120.0, 420.0),
+# Human-readable label/unit for each trait, fuel moisture first since it's
+# the one that drives the leaf status bar (see leaf_status).
+TRAIT_LABELS = {
+    "fuel_moisture": ("Fuel moisture content", "%"),
+    "chlorophyll": ("Chlorophyll", "SPAD"),
+    "nitrogen": ("Nitrogen", "mg/g"),
+    "weight": ("Weight", "g"),
+}
+
+# Our trait keys don't always match results.json's "predicted" keys.
+PREDICTION_KEYS = {
+    "fuel_moisture": "fmc",
+    "chlorophyll": "chlorophyll",
+    "nitrogen": "nitrogen",
+    "weight": "weight",
 }
 
 
-@lru_cache(maxsize=512)
-def mock_traits(name: str) -> list[dict[str, str | float]]:
-    """Deterministic, per-image mock trait values (no real measurements exist).
-
-    Seeded by the image name so the same image always shows the same values.
-    """
-    seed = hashlib.sha256(name.encode()).hexdigest()
-    rng = random.Random(seed)
-    return [
-        {
-            "key": key,
-            "label": label,
-            "unit": unit,
-            "value": round(rng.uniform(low, high), 1),
+def _load_samples() -> dict[str, dict]:
+    """Map RGB image filename -> {"species", "predicted", "actual"} from results.json."""
+    data = json.loads(RESULTS_PATH.read_text())
+    return {
+        sample["filename"]: {
+            "species": sample["species"],
+            "predicted": sample["predicted"],
+            "actual": sample["actual"],
         }
-        for key, (label, unit, low, high) in TRAIT_RANGES.items()
-    ]
+        for sample in data["samples"]
+    }
 
 
-# Traits that feed the leaf health score, i.e. the ones that actually track
-# plant stress. Weight is a size/biomass measure, not a health signal.
-HEALTH_TRAIT_KEYS = ("fuel_moisture", "chlorophyll", "nitrogen")
+SAMPLES = _load_samples()
+LABEL_TIERS = json.loads(LABEL_TIERS_PATH.read_text())
 
-# The 0-100 stress score is split into four equal 25-point bands, from
+# Below this, predicted and actual are considered equal (avoids a jittery
+# arrow from float noise when they're basically the same value).
+DIFF_EPSILON = 0.05
+
+
+def real_traits(name: str) -> list[dict[str, str | float]] | None:
+    """Model-predicted trait values for this image, plus the actual measured
+    value and whether the prediction ran higher or lower than it."""
+    sample = SAMPLES.get(name)
+    if sample is None:
+        return None
+    predicted = sample["predicted"]
+    actual = sample["actual"]
+    traits = []
+    for key, (label, unit) in TRAIT_LABELS.items():
+        pred_key = PREDICTION_KEYS[key]
+        value = round(predicted[pred_key], 1)
+        actual_value = round(actual[pred_key], 1)
+        diff = value - actual_value
+        if abs(diff) < DIFF_EPSILON:
+            direction = "same"
+        elif diff > 0:
+            direction = "higher"
+        else:
+            direction = "lower"
+        traits.append(
+            {
+                "key": key,
+                "label": label,
+                "unit": unit,
+                "value": value,
+                "actual": actual_value,
+                "direction": direction,
+            }
+        )
+    return traits
+
+
+# The 0-100 dryness score is split into four equal 25-point bands, from
 # healthiest to most stressed.
 STATUS_TIERS = [
     (25, "Ok", "✅"),
@@ -131,19 +171,24 @@ STATUS_TIERS = [
 ]
 
 
-def leaf_status(traits: list[dict[str, str | float]]) -> dict[str, float | str]:
-    """Roll fuel moisture, chlorophyll and nitrogen into a single stress score.
+def leaf_status(name: str) -> dict[str, float | str] | None:
+    """Classify fuel moisture content against this species' own distribution.
 
-    0 means every underlying trait is at the healthy end of its range, 100
-    means every trait is at the stressed end.
+    label_tiers.json gives each species its own observed fmc range (moisture
+    varies a lot between e.g. Avocado and Vineyard leaves), so "dry" for one
+    species isn't the same raw value as "dry" for another. Very high moisture
+    relative to the species' range means healthy (score near 0); very low
+    moisture means dry (score near 100).
     """
-    values = {t["key"]: t["value"] for t in traits}
-    stress_components = []
-    for key in HEALTH_TRAIT_KEYS:
-        _, _, low, high = TRAIT_RANGES[key]
-        normalized = (values[key] - low) / (high - low)
-        stress_components.append(1 - normalized)
-    score = round(sum(stress_components) / len(stress_components) * 100, 1)
+    sample = SAMPLES.get(name)
+    if sample is None:
+        return None
+    species_fmc = LABEL_TIERS[sample["species"]]["fmc"]
+    low, high = species_fmc["min"], species_fmc["max"]
+    fmc = sample["predicted"]["fmc"]
+    normalized = (fmc - low) / (high - low) if high > low else 0.0
+    normalized = min(1.0, max(0.0, normalized))
+    score = round((1 - normalized) * 100, 1)
 
     for max_score, label, emoji in STATUS_TIERS:
         if score <= max_score:
@@ -226,8 +271,8 @@ def full_image(name: str):
 @app.get("/detail")
 def detail(request: Request):
     name = _selection["name"]
-    traits = mock_traits(name) if name else None
-    status = leaf_status(traits) if traits else None
+    traits = real_traits(name) if name else None
+    status = leaf_status(name) if name else None
     return templates.TemplateResponse(
         request,
         "detail.html",

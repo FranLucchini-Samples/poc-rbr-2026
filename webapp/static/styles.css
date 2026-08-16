@@ -10,8 +10,8 @@
   --muted: #c1c9b8;
   --accent: #d8959b;
   --accent-strong: #ad777c;
-  --card-w: 280px;
-  --card-h: 370px;
+  --card-w: 480px;
+  --card-h: 270px;
 }
 
 * {
@@ -351,8 +351,8 @@ code {
 .status-marker {
   position: absolute;
   top: 50%;
-  width: 40px;
-  height: 40px;
+  width: 80px;
+  height: 80px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -360,7 +360,7 @@ code {
   background: var(--text);
   border: 3px solid var(--bg);
   box-shadow: 0 0 0 2px rgba(244, 243, 241, 0.9), 0 4px 14px rgba(0, 0, 0, 0.6);
-  font-size: 1.3rem;
+  font-size: 2.6rem;
   line-height: 1;
   transform: translate(-50%, -50%);
 }
@@ -472,6 +472,66 @@ code {
   font-style: italic;
 }
 
+.actual-card {
+  max-width: 1100px;
+  width: 100%;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1.2rem 1.6rem;
+}
+
+.actual-card summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1rem;
+  list-style: none;
+}
+
+.actual-card summary::-webkit-details-marker {
+  display: none;
+}
+
+.actual-card .chevron {
+  color: var(--muted);
+  font-size: 1.3rem;
+  transition: transform 0.2s ease;
+}
+
+.actual-card[open] .chevron {
+  transform: rotate(90deg);
+}
+
+.actual-card .traits-list {
+  margin-top: 1rem;
+}
+
+.actual-card .hint {
+  margin-top: 1rem;
+}
+
+.diff-arrow {
+  display: inline-block;
+  margin-left: 0.4rem;
+  font-size: 0.7rem;
+  vertical-align: middle;
+}
+
+.diff-higher {
+  color: #e0672a;
+}
+
+.diff-lower {
+  color: #6fa8dc;
+}
+
+.diff-same {
+  color: var(--muted);
+}
+
 .empty-detail {
   color: var(--muted);
   text-align: center;
@@ -501,8 +561,8 @@ code {
 
 @media (max-width: 600px) {
   :root {
-    --card-w: 190px;
-    --card-h: 250px;
+    --card-w: 220px;
+    --card-h: 124px;
   }
 
   .nav {

@@ -42,7 +42,7 @@
           <h2>Traits</h2>
           <dl class="traits-list">
             {% for trait in traits %}
-            {% if trait.key == "weight" %}
+            {% if trait.key == "chlorophyll" %}
             <div class="trait-divider">Other measurements</div>
             {% endif %}
             <div class="trait-row">
@@ -51,9 +51,34 @@
             </div>
             {% endfor %}
           </dl>
-          <p class="traits-note">Mock values for demo purposes.</p>
+          <p class="traits-note">Model-predicted values.</p>
         </aside>
       </section>
+
+      <details class="actual-card">
+        <summary>
+          <span>Actual measured values</span>
+          <span class="chevron" aria-hidden="true">&rsaquo;</span>
+        </summary>
+        <dl class="traits-list">
+          {% for trait in traits %}
+          {% if trait.key == "chlorophyll" %}
+          <div class="trait-divider">Other measurements</div>
+          {% endif %}
+          <div class="trait-row">
+            <dt>{{ trait.label }}</dt>
+            <dd>
+              {{ trait.actual }} <span class="unit">{{ trait.unit }}</span>
+              <span
+                class="diff-arrow diff-{{ trait.direction }}"
+                title="Prediction ({{ trait.value }}) is {{ trait.direction }} than the actual value"
+              >{% if trait.direction == "higher" %}&#9650;{% elif trait.direction == "lower" %}&#9660;{% else %}&#9679;{% endif %}</span>
+            </dd>
+          </div>
+          {% endfor %}
+        </dl>
+        <p class="hint">Arrow shows whether our prediction ran higher or lower than the actual value.</p>
+      </details>
 
       <div class="detail-actions">
         <a class="select-btn" href="/">&larr; Back to gallery</a>

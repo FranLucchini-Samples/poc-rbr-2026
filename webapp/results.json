@@ -1,5 +1,5 @@
 {
-  "checkpoint": "resnet18_leaf_traits_20260815_175258.pt",
+  "checkpoint": "resnet18_leaf_traits_20260815_184426.pt",
   "n_samples": 240,
   "metrics": {
     "fmc": {
@@ -31,6 +31,7 @@
         "leaf089d2_4.tif",
         "leaf089d2_5.tif"
       ],
+      "filename": "Avocado_leaf089_stage2.png",
       "actual": {
         "fmc": 56.28140640258789,
         "chlorophyll": 58.63333511352539,
@@ -55,6 +56,7 @@
         "leaf065d4_4.tif",
         "leaf065d4_5.tif"
       ],
+      "filename": "Avocado_leaf065_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 90.0,
@@ -79,6 +81,7 @@
         "leaf099d2_4.tif",
         "leaf099d2_5.tif"
       ],
+      "filename": "Avocado_leaf099_stage2.png",
       "actual": {
         "fmc": 55.769229888916016,
         "chlorophyll": 61.233333587646484,
@@ -103,6 +106,7 @@
         "leaf016d0_4.tif",
         "leaf016d0_5.tif"
       ],
+      "filename": "Avocado_leaf016_stage0.png",
       "actual": {
         "fmc": 127.76148223876953,
         "chlorophyll": 61.099998474121094,
@@ -127,6 +131,7 @@
         "leaf006d0_4.tif",
         "leaf006d0_5.tif"
       ],
+      "filename": "Avocado_leaf006_stage0.png",
       "actual": {
         "fmc": 152.22840881347656,
         "chlorophyll": 62.20000076293945,
@@ -151,6 +156,7 @@
         "leaf089d0_4.tif",
         "leaf089d0_5.tif"
       ],
+      "filename": "Avocado_leaf089_stage0.png",
       "actual": {
         "fmc": 118.92797088623047,
         "chlorophyll": 56.20000076293945,
@@ -175,6 +181,7 @@
         "leaf099d0_4.tif",
         "leaf099d0_5.tif"
       ],
+      "filename": "Avocado_leaf099_stage0.png",
       "actual": {
         "fmc": 124.1258773803711,
         "chlorophyll": 53.599998474121094,
@@ -199,6 +206,7 @@
         "leaf016d2_4.tif",
         "leaf016d2_5.tif"
       ],
+      "filename": "Avocado_leaf016_stage2.png",
       "actual": {
         "fmc": 85.63050079345703,
         "chlorophyll": 75.9000015258789,
@@ -223,6 +231,7 @@
         "leaf006d2_4.tif",
         "leaf006d2_5.tif"
       ],
+      "filename": "Avocado_leaf006_stage2.png",
       "actual": {
         "fmc": 79.10863494873047,
         "chlorophyll": 90.5,
@@ -247,6 +256,7 @@
         "leaf059d3_4.tif",
         "leaf059d3_5.tif"
       ],
+      "filename": "Avocado_leaf059_stage3.png",
       "actual": {
         "fmc": 12.903225898742676,
         "chlorophyll": 62.29999923706055,
@@ -271,6 +281,7 @@
         "leaf064d2_4.tif",
         "leaf064d2_5.tif"
       ],
+      "filename": "Avocado_leaf064_stage2.png",
       "actual": {
         "fmc": 61.450382232666016,
         "chlorophyll": 68.69999694824219,
@@ -295,6 +306,7 @@
         "leaf067d3_4.tif",
         "leaf067d3_5.tif"
       ],
+      "filename": "Avocado_leaf067_stage3.png",
       "actual": {
         "fmc": 32.66033172607422,
         "chlorophyll": 82.46666717529297,
@@ -319,6 +331,7 @@
         "leaf029d0_4.tif",
         "leaf029d0_5.tif"
       ],
+      "filename": "Avocado_leaf029_stage0.png",
       "actual": {
         "fmc": 139.5781707763672,
         "chlorophyll": 66.96666717529297,
@@ -343,6 +356,7 @@
         "leaf065d2_4.tif",
         "leaf065d2_5.tif"
       ],
+      "filename": "Avocado_leaf065_stage2.png",
       "actual": {
         "fmc": 75.84415435791016,
         "chlorophyll": 70.73332977294922,
@@ -367,6 +381,7 @@
         "leaf099d4_4.tif",
         "leaf099d4_5.tif"
       ],
+      "filename": "Avocado_leaf099_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 76.0999984741211,
@@ -391,6 +406,7 @@
         "leaf089d4_4.tif",
         "leaf089d4_5.tif"
       ],
+      "filename": "Avocado_leaf089_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 63.79999923706055,
@@ -415,6 +431,7 @@
         "leaf064d0_4.tif",
         "leaf064d0_5.tif"
       ],
+      "filename": "Avocado_leaf064_stage0.png",
       "actual": {
         "fmc": 140.4580078125,
         "chlorophyll": 55.099998474121094,
@@ -439,6 +456,7 @@
         "leaf067d1_4.tif",
         "leaf067d1_5.tif"
       ],
+      "filename": "Avocado_leaf067_stage1.png",
       "actual": {
         "fmc": 100.2375259399414,
         "chlorophyll": 79.5999984741211,
@@ -463,6 +481,7 @@
         "leaf029d2_4.tif",
         "leaf029d2_5.tif"
       ],
+      "filename": "Avocado_leaf029_stage2.png",
       "actual": {
         "fmc": 80.76923370361328,
         "chlorophyll": 63.53333282470703,
@@ -487,6 +506,7 @@
         "leaf059d1_4.tif",
         "leaf059d1_5.tif"
       ],
+      "filename": "Avocado_leaf059_stage1.png",
       "actual": {
         "fmc": 82.4372787475586,
         "chlorophyll": 63.70000076293945,
@@ -511,6 +531,7 @@
         "leaf029d4_4.tif",
         "leaf029d4_5.tif"
       ],
+      "filename": "Avocado_leaf029_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 90.19999694824219,
@@ -535,6 +556,7 @@
         "leaf064d4_4.tif",
         "leaf064d4_5.tif"
       ],
+      "filename": "Avocado_leaf064_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 91.69999694824219,
@@ -559,6 +581,7 @@
         "leaf065d0_4.tif",
         "leaf065d0_5.tif"
       ],
+      "filename": "Avocado_leaf065_stage0.png",
       "actual": {
         "fmc": 147.40260314941406,
         "chlorophyll": 55.33333206176758,
@@ -583,6 +606,7 @@
         "leaf016d4_4.tif",
         "leaf016d4_5.tif"
       ],
+      "filename": "Avocado_leaf016_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 72.0,
@@ -607,6 +631,7 @@
         "leaf006d4_4.tif",
         "leaf006d4_5.tif"
       ],
+      "filename": "Avocado_leaf006_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 99.9000015258789,
@@ -631,6 +656,7 @@
         "leaf029d3_4.tif",
         "leaf029d3_5.tif"
       ],
+      "filename": "Avocado_leaf029_stage3.png",
       "actual": {
         "fmc": 53.225807189941406,
         "chlorophyll": 67.80000305175781,
@@ -655,6 +681,7 @@
         "leaf064d3_4.tif",
         "leaf064d3_5.tif"
       ],
+      "filename": "Avocado_leaf064_stage3.png",
       "actual": {
         "fmc": 31.424936294555664,
         "chlorophyll": 67.5999984741211,
@@ -679,6 +706,7 @@
         "leaf065d1_4.tif",
         "leaf065d1_5.tif"
       ],
+      "filename": "Avocado_leaf065_stage1.png",
       "actual": {
         "fmc": 110.64935302734375,
         "chlorophyll": 71.93333435058594,
@@ -703,6 +731,7 @@
         "leaf067d2_4.tif",
         "leaf067d2_5.tif"
       ],
+      "filename": "Avocado_leaf067_stage2.png",
       "actual": {
         "fmc": 63.06413269042969,
         "chlorophyll": 81.86666870117188,
@@ -727,6 +756,7 @@
         "leaf029d1_4.tif",
         "leaf029d1_5.tif"
       ],
+      "filename": "Avocado_leaf029_stage1.png",
       "actual": {
         "fmc": 108.06451416015625,
         "chlorophyll": 69.23332977294922,
@@ -751,6 +781,7 @@
         "leaf099d1_4.tif",
         "leaf099d1_5.tif"
       ],
+      "filename": "Avocado_leaf099_stage1.png",
       "actual": {
         "fmc": 88.46154022216797,
         "chlorophyll": 65.06666564941406,
@@ -775,6 +806,7 @@
         "leaf089d1_4.tif",
         "leaf089d1_5.tif"
       ],
+      "filename": "Avocado_leaf089_stage1.png",
       "actual": {
         "fmc": 86.09715270996094,
         "chlorophyll": 59.53333282470703,
@@ -799,6 +831,7 @@
         "leaf006d3_4.tif",
         "leaf006d3_5.tif"
       ],
+      "filename": "Avocado_leaf006_stage3.png",
       "actual": {
         "fmc": 41.50417709350586,
         "chlorophyll": 76.16666412353516,
@@ -823,6 +856,7 @@
         "leaf016d3_4.tif",
         "leaf016d3_5.tif"
       ],
+      "filename": "Avocado_leaf016_stage3.png",
       "actual": {
         "fmc": 66.3734130859375,
         "chlorophyll": 66.9000015258789,
@@ -847,6 +881,7 @@
         "leaf067d4_4.tif",
         "leaf067d4_5.tif"
       ],
+      "filename": "Avocado_leaf067_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 93.80000305175781,
@@ -871,6 +906,7 @@
         "leaf059d0_4.tif",
         "leaf059d0_5.tif"
       ],
+      "filename": "Avocado_leaf059_stage0.png",
       "actual": {
         "fmc": 134.05018615722656,
         "chlorophyll": 51.0,
@@ -895,6 +931,7 @@
         "leaf016d1_4.tif",
         "leaf016d1_5.tif"
       ],
+      "filename": "Avocado_leaf016_stage1.png",
       "actual": {
         "fmc": 105.27859497070312,
         "chlorophyll": 74.30000305175781,
@@ -919,6 +956,7 @@
         "leaf006d1_4.tif",
         "leaf006d1_5.tif"
       ],
+      "filename": "Avocado_leaf006_stage1.png",
       "actual": {
         "fmc": 113.92757415771484,
         "chlorophyll": 87.4000015258789,
@@ -943,6 +981,7 @@
         "leaf089d3_4.tif",
         "leaf089d3_5.tif"
       ],
+      "filename": "Avocado_leaf089_stage3.png",
       "actual": {
         "fmc": 27.97319984436035,
         "chlorophyll": 57.46666717529297,
@@ -967,6 +1006,7 @@
         "leaf099d3_4.tif",
         "leaf099d3_5.tif"
       ],
+      "filename": "Avocado_leaf099_stage3.png",
       "actual": {
         "fmc": 29.895105361938477,
         "chlorophyll": 58.33333206176758,
@@ -991,6 +1031,7 @@
         "leaf059d4_4.tif",
         "leaf059d4_5.tif"
       ],
+      "filename": "Avocado_leaf059_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 88.0999984741211,
@@ -1015,6 +1056,7 @@
         "leaf067d0_4.tif",
         "leaf067d0_5.tif"
       ],
+      "filename": "Avocado_leaf067_stage0.png",
       "actual": {
         "fmc": 141.9239959716797,
         "chlorophyll": 56.43333435058594,
@@ -1039,6 +1081,7 @@
         "leaf064d1_4.tif",
         "leaf064d1_5.tif"
       ],
+      "filename": "Avocado_leaf064_stage1.png",
       "actual": {
         "fmc": 101.90839385986328,
         "chlorophyll": 72.69999694824219,
@@ -1063,6 +1106,7 @@
         "leaf065d3_4.tif",
         "leaf065d3_5.tif"
       ],
+      "filename": "Avocado_leaf065_stage3.png",
       "actual": {
         "fmc": 46.623374938964844,
         "chlorophyll": 66.53333282470703,
@@ -1087,6 +1131,7 @@
         "leaf059d2_4.tif",
         "leaf059d2_5.tif"
       ],
+      "filename": "Avocado_leaf059_stage2.png",
       "actual": {
         "fmc": 39.605735778808594,
         "chlorophyll": 59.56666564941406,
@@ -1111,6 +1156,7 @@
         "leaf019d4_4.tif",
         "leaf019d4_5.tif"
       ],
+      "filename": "Avocado_leaf019_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 86.69999694824219,
@@ -1135,6 +1181,7 @@
         "leaf011d2_4.tif",
         "leaf011d2_5.tif"
       ],
+      "filename": "Avocado_leaf011_stage2.png",
       "actual": {
         "fmc": 64.86956787109375,
         "chlorophyll": 90.96666717529297,
@@ -1159,6 +1206,7 @@
         "leaf063d4_4.tif",
         "leaf063d4_5.tif"
       ],
+      "filename": "Avocado_leaf063_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 94.0999984741211,
@@ -1183,6 +1231,7 @@
         "leaf024d3_4.tif",
         "leaf024d3_5.tif"
       ],
+      "filename": "Avocado_leaf024_stage3.png",
       "actual": {
         "fmc": 43.882545471191406,
         "chlorophyll": 61.20000076293945,
@@ -1207,6 +1256,7 @@
         "leaf103d2_4.tif",
         "leaf103d2_5.tif"
       ],
+      "filename": "Avocado_leaf103_stage2.png",
       "actual": {
         "fmc": 53.74800491333008,
         "chlorophyll": 64.69999694824219,
@@ -1231,6 +1281,7 @@
         "leaf011d0_4.tif",
         "leaf011d0_5.tif"
       ],
+      "filename": "Avocado_leaf011_stage0.png",
       "actual": {
         "fmc": 142.43478393554688,
         "chlorophyll": 59.83333206176758,
@@ -1255,6 +1306,7 @@
         "leaf025d3_4.tif",
         "leaf025d3_5.tif"
       ],
+      "filename": "Avocado_leaf025_stage3.png",
       "actual": {
         "fmc": 47.68583297729492,
         "chlorophyll": 69.30000305175781,
@@ -1279,6 +1331,7 @@
         "leaf024d1_4.tif",
         "leaf024d1_5.tif"
       ],
+      "filename": "Avocado_leaf024_stage1.png",
       "actual": {
         "fmc": 85.64437103271484,
         "chlorophyll": 73.83333587646484,
@@ -1303,6 +1356,7 @@
         "leaf055d0_4.tif",
         "leaf055d0_5.tif"
       ],
+      "filename": "Avocado_leaf055_stage0.png",
       "actual": {
         "fmc": 147.64398193359375,
         "chlorophyll": 52.83333206176758,
@@ -1327,6 +1381,7 @@
         "leaf063d0_4.tif",
         "leaf063d0_5.tif"
       ],
+      "filename": "Avocado_leaf063_stage0.png",
       "actual": {
         "fmc": 158.13204956054688,
         "chlorophyll": 53.599998474121094,
@@ -1351,6 +1406,7 @@
         "leaf019d2_4.tif",
         "leaf019d2_5.tif"
       ],
+      "filename": "Avocado_leaf019_stage2.png",
       "actual": {
         "fmc": 49.72972869873047,
         "chlorophyll": 68.30000305175781,
@@ -1375,6 +1431,7 @@
         "leaf011d4_4.tif",
         "leaf011d4_5.tif"
       ],
+      "filename": "Avocado_leaf011_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 99.9000015258789,
@@ -1399,6 +1456,7 @@
         "leaf055d2_4.tif",
         "leaf055d2_5.tif"
       ],
+      "filename": "Avocado_leaf055_stage2.png",
       "actual": {
         "fmc": 70.68062591552734,
         "chlorophyll": 67.69999694824219,
@@ -1423,6 +1481,7 @@
         "leaf062d0_4.tif",
         "leaf062d0_5.tif"
       ],
+      "filename": "Avocado_leaf062_stage0.png",
       "actual": {
         "fmc": 153.01419067382812,
         "chlorophyll": 50.099998474121094,
@@ -1447,6 +1506,7 @@
         "leaf103d4_4.tif",
         "leaf103d4_5.tif"
       ],
+      "filename": "Avocado_leaf103_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 68.69999694824219,
@@ -1471,6 +1531,7 @@
         "leaf063d2_4.tif",
         "leaf063d2_5.tif"
       ],
+      "filename": "Avocado_leaf063_stage2.png",
       "actual": {
         "fmc": 61.835750579833984,
         "chlorophyll": 70.96666717529297,
@@ -1495,6 +1556,7 @@
         "leaf062d4_4.tif",
         "leaf062d4_5.tif"
       ],
+      "filename": "Avocado_leaf062_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 84.0999984741211,
@@ -1519,6 +1581,7 @@
         "leaf055d4_4.tif",
         "leaf055d4_5.tif"
       ],
+      "filename": "Avocado_leaf055_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 84.19999694824219,
@@ -1543,6 +1606,7 @@
         "leaf025d1_4.tif",
         "leaf025d1_5.tif"
       ],
+      "filename": "Avocado_leaf025_stage1.png",
       "actual": {
         "fmc": 94.1093978881836,
         "chlorophyll": 66.5,
@@ -1567,6 +1631,7 @@
         "leaf103d0_4.tif",
         "leaf103d0_5.tif"
       ],
+      "filename": "Avocado_leaf103_stage0.png",
       "actual": {
         "fmc": 112.59967803955078,
         "chlorophyll": 53.0,
@@ -1591,6 +1656,7 @@
         "leaf019d0_4.tif",
         "leaf019d0_5.tif"
       ],
+      "filename": "Avocado_leaf019_stage0.png",
       "actual": {
         "fmc": 116.75675964355469,
         "chlorophyll": 61.43333435058594,
@@ -1615,6 +1681,7 @@
         "leaf062d2_4.tif",
         "leaf062d2_5.tif"
       ],
+      "filename": "Avocado_leaf062_stage2.png",
       "actual": {
         "fmc": 72.16312408447266,
         "chlorophyll": 63.33333206176758,
@@ -1639,6 +1706,7 @@
         "leaf055d3_4.tif",
         "leaf055d3_5.tif"
       ],
+      "filename": "Avocado_leaf055_stage3.png",
       "actual": {
         "fmc": 39.00523376464844,
         "chlorophyll": 62.099998474121094,
@@ -1663,6 +1731,7 @@
         "leaf024d4_4.tif",
         "leaf024d4_5.tif"
       ],
+      "filename": "Avocado_leaf024_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 84.69999694824219,
@@ -1687,6 +1756,7 @@
         "leaf019d1_4.tif",
         "leaf019d1_5.tif"
       ],
+      "filename": "Avocado_leaf019_stage1.png",
       "actual": {
         "fmc": 82.34233856201172,
         "chlorophyll": 70.96666717529297,
@@ -1711,6 +1781,7 @@
         "leaf025d4_4.tif",
         "leaf025d4_5.tif"
       ],
+      "filename": "Avocado_leaf025_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 83.19999694824219,
@@ -1735,6 +1806,7 @@
         "leaf063d1_4.tif",
         "leaf063d1_5.tif"
       ],
+      "filename": "Avocado_leaf063_stage1.png",
       "actual": {
         "fmc": 106.92431640625,
         "chlorophyll": 69.23332977294922,
@@ -1759,6 +1831,7 @@
         "leaf062d3_4.tif",
         "leaf062d3_5.tif"
       ],
+      "filename": "Avocado_leaf062_stage3.png",
       "actual": {
         "fmc": 37.05673599243164,
         "chlorophyll": 62.20000076293945,
@@ -1783,6 +1856,7 @@
         "leaf011d1_4.tif",
         "leaf011d1_5.tif"
       ],
+      "filename": "Avocado_leaf011_stage1.png",
       "actual": {
         "fmc": 105.21739196777344,
         "chlorophyll": 87.53333282470703,
@@ -1807,6 +1881,7 @@
         "leaf103d1_4.tif",
         "leaf103d1_5.tif"
       ],
+      "filename": "Avocado_leaf103_stage1.png",
       "actual": {
         "fmc": 82.61563110351562,
         "chlorophyll": 66.4000015258789,
@@ -1831,6 +1906,7 @@
         "leaf024d2_4.tif",
         "leaf024d2_5.tif"
       ],
+      "filename": "Avocado_leaf024_stage2.png",
       "actual": {
         "fmc": 62.9690055847168,
         "chlorophyll": 71.43333435058594,
@@ -1855,6 +1931,7 @@
         "leaf025d0_4.tif",
         "leaf025d0_5.tif"
       ],
+      "filename": "Avocado_leaf025_stage0.png",
       "actual": {
         "fmc": 122.44039154052734,
         "chlorophyll": 59.266666412353516,
@@ -1879,6 +1956,7 @@
         "leaf011d3_4.tif",
         "leaf011d3_5.tif"
       ],
+      "filename": "Avocado_leaf011_stage3.png",
       "actual": {
         "fmc": 29.565217971801758,
         "chlorophyll": 78.86666870117188,
@@ -1903,6 +1981,7 @@
         "leaf024d0_4.tif",
         "leaf024d0_5.tif"
       ],
+      "filename": "Avocado_leaf024_stage0.png",
       "actual": {
         "fmc": 112.23490905761719,
         "chlorophyll": 70.16666412353516,
@@ -1927,6 +2006,7 @@
         "leaf055d1_4.tif",
         "leaf055d1_5.tif"
       ],
+      "filename": "Avocado_leaf055_stage1.png",
       "actual": {
         "fmc": 109.68586730957031,
         "chlorophyll": 65.13333129882812,
@@ -1951,6 +2031,7 @@
         "leaf063d3_4.tif",
         "leaf063d3_5.tif"
       ],
+      "filename": "Avocado_leaf063_stage3.png",
       "actual": {
         "fmc": 27.214170455932617,
         "chlorophyll": 66.73332977294922,
@@ -1975,6 +2056,7 @@
         "leaf019d3_4.tif",
         "leaf019d3_5.tif"
       ],
+      "filename": "Avocado_leaf019_stage3.png",
       "actual": {
         "fmc": 21.08108139038086,
         "chlorophyll": 66.0999984741211,
@@ -1999,6 +2081,7 @@
         "leaf062d1_4.tif",
         "leaf062d1_5.tif"
       ],
+      "filename": "Avocado_leaf062_stage1.png",
       "actual": {
         "fmc": 111.52482604980469,
         "chlorophyll": 62.29999923706055,
@@ -2023,6 +2106,7 @@
         "leaf025d2_4.tif",
         "leaf025d2_5.tif"
       ],
+      "filename": "Avocado_leaf025_stage2.png",
       "actual": {
         "fmc": 69.98597717285156,
         "chlorophyll": 59.79999923706055,
@@ -2047,6 +2131,7 @@
         "leaf103d3_4.tif",
         "leaf103d3_5.tif"
       ],
+      "filename": "Avocado_leaf103_stage3.png",
       "actual": {
         "fmc": 31.578947067260742,
         "chlorophyll": 58.599998474121094,
@@ -2071,6 +2156,7 @@
         "leaf015d1_4.tif",
         "leaf015d1_5.tif"
       ],
+      "filename": "Olive_leaf015_stage1.png",
       "actual": {
         "fmc": 78.16901397705078,
         "chlorophyll": 77.30000305175781,
@@ -2095,6 +2181,7 @@
         "leaf099d2_4.tif",
         "leaf099d2_5.tif"
       ],
+      "filename": "Olive_leaf099_stage2.png",
       "actual": {
         "fmc": 57.96178436279297,
         "chlorophyll": 77.69999694824219,
@@ -2119,6 +2206,7 @@
         "leaf017d2_4.tif",
         "leaf017d2_5.tif"
       ],
+      "filename": "Olive_leaf017_stage2.png",
       "actual": {
         "fmc": 52.41935348510742,
         "chlorophyll": 82.19999694824219,
@@ -2143,6 +2231,7 @@
         "leaf015d3_4.tif",
         "leaf015d3_5.tif"
       ],
+      "filename": "Olive_leaf015_stage3.png",
       "actual": {
         "fmc": 28.873239517211914,
         "chlorophyll": 85.9000015258789,
@@ -2167,6 +2256,7 @@
         "leaf099d0_4.tif",
         "leaf099d0_5.tif"
       ],
+      "filename": "Olive_leaf099_stage0.png",
       "actual": {
         "fmc": 139.49044799804688,
         "chlorophyll": 65.30000305175781,
@@ -2191,6 +2281,7 @@
         "leaf028d4_4.tif",
         "leaf028d4_5.tif"
       ],
+      "filename": "Olive_leaf028_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 90.0,
@@ -2215,6 +2306,7 @@
         "leaf064d2_4.tif",
         "leaf064d2_5.tif"
       ],
+      "filename": "Olive_leaf064_stage2.png",
       "actual": {
         "fmc": 59.21052551269531,
         "chlorophyll": 79.0,
@@ -2239,6 +2331,7 @@
         "leaf050d1_4.tif",
         "leaf050d1_5.tif"
       ],
+      "filename": "Olive_leaf050_stage1.png",
       "actual": {
         "fmc": 63.6363639831543,
         "chlorophyll": 79.30000305175781,
@@ -2263,6 +2356,7 @@
         "leaf028d2_4.tif",
         "leaf028d2_5.tif"
       ],
+      "filename": "Olive_leaf028_stage2.png",
       "actual": {
         "fmc": 38.13559341430664,
         "chlorophyll": 85.69999694824219,
@@ -2287,6 +2381,7 @@
         "leaf099d4_4.tif",
         "leaf099d4_5.tif"
       ],
+      "filename": "Olive_leaf099_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 70.9000015258789,
@@ -2311,6 +2406,7 @@
         "leaf064d0_4.tif",
         "leaf064d0_5.tif"
       ],
+      "filename": "Olive_leaf064_stage0.png",
       "actual": {
         "fmc": 121.0526351928711,
         "chlorophyll": 70.0999984741211,
@@ -2335,6 +2431,7 @@
         "leaf017d4_4.tif",
         "leaf017d4_5.tif"
       ],
+      "filename": "Olive_leaf017_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 89.80000305175781,
@@ -2359,6 +2456,7 @@
         "leaf082d3_4.tif",
         "leaf082d3_5.tif"
       ],
+      "filename": "Olive_leaf082_stage3.png",
       "actual": {
         "fmc": 27.932960510253906,
         "chlorophyll": 92.30000305175781,
@@ -2383,6 +2481,7 @@
         "leaf064d4_4.tif",
         "leaf064d4_5.tif"
       ],
+      "filename": "Olive_leaf064_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 87.9000015258789,
@@ -2407,6 +2506,7 @@
         "leaf017d0_4.tif",
         "leaf017d0_5.tif"
       ],
+      "filename": "Olive_leaf017_stage0.png",
       "actual": {
         "fmc": 124.19355010986328,
         "chlorophyll": 71.80000305175781,
@@ -2431,6 +2531,7 @@
         "leaf082d1_4.tif",
         "leaf082d1_5.tif"
       ],
+      "filename": "Olive_leaf082_stage1.png",
       "actual": {
         "fmc": 76.53631591796875,
         "chlorophyll": 84.0,
@@ -2455,6 +2556,7 @@
         "leaf050d3_4.tif",
         "leaf050d3_5.tif"
       ],
+      "filename": "Olive_leaf050_stage3.png",
       "actual": {
         "fmc": 10.489510536193848,
         "chlorophyll": 80.5,
@@ -2479,6 +2581,7 @@
         "leaf028d0_4.tif",
         "leaf028d0_5.tif"
       ],
+      "filename": "Olive_leaf028_stage0.png",
       "actual": {
         "fmc": 100.84745788574219,
         "chlorophyll": 72.4000015258789,
@@ -2503,6 +2606,7 @@
         "leaf050d2_4.tif",
         "leaf050d2_5.tif"
       ],
+      "filename": "Olive_leaf050_stage2.png",
       "actual": {
         "fmc": 33.56643295288086,
         "chlorophyll": 80.5,
@@ -2527,6 +2631,7 @@
         "leaf028d1_4.tif",
         "leaf028d1_5.tif"
       ],
+      "filename": "Olive_leaf028_stage1.png",
       "actual": {
         "fmc": 64.40677642822266,
         "chlorophyll": 87.80000305175781,
@@ -2551,6 +2656,7 @@
         "leaf015d4_4.tif",
         "leaf015d4_5.tif"
       ],
+      "filename": "Olive_leaf015_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 83.5999984741211,
@@ -2575,6 +2681,7 @@
         "leaf064d3_4.tif",
         "leaf064d3_5.tif"
       ],
+      "filename": "Olive_leaf064_stage3.png",
       "actual": {
         "fmc": 32.23684310913086,
         "chlorophyll": 80.30000305175781,
@@ -2599,6 +2706,7 @@
         "leaf082d0_4.tif",
         "leaf082d0_5.tif"
       ],
+      "filename": "Olive_leaf082_stage0.png",
       "actual": {
         "fmc": 110.6145248413086,
         "chlorophyll": 72.0999984741211,
@@ -2623,6 +2731,7 @@
         "leaf015d2_4.tif",
         "leaf015d2_5.tif"
       ],
+      "filename": "Olive_leaf015_stage2.png",
       "actual": {
         "fmc": 51.408451080322266,
         "chlorophyll": 88.19999694824219,
@@ -2647,6 +2756,7 @@
         "leaf099d1_4.tif",
         "leaf099d1_5.tif"
       ],
+      "filename": "Olive_leaf099_stage1.png",
       "actual": {
         "fmc": 98.08917236328125,
         "chlorophyll": 78.69999694824219,
@@ -2671,6 +2781,7 @@
         "leaf017d1_4.tif",
         "leaf017d1_5.tif"
       ],
+      "filename": "Olive_leaf017_stage1.png",
       "actual": {
         "fmc": 83.87096405029297,
         "chlorophyll": 85.69999694824219,
@@ -2695,6 +2806,7 @@
         "leaf050d4_4.tif",
         "leaf050d4_5.tif"
       ],
+      "filename": "Olive_leaf050_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 91.19999694824219,
@@ -2719,6 +2831,7 @@
         "leaf082d4_4.tif",
         "leaf082d4_5.tif"
       ],
+      "filename": "Olive_leaf082_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 92.69999694824219,
@@ -2743,6 +2856,7 @@
         "leaf099d3_4.tif",
         "leaf099d3_5.tif"
       ],
+      "filename": "Olive_leaf099_stage3.png",
       "actual": {
         "fmc": 28.66242027282715,
         "chlorophyll": 76.5999984741211,
@@ -2767,6 +2881,7 @@
         "leaf015d0_4.tif",
         "leaf015d0_5.tif"
       ],
+      "filename": "Olive_leaf015_stage0.png",
       "actual": {
         "fmc": 114.78873443603516,
         "chlorophyll": 73.0,
@@ -2791,6 +2906,7 @@
         "leaf064d1_4.tif",
         "leaf064d1_5.tif"
       ],
+      "filename": "Olive_leaf064_stage1.png",
       "actual": {
         "fmc": 95.39473724365234,
         "chlorophyll": 78.5,
@@ -2815,6 +2931,7 @@
         "leaf082d2_4.tif",
         "leaf082d2_5.tif"
       ],
+      "filename": "Olive_leaf082_stage2.png",
       "actual": {
         "fmc": 55.3072624206543,
         "chlorophyll": 85.4000015258789,
@@ -2839,6 +2956,7 @@
         "leaf050d0_4.tif",
         "leaf050d0_5.tif"
       ],
+      "filename": "Olive_leaf050_stage0.png",
       "actual": {
         "fmc": 102.79720306396484,
         "chlorophyll": 67.80000305175781,
@@ -2863,6 +2981,7 @@
         "leaf028d3_4.tif",
         "leaf028d3_5.tif"
       ],
+      "filename": "Olive_leaf028_stage3.png",
       "actual": {
         "fmc": 19.491525650024414,
         "chlorophyll": 82.5999984741211,
@@ -2887,6 +3006,7 @@
         "leaf017d3_4.tif",
         "leaf017d3_5.tif"
       ],
+      "filename": "Olive_leaf017_stage3.png",
       "actual": {
         "fmc": 28.225807189941406,
         "chlorophyll": 88.69999694824219,
@@ -2911,6 +3031,7 @@
         "leaf101d1_4.tif",
         "leaf101d1_5.tif"
       ],
+      "filename": "Olive_leaf101_stage1.png",
       "actual": {
         "fmc": 104.4871826171875,
         "chlorophyll": 76.0999984741211,
@@ -2935,6 +3056,7 @@
         "leaf069d1_4.tif",
         "leaf069d1_5.tif"
       ],
+      "filename": "Olive_leaf069_stage1.png",
       "actual": {
         "fmc": 80.98591613769531,
         "chlorophyll": 80.30000305175781,
@@ -2959,6 +3081,7 @@
         "leaf026d2_4.tif",
         "leaf026d2_5.tif"
       ],
+      "filename": "Olive_leaf026_stage2.png",
       "actual": {
         "fmc": 56.29138946533203,
         "chlorophyll": 80.80000305175781,
@@ -2983,6 +3106,7 @@
         "leaf035d3_4.tif",
         "leaf035d3_5.tif"
       ],
+      "filename": "Olive_leaf035_stage3.png",
       "actual": {
         "fmc": 9.91735553741455,
         "chlorophyll": 89.0999984741211,
@@ -3007,6 +3131,7 @@
         "leaf047d3_4.tif",
         "leaf047d3_5.tif"
       ],
+      "filename": "Olive_leaf047_stage3.png",
       "actual": {
         "fmc": 38.095237731933594,
         "chlorophyll": 82.69999694824219,
@@ -3031,6 +3156,7 @@
         "leaf046d1_4.tif",
         "leaf046d1_5.tif"
       ],
+      "filename": "Olive_leaf046_stage1.png",
       "actual": {
         "fmc": 76.74418640136719,
         "chlorophyll": 76.5,
@@ -3055,6 +3181,7 @@
         "leaf026d4_4.tif",
         "leaf026d4_5.tif"
       ],
+      "filename": "Olive_leaf026_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 81.0,
@@ -3079,6 +3206,7 @@
         "leaf055d0_4.tif",
         "leaf055d0_5.tif"
       ],
+      "filename": "Olive_leaf055_stage0.png",
       "actual": {
         "fmc": 117.532470703125,
         "chlorophyll": 64.80000305175781,
@@ -3103,6 +3231,7 @@
         "leaf046d3_4.tif",
         "leaf046d3_5.tif"
       ],
+      "filename": "Olive_leaf046_stage3.png",
       "actual": {
         "fmc": 10.852713584899902,
         "chlorophyll": 82.69999694824219,
@@ -3127,6 +3256,7 @@
         "leaf084d3_4.tif",
         "leaf084d3_5.tif"
       ],
+      "filename": "Olive_leaf084_stage3.png",
       "actual": {
         "fmc": 27.972028732299805,
         "chlorophyll": 85.30000305175781,
@@ -3151,6 +3281,7 @@
         "leaf071d1_4.tif",
         "leaf071d1_5.tif"
       ],
+      "filename": "Olive_leaf071_stage1.png",
       "actual": {
         "fmc": 82.08955383300781,
         "chlorophyll": 82.0,
@@ -3175,6 +3306,7 @@
         "leaf055d2_4.tif",
         "leaf055d2_5.tif"
       ],
+      "filename": "Olive_leaf055_stage2.png",
       "actual": {
         "fmc": 42.20779037475586,
         "chlorophyll": 79.30000305175781,
@@ -3199,6 +3331,7 @@
         "leaf084d1_4.tif",
         "leaf084d1_5.tif"
       ],
+      "filename": "Olive_leaf084_stage1.png",
       "actual": {
         "fmc": 83.21678161621094,
         "chlorophyll": 82.5999984741211,
@@ -3223,6 +3356,7 @@
         "leaf069d3_4.tif",
         "leaf069d3_5.tif"
       ],
+      "filename": "Olive_leaf069_stage3.png",
       "actual": {
         "fmc": 24.36619758605957,
         "chlorophyll": 81.9000015258789,
@@ -3247,6 +3381,7 @@
         "leaf101d3_4.tif",
         "leaf101d3_5.tif"
       ],
+      "filename": "Olive_leaf101_stage3.png",
       "actual": {
         "fmc": 30.769229888916016,
         "chlorophyll": 81.30000305175781,
@@ -3271,6 +3406,7 @@
         "leaf026d0_4.tif",
         "leaf026d0_5.tif"
       ],
+      "filename": "Olive_leaf026_stage0.png",
       "actual": {
         "fmc": 120.52980041503906,
         "chlorophyll": 69.9000015258789,
@@ -3295,6 +3431,7 @@
         "leaf055d4_4.tif",
         "leaf055d4_5.tif"
       ],
+      "filename": "Olive_leaf055_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 89.19999694824219,
@@ -3319,6 +3456,7 @@
         "leaf035d1_4.tif",
         "leaf035d1_5.tif"
       ],
+      "filename": "Olive_leaf035_stage1.png",
       "actual": {
         "fmc": 66.1156997680664,
         "chlorophyll": 81.30000305175781,
@@ -3343,6 +3481,7 @@
         "leaf071d3_4.tif",
         "leaf071d3_5.tif"
       ],
+      "filename": "Olive_leaf071_stage3.png",
       "actual": {
         "fmc": 24.62686538696289,
         "chlorophyll": 87.69999694824219,
@@ -3367,6 +3506,7 @@
         "leaf047d1_4.tif",
         "leaf047d1_5.tif"
       ],
+      "filename": "Olive_leaf047_stage1.png",
       "actual": {
         "fmc": 100.0,
         "chlorophyll": 79.4000015258789,
@@ -3391,6 +3531,7 @@
         "leaf046d2_4.tif",
         "leaf046d2_5.tif"
       ],
+      "filename": "Olive_leaf046_stage2.png",
       "actual": {
         "fmc": 37.20930099487305,
         "chlorophyll": 84.9000015258789,
@@ -3415,6 +3556,7 @@
         "leaf047d0_4.tif",
         "leaf047d0_5.tif"
       ],
+      "filename": "Olive_leaf047_stage0.png",
       "actual": {
         "fmc": 112.9251708984375,
         "chlorophyll": 66.80000305175781,
@@ -3439,6 +3581,7 @@
         "leaf084d2_4.tif",
         "leaf084d2_5.tif"
       ],
+      "filename": "Olive_leaf084_stage2.png",
       "actual": {
         "fmc": 58.74126052856445,
         "chlorophyll": 82.4000015258789,
@@ -3463,6 +3606,7 @@
         "leaf055d3_4.tif",
         "leaf055d3_5.tif"
       ],
+      "filename": "Olive_leaf055_stage3.png",
       "actual": {
         "fmc": 15.584415435791016,
         "chlorophyll": 79.5,
@@ -3487,6 +3631,7 @@
         "leaf101d4_4.tif",
         "leaf101d4_5.tif"
       ],
+      "filename": "Olive_leaf101_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 89.4000015258789,
@@ -3511,6 +3656,7 @@
         "leaf071d2_4.tif",
         "leaf071d2_5.tif"
       ],
+      "filename": "Olive_leaf071_stage2.png",
       "actual": {
         "fmc": 48.50746154785156,
         "chlorophyll": 80.9000015258789,
@@ -3535,6 +3681,7 @@
         "leaf069d4_4.tif",
         "leaf069d4_5.tif"
       ],
+      "filename": "Olive_leaf069_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 81.0999984741211,
@@ -3559,6 +3706,7 @@
         "leaf084d0_4.tif",
         "leaf084d0_5.tif"
       ],
+      "filename": "Olive_leaf084_stage0.png",
       "actual": {
         "fmc": 127.2727279663086,
         "chlorophyll": 69.5999984741211,
@@ -3583,6 +3731,7 @@
         "leaf035d4_4.tif",
         "leaf035d4_5.tif"
       ],
+      "filename": "Olive_leaf035_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 91.19999694824219,
@@ -3607,6 +3756,7 @@
         "leaf047d4_4.tif",
         "leaf047d4_5.tif"
       ],
+      "filename": "Olive_leaf047_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 90.4000015258789,
@@ -3631,6 +3781,7 @@
         "leaf069d2_4.tif",
         "leaf069d2_5.tif"
       ],
+      "filename": "Olive_leaf069_stage2.png",
       "actual": {
         "fmc": 47.18309783935547,
         "chlorophyll": 88.0999984741211,
@@ -3655,6 +3806,7 @@
         "leaf101d2_4.tif",
         "leaf101d2_5.tif"
       ],
+      "filename": "Olive_leaf101_stage2.png",
       "actual": {
         "fmc": 66.02564239501953,
         "chlorophyll": 79.0,
@@ -3679,6 +3831,7 @@
         "leaf071d4_4.tif",
         "leaf071d4_5.tif"
       ],
+      "filename": "Olive_leaf071_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 88.5,
@@ -3703,6 +3856,7 @@
         "leaf046d4_4.tif",
         "leaf046d4_5.tif"
       ],
+      "filename": "Olive_leaf046_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 88.4000015258789,
@@ -3727,6 +3881,7 @@
         "leaf069d0_4.tif",
         "leaf069d0_5.tif"
       ],
+      "filename": "Olive_leaf069_stage0.png",
       "actual": {
         "fmc": 112.67605590820312,
         "chlorophyll": 66.80000305175781,
@@ -3751,6 +3906,7 @@
         "leaf101d0_4.tif",
         "leaf101d0_5.tif"
       ],
+      "filename": "Olive_leaf101_stage0.png",
       "actual": {
         "fmc": 141.025634765625,
         "chlorophyll": 62.400001525878906,
@@ -3775,6 +3931,7 @@
         "leaf026d1_4.tif",
         "leaf026d1_5.tif"
       ],
+      "filename": "Olive_leaf026_stage1.png",
       "actual": {
         "fmc": 82.78145599365234,
         "chlorophyll": 82.19999694824219,
@@ -3799,6 +3956,7 @@
         "leaf035d0_4.tif",
         "leaf035d0_5.tif"
       ],
+      "filename": "Olive_leaf035_stage0.png",
       "actual": {
         "fmc": 103.3057861328125,
         "chlorophyll": 67.4000015258789,
@@ -3823,6 +3981,7 @@
         "leaf055d1_4.tif",
         "leaf055d1_5.tif"
       ],
+      "filename": "Olive_leaf055_stage1.png",
       "actual": {
         "fmc": 73.37662506103516,
         "chlorophyll": 76.9000015258789,
@@ -3847,6 +4006,7 @@
         "leaf046d0_4.tif",
         "leaf046d0_5.tif"
       ],
+      "filename": "Olive_leaf046_stage0.png",
       "actual": {
         "fmc": 138.7596893310547,
         "chlorophyll": 62.20000076293945,
@@ -3871,6 +4031,7 @@
         "leaf071d0_4.tif",
         "leaf071d0_5.tif"
       ],
+      "filename": "Olive_leaf071_stage0.png",
       "actual": {
         "fmc": 115.67163848876953,
         "chlorophyll": 72.0,
@@ -3895,6 +4056,7 @@
         "leaf047d2_4.tif",
         "leaf047d2_5.tif"
       ],
+      "filename": "Olive_leaf047_stage2.png",
       "actual": {
         "fmc": 68.02721405029297,
         "chlorophyll": 88.4000015258789,
@@ -3919,6 +4081,7 @@
         "leaf026d3_4.tif",
         "leaf026d3_5.tif"
       ],
+      "filename": "Olive_leaf026_stage3.png",
       "actual": {
         "fmc": 35.76158905029297,
         "chlorophyll": 84.80000305175781,
@@ -3943,6 +4106,7 @@
         "leaf035d2_4.tif",
         "leaf035d2_5.tif"
       ],
+      "filename": "Olive_leaf035_stage2.png",
       "actual": {
         "fmc": 36.3636360168457,
         "chlorophyll": 82.0,
@@ -3967,6 +4131,7 @@
         "leaf084d4_4.tif",
         "leaf084d4_5.tif"
       ],
+      "filename": "Olive_leaf084_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 89.5,
@@ -3991,6 +4156,7 @@
         "leaf017d2_4.tif",
         "leaf017d2_5.tif"
       ],
+      "filename": "Vineyard_leaf017_stage2.png",
       "actual": {
         "fmc": 124.51612854003906,
         "chlorophyll": 29.799999237060547,
@@ -4015,6 +4181,7 @@
         "leaf052d4_4.tif",
         "leaf052d4_5.tif"
       ],
+      "filename": "Vineyard_leaf052_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 22.200000762939453,
@@ -4039,6 +4206,7 @@
         "leaf028d4_4.tif",
         "leaf028d4_5.tif"
       ],
+      "filename": "Vineyard_leaf028_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 35.0,
@@ -4063,6 +4231,7 @@
         "leaf052d2_4.tif",
         "leaf052d2_5.tif"
       ],
+      "filename": "Vineyard_leaf052_stage2.png",
       "actual": {
         "fmc": 113.91666412353516,
         "chlorophyll": 27.200000762939453,
@@ -4087,6 +4256,7 @@
         "leaf074d2_4.tif",
         "leaf074d2_5.tif"
       ],
+      "filename": "Vineyard_leaf074_stage2.png",
       "actual": {
         "fmc": 102.23175811767578,
         "chlorophyll": 27.0,
@@ -4111,6 +4281,7 @@
         "leaf051d3_4.tif",
         "leaf051d3_5.tif"
       ],
+      "filename": "Vineyard_leaf051_stage3.png",
       "actual": {
         "fmc": 107.41024017333984,
         "chlorophyll": 45.70000076293945,
@@ -4135,6 +4306,7 @@
         "leaf028d2_4.tif",
         "leaf028d2_5.tif"
       ],
+      "filename": "Vineyard_leaf028_stage2.png",
       "actual": {
         "fmc": 122.04878234863281,
         "chlorophyll": 32.29999923706055,
@@ -4159,6 +4331,7 @@
         "leaf039d0_4.tif",
         "leaf039d0_5.tif"
       ],
+      "filename": "Vineyard_leaf039_stage0.png",
       "actual": {
         "fmc": 298.125,
         "chlorophyll": 24.600000381469727,
@@ -4183,6 +4356,7 @@
         "leaf052d0_4.tif",
         "leaf052d0_5.tif"
       ],
+      "filename": "Vineyard_leaf052_stage0.png",
       "actual": {
         "fmc": 227.6666717529297,
         "chlorophyll": 26.700000762939453,
@@ -4207,6 +4381,7 @@
         "leaf074d0_4.tif",
         "leaf074d0_5.tif"
       ],
+      "filename": "Vineyard_leaf074_stage0.png",
       "actual": {
         "fmc": 202.06008911132812,
         "chlorophyll": 31.700000762939453,
@@ -4231,6 +4406,7 @@
         "leaf090d0_4.tif",
         "leaf090d0_5.tif"
       ],
+      "filename": "Vineyard_leaf090_stage0.png",
       "actual": {
         "fmc": 267.7372131347656,
         "chlorophyll": 24.799999237060547,
@@ -4255,6 +4431,7 @@
         "leaf051d1_4.tif",
         "leaf051d1_5.tif"
       ],
+      "filename": "Vineyard_leaf051_stage1.png",
       "actual": {
         "fmc": 162.33766174316406,
         "chlorophyll": 44.70000076293945,
@@ -4279,6 +4456,7 @@
         "leaf017d4_4.tif",
         "leaf017d4_5.tif"
       ],
+      "filename": "Vineyard_leaf017_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 47.400001525878906,
@@ -4303,6 +4481,7 @@
         "leaf039d2_4.tif",
         "leaf039d2_5.tif"
       ],
+      "filename": "Vineyard_leaf039_stage2.png",
       "actual": {
         "fmc": 111.25,
         "chlorophyll": 25.399999618530273,
@@ -4327,6 +4506,7 @@
         "leaf090d2_4.tif",
         "leaf090d2_5.tif"
       ],
+      "filename": "Vineyard_leaf090_stage2.png",
       "actual": {
         "fmc": 149.3430633544922,
         "chlorophyll": 29.5,
@@ -4351,6 +4531,7 @@
         "leaf039d4_4.tif",
         "leaf039d4_5.tif"
       ],
+      "filename": "Vineyard_leaf039_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 42.70000076293945,
@@ -4375,6 +4556,7 @@
         "leaf074d4_4.tif",
         "leaf074d4_5.tif"
       ],
+      "filename": "Vineyard_leaf074_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 37.29999923706055,
@@ -4399,6 +4581,7 @@
         "leaf090d4_4.tif",
         "leaf090d4_5.tif"
       ],
+      "filename": "Vineyard_leaf090_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 46.599998474121094,
@@ -4423,6 +4606,7 @@
         "leaf017d0_4.tif",
         "leaf017d0_5.tif"
       ],
+      "filename": "Vineyard_leaf017_stage0.png",
       "actual": {
         "fmc": 289.67742919921875,
         "chlorophyll": 24.399999618530273,
@@ -4447,6 +4631,7 @@
         "leaf028d0_4.tif",
         "leaf028d0_5.tif"
       ],
+      "filename": "Vineyard_leaf028_stage0.png",
       "actual": {
         "fmc": 243.7073211669922,
         "chlorophyll": 28.799999237060547,
@@ -4471,6 +4656,7 @@
         "leaf052d1_4.tif",
         "leaf052d1_5.tif"
       ],
+      "filename": "Vineyard_leaf052_stage1.png",
       "actual": {
         "fmc": 161.5,
         "chlorophyll": 27.200000762939453,
@@ -4495,6 +4681,7 @@
         "leaf090d1_4.tif",
         "leaf090d1_5.tif"
       ],
+      "filename": "Vineyard_leaf090_stage1.png",
       "actual": {
         "fmc": 201.7518310546875,
         "chlorophyll": 29.600000381469727,
@@ -4519,6 +4706,7 @@
         "leaf051d0_4.tif",
         "leaf051d0_5.tif"
       ],
+      "filename": "Vineyard_leaf051_stage0.png",
       "actual": {
         "fmc": 206.72268676757812,
         "chlorophyll": 40.79999923706055,
@@ -4543,6 +4731,7 @@
         "leaf039d3_4.tif",
         "leaf039d3_5.tif"
       ],
+      "filename": "Vineyard_leaf039_stage3.png",
       "actual": {
         "fmc": 48.33333206176758,
         "chlorophyll": 30.100000381469727,
@@ -4567,6 +4756,7 @@
         "leaf028d1_4.tif",
         "leaf028d1_5.tif"
       ],
+      "filename": "Vineyard_leaf028_stage1.png",
       "actual": {
         "fmc": 171.31707763671875,
         "chlorophyll": 29.700000762939453,
@@ -4591,6 +4781,7 @@
         "leaf090d3_4.tif",
         "leaf090d3_5.tif"
       ],
+      "filename": "Vineyard_leaf090_stage3.png",
       "actual": {
         "fmc": 101.75182342529297,
         "chlorophyll": 30.700000762939453,
@@ -4615,6 +4806,7 @@
         "leaf074d3_4.tif",
         "leaf074d3_5.tif"
       ],
+      "filename": "Vineyard_leaf074_stage3.png",
       "actual": {
         "fmc": 66.3519287109375,
         "chlorophyll": 32.599998474121094,
@@ -4639,6 +4831,7 @@
         "leaf039d1_4.tif",
         "leaf039d1_5.tif"
       ],
+      "filename": "Vineyard_leaf039_stage1.png",
       "actual": {
         "fmc": 196.6666717529297,
         "chlorophyll": 24.600000381469727,
@@ -4663,6 +4856,7 @@
         "leaf017d1_4.tif",
         "leaf017d1_5.tif"
       ],
+      "filename": "Vineyard_leaf017_stage1.png",
       "actual": {
         "fmc": 204.83871459960938,
         "chlorophyll": 28.299999237060547,
@@ -4687,6 +4881,7 @@
         "leaf051d2_4.tif",
         "leaf051d2_5.tif"
       ],
+      "filename": "Vineyard_leaf051_stage2.png",
       "actual": {
         "fmc": 135.2177276611328,
         "chlorophyll": 45.29999923706055,
@@ -4711,6 +4906,7 @@
         "leaf052d3_4.tif",
         "leaf052d3_5.tif"
       ],
+      "filename": "Vineyard_leaf052_stage3.png",
       "actual": {
         "fmc": 65.33333587646484,
         "chlorophyll": 31.600000381469727,
@@ -4735,6 +4931,7 @@
         "leaf074d1_4.tif",
         "leaf074d1_5.tif"
       ],
+      "filename": "Vineyard_leaf074_stage1.png",
       "actual": {
         "fmc": 141.54505920410156,
         "chlorophyll": 29.600000381469727,
@@ -4759,6 +4956,7 @@
         "leaf028d3_4.tif",
         "leaf028d3_5.tif"
       ],
+      "filename": "Vineyard_leaf028_stage3.png",
       "actual": {
         "fmc": 76.09756469726562,
         "chlorophyll": 33.599998474121094,
@@ -4783,6 +4981,7 @@
         "leaf051d4_4.tif",
         "leaf051d4_5.tif"
       ],
+      "filename": "Vineyard_leaf051_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 23.600000381469727,
@@ -4807,6 +5006,7 @@
         "leaf017d3_4.tif",
         "leaf017d3_5.tif"
       ],
+      "filename": "Vineyard_leaf017_stage3.png",
       "actual": {
         "fmc": 41.6129035949707,
         "chlorophyll": 28.799999237060547,
@@ -4831,6 +5031,7 @@
         "leaf063d4_4.tif",
         "leaf063d4_5.tif"
       ],
+      "filename": "Vineyard_leaf063_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 48.5,
@@ -4855,6 +5056,7 @@
         "leaf024d3_4.tif",
         "leaf024d3_5.tif"
       ],
+      "filename": "Vineyard_leaf024_stage3.png",
       "actual": {
         "fmc": 58.70307159423828,
         "chlorophyll": 34.900001525878906,
@@ -4879,6 +5081,7 @@
         "leaf026d2_4.tif",
         "leaf026d2_5.tif"
       ],
+      "filename": "Vineyard_leaf026_stage2.png",
       "actual": {
         "fmc": 129.39666748046875,
         "chlorophyll": 30.200000762939453,
@@ -4903,6 +5106,7 @@
         "leaf036d2_4.tif",
         "leaf036d2_5.tif"
       ],
+      "filename": "Vineyard_leaf036_stage2.png",
       "actual": {
         "fmc": 126.58349609375,
         "chlorophyll": 32.0,
@@ -4927,6 +5131,7 @@
         "leaf044d4_4.tif",
         "leaf044d4_5.tif"
       ],
+      "filename": "Vineyard_leaf044_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 33.900001525878906,
@@ -4951,6 +5156,7 @@
         "leaf024d1_4.tif",
         "leaf024d1_5.tif"
       ],
+      "filename": "Vineyard_leaf024_stage1.png",
       "actual": {
         "fmc": 178.15699768066406,
         "chlorophyll": 32.099998474121094,
@@ -4975,6 +5181,7 @@
         "leaf036d4_4.tif",
         "leaf036d4_5.tif"
       ],
+      "filename": "Vineyard_leaf036_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 30.5,
@@ -4999,6 +5206,7 @@
         "leaf026d4_4.tif",
         "leaf026d4_5.tif"
       ],
+      "filename": "Vineyard_leaf026_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 39.599998474121094,
@@ -5023,6 +5231,7 @@
         "leaf044d2_4.tif",
         "leaf044d2_5.tif"
       ],
+      "filename": "Vineyard_leaf044_stage2.png",
       "actual": {
         "fmc": 123.64865112304688,
         "chlorophyll": 37.400001525878906,
@@ -5047,6 +5256,7 @@
         "leaf055d0_4.tif",
         "leaf055d0_5.tif"
       ],
+      "filename": "Vineyard_leaf055_stage0.png",
       "actual": {
         "fmc": 205.8402862548828,
         "chlorophyll": 40.79999923706055,
@@ -5071,6 +5281,7 @@
         "leaf063d0_4.tif",
         "leaf063d0_5.tif"
       ],
+      "filename": "Vineyard_leaf063_stage0.png",
       "actual": {
         "fmc": 227.55474853515625,
         "chlorophyll": 37.29999923706055,
@@ -5095,6 +5306,7 @@
         "leaf018d0_4.tif",
         "leaf018d0_5.tif"
       ],
+      "filename": "Vineyard_leaf018_stage0.png",
       "actual": {
         "fmc": 219.9261932373047,
         "chlorophyll": 31.0,
@@ -5119,6 +5331,7 @@
         "leaf095d1_4.tif",
         "leaf095d1_5.tif"
       ],
+      "filename": "Vineyard_leaf095_stage1.png",
       "actual": {
         "fmc": 202.7971954345703,
         "chlorophyll": 25.299999237060547,
@@ -5143,6 +5356,7 @@
         "leaf055d2_4.tif",
         "leaf055d2_5.tif"
       ],
+      "filename": "Vineyard_leaf055_stage2.png",
       "actual": {
         "fmc": 126.46006774902344,
         "chlorophyll": 38.0,
@@ -5167,6 +5381,7 @@
         "leaf063d2_4.tif",
         "leaf063d2_5.tif"
       ],
+      "filename": "Vineyard_leaf063_stage2.png",
       "actual": {
         "fmc": 104.74452209472656,
         "chlorophyll": 37.70000076293945,
@@ -5191,6 +5406,7 @@
         "leaf018d2_4.tif",
         "leaf018d2_5.tif"
       ],
+      "filename": "Vineyard_leaf018_stage2.png",
       "actual": {
         "fmc": 119.28044128417969,
         "chlorophyll": 28.200000762939453,
@@ -5215,6 +5431,7 @@
         "leaf036d0_4.tif",
         "leaf036d0_5.tif"
       ],
+      "filename": "Vineyard_leaf036_stage0.png",
       "actual": {
         "fmc": 218.52207946777344,
         "chlorophyll": 33.20000076293945,
@@ -5239,6 +5456,7 @@
         "leaf026d0_4.tif",
         "leaf026d0_5.tif"
       ],
+      "filename": "Vineyard_leaf026_stage0.png",
       "actual": {
         "fmc": 253.65853881835938,
         "chlorophyll": 27.600000381469727,
@@ -5263,6 +5481,7 @@
         "leaf055d4_4.tif",
         "leaf055d4_5.tif"
       ],
+      "filename": "Vineyard_leaf055_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 22.200000762939453,
@@ -5287,6 +5506,7 @@
         "leaf018d4_4.tif",
         "leaf018d4_5.tif"
       ],
+      "filename": "Vineyard_leaf018_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 38.900001525878906,
@@ -5311,6 +5531,7 @@
         "leaf095d3_4.tif",
         "leaf095d3_5.tif"
       ],
+      "filename": "Vineyard_leaf095_stage3.png",
       "actual": {
         "fmc": 84.44055938720703,
         "chlorophyll": 27.600000381469727,
@@ -5335,6 +5556,7 @@
         "leaf044d0_4.tif",
         "leaf044d0_5.tif"
       ],
+      "filename": "Vineyard_leaf044_stage0.png",
       "actual": {
         "fmc": 241.1317596435547,
         "chlorophyll": 41.70000076293945,
@@ -5359,6 +5581,7 @@
         "leaf018d1_4.tif",
         "leaf018d1_5.tif"
       ],
+      "filename": "Vineyard_leaf018_stage1.png",
       "actual": {
         "fmc": 180.62730407714844,
         "chlorophyll": 26.700000762939453,
@@ -5383,6 +5606,7 @@
         "leaf055d3_4.tif",
         "leaf055d3_5.tif"
       ],
+      "filename": "Vineyard_leaf055_stage3.png",
       "actual": {
         "fmc": 92.72943878173828,
         "chlorophyll": 37.0,
@@ -5407,6 +5631,7 @@
         "leaf044d1_4.tif",
         "leaf044d1_5.tif"
       ],
+      "filename": "Vineyard_leaf044_stage1.png",
       "actual": {
         "fmc": 170.86148071289062,
         "chlorophyll": 36.70000076293945,
@@ -5431,6 +5656,7 @@
         "leaf024d4_4.tif",
         "leaf024d4_5.tif"
       ],
+      "filename": "Vineyard_leaf024_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 49.5,
@@ -5455,6 +5681,7 @@
         "leaf018d3_4.tif",
         "leaf018d3_5.tif"
       ],
+      "filename": "Vineyard_leaf018_stage3.png",
       "actual": {
         "fmc": 109.50184631347656,
         "chlorophyll": 32.400001525878906,
@@ -5479,6 +5706,7 @@
         "leaf095d2_4.tif",
         "leaf095d2_5.tif"
       ],
+      "filename": "Vineyard_leaf095_stage2.png",
       "actual": {
         "fmc": 142.48251342773438,
         "chlorophyll": 27.0,
@@ -5503,6 +5731,7 @@
         "leaf063d1_4.tif",
         "leaf063d1_5.tif"
       ],
+      "filename": "Vineyard_leaf063_stage1.png",
       "actual": {
         "fmc": 159.48904418945312,
         "chlorophyll": 34.599998474121094,
@@ -5527,6 +5756,7 @@
         "leaf095d4_4.tif",
         "leaf095d4_5.tif"
       ],
+      "filename": "Vineyard_leaf095_stage4.png",
       "actual": {
         "fmc": 0.0,
         "chlorophyll": 54.20000076293945,
@@ -5551,6 +5781,7 @@
         "leaf036d1_4.tif",
         "leaf036d1_5.tif"
       ],
+      "filename": "Vineyard_leaf036_stage1.png",
       "actual": {
         "fmc": 167.08253479003906,
         "chlorophyll": 33.0,
@@ -5575,6 +5806,7 @@
         "leaf026d1_4.tif",
         "leaf026d1_5.tif"
       ],
+      "filename": "Vineyard_leaf026_stage1.png",
       "actual": {
         "fmc": 178.17715454101562,
         "chlorophyll": 27.200000762939453,
@@ -5599,6 +5831,7 @@
         "leaf024d2_4.tif",
         "leaf024d2_5.tif"
       ],
+      "filename": "Vineyard_leaf024_stage2.png",
       "actual": {
         "fmc": 115.52900695800781,
         "chlorophyll": 32.79999923706055,
@@ -5623,6 +5856,7 @@
         "leaf024d0_4.tif",
         "leaf024d0_5.tif"
       ],
+      "filename": "Vineyard_leaf024_stage0.png",
       "actual": {
         "fmc": 263.6518859863281,
         "chlorophyll": 32.20000076293945,
@@ -5647,6 +5881,7 @@
         "leaf055d1_4.tif",
         "leaf055d1_5.tif"
       ],
+      "filename": "Vineyard_leaf055_stage1.png",
       "actual": {
         "fmc": 157.68772888183594,
         "chlorophyll": 34.0,
@@ -5671,6 +5906,7 @@
         "leaf063d3_4.tif",
         "leaf063d3_5.tif"
       ],
+      "filename": "Vineyard_leaf063_stage3.png",
       "actual": {
         "fmc": 50.18247985839844,
         "chlorophyll": 37.29999923706055,
@@ -5695,6 +5931,7 @@
         "leaf095d0_4.tif",
         "leaf095d0_5.tif"
       ],
+      "filename": "Vineyard_leaf095_stage0.png",
       "actual": {
         "fmc": 291.9580383300781,
         "chlorophyll": 27.899999618530273,
@@ -5719,6 +5956,7 @@
         "leaf044d3_4.tif",
         "leaf044d3_5.tif"
       ],
+      "filename": "Vineyard_leaf044_stage3.png",
       "actual": {
         "fmc": 80.65878295898438,
         "chlorophyll": 39.099998474121094,
@@ -5743,6 +5981,7 @@
         "leaf026d3_4.tif",
         "leaf026d3_5.tif"
       ],
+      "filename": "Vineyard_leaf026_stage3.png",
       "actual": {
         "fmc": 83.4403076171875,
         "chlorophyll": 29.0,
@@ -5767,6 +6006,7 @@
         "leaf036d3_4.tif",
         "leaf036d3_5.tif"
       ],
+      "filename": "Vineyard_leaf036_stage3.png",
       "actual": {
         "fmc": 89.15547180175781,
         "chlorophyll": 33.20000076293945,
